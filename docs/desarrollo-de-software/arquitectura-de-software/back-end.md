@@ -18,4 +18,4 @@ Desarrollo de Software
 Arquitectura de Software
 
 **Términos relacionados:**  
-[Front-end](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/arquitectura-de-software/front-end.html), [Full-stack](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/arquitectura-de-software/full-stack.html)
+Front-end, Full-stack

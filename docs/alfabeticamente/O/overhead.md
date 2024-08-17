@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Overhead
-nav_order: 17
+nav_order: 7
 parent: O
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Arquitectura de Software
 Optimización
 
 **Términos relacionados:**  
-[Caché](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cach.html), [Middleware](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/middleware.html)
+Caché, Middleware

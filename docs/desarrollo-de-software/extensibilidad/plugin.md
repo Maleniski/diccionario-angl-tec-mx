@@ -18,4 +18,4 @@ Desarrollo de Software
 Extensibilidad
 
 **Términos relacionados:**  
-[Framework](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/extensibilidad/framework.html), [Git](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/extensibilidad/git.html)
+Framework, Git

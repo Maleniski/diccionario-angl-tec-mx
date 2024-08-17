@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Framework](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/framework.html), [Bootstrap](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/bootstrap.html)
+Framework, Bootstrap

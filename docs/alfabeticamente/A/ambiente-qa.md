@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ambiente QA
-nav_order: 4
+nav_order: 6
 parent: A
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ DevOps
 Testing
 
 **Términos relacionados:**  
-[Ambiente Dev](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-dev.html), [Ambiente Prod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-prod.html)
+Ambiente Dev, Ambiente Prod

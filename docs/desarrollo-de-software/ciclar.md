@@ -17,4 +17,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Codear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/codear.html), [Scrappear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/scrappear.html)
+Codear, Scrappear

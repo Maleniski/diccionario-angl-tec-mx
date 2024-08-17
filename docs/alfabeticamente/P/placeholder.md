@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Placeholder
-nav_order: 15
+nav_order: 4
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Dummy](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dummy.html), [Hardcoding](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/H/hardcoding.html)
+Dummy, Hardcoding

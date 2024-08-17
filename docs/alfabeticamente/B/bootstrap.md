@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bootstrap
-nav_order: 7
+nav_order: 8
 parent: B
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 Framework
 
 **Términos relacionados:**  
-[Framework](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/framework.html), [UX/UI](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/U/uxui.html)
+Framework, UX/UI

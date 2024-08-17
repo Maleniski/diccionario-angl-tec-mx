@@ -18,4 +18,4 @@ DevOps
 CI/CD
 
 **Términos relacionados:**  
-[Integrar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/ci/cd/integrar.html), [Desplegar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/ci/cd/desplegar.html)
+Integrar, Desplegar

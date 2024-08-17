@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Normalización, Estandarización
-nav_order: 12
+nav_order: 3
 parent: N
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Homologación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/H/homologacin.html), [Imputación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/I/imputacin.html)
+Homologación, Imputación

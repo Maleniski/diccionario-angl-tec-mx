@@ -17,4 +17,4 @@ Metodologías Ágiles
 
 
 **Términos relacionados:**  
-[Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/metodologías-ágiles/sprint.html), [Spike](https://maleniski.github.io/diccionario-angl-tec-mx/docs/metodologías-ágiles/spike.html)
+Sprint, Spike

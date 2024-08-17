@@ -18,4 +18,4 @@ Arquitectura de Software
 Optimización
 
 **Términos relacionados:**  
-[Caché](https://maleniski.github.io/diccionario-angl-tec-mx/docs/arquitectura-de-software/optimización/cach.html), [Middleware](https://maleniski.github.io/diccionario-angl-tec-mx/docs/arquitectura-de-software/optimización/middleware.html)
+Caché, Middleware

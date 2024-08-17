@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Desplegar, deployar
-nav_order: 11
+nav_order: 10
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 DevOps
 
 **Términos relacionados:**  
-[DevOps](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/devops.html), [Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pipeline.html)
+DevOps, Pipeline

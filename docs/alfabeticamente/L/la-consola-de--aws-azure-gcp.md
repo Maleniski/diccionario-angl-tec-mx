@@ -1,7 +1,7 @@
 ---
 layout: default
 title: La consola de ... (AWS, AZURE, GCP)
-nav_order: 9
+nav_order: 2
 parent: L
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Cloud Computing
 
 
 **Términos relacionados:**  
-[VM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vm.html), [VPC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vpc.html)
+VM, VPC

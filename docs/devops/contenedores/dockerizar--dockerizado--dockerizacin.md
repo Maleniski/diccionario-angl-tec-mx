@@ -18,4 +18,4 @@ DevOps
 Contenedores
 
 **Términos relacionados:**  
-[Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/contenedores/contenedor.html), [Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/contenedores/pod.html)
+Contenedor, Pod

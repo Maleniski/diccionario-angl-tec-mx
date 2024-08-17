@@ -17,4 +17,4 @@ Coloquialismo
 
 
 **Términos relacionados:**  
-[Bomberazo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/coloquialismo/bomberazo.html), [Mods](https://maleniski.github.io/diccionario-angl-tec-mx/docs/coloquialismo/mods.html)
+Bomberazo, Mods

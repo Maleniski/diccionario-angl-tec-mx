@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Microservicio
-nav_order: 13
+nav_order: 5
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Arquitectura de Software
 
 
 **Términos relacionados:**  
-[Enterprise](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/enterprise.html), [Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/contenedor.html)
+Enterprise, Contenedor

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: On premise
-nav_order: 12
+nav_order: 2
 parent: O
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Arquitectura de Software
 
 
 **Términos relacionados:**  
-[Microservicio](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/microservicio.html), [Enterprise](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/enterprise.html)
+Microservicio, Enterprise

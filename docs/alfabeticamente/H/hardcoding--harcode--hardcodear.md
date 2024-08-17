@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hardcoding / Harcode / Hardcodear
-nav_order: 8
+nav_order: 3
 parent: H
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Placeholder](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/placeholder.html), [Programaticamente](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/programaticamente.html)
+Placeholder, Programaticamente

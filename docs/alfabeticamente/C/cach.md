@@ -18,4 +18,4 @@ Optimización
 Arquitectura de Software
 
 **Términos relacionados:**  
-[Overhead](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/O/overhead.html), [Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pipeline.html)
+Overhead, Pipeline

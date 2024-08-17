@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stopper
-nav_order: 23
+nav_order: 11
 parent: S
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Metodologías Ágiles
 
 
 **Términos relacionados:**  
-[Blocker](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/B/blocker.html), [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/sprint.html)
+Blocker, Sprint

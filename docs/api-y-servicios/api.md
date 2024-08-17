@@ -17,4 +17,4 @@ API y Servicios
 
 
 **Términos relacionados:**  
-[Endpoint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/api-y-servicios/endpoint.html), [Middleware](https://maleniski.github.io/diccionario-angl-tec-mx/docs/api-y-servicios/middleware.html)
+Endpoint, Middleware

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ftp
-nav_order: 10
+nav_order: 7
 parent: F
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 Redes
 
 **Términos relacionados:**  
-[VM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vm.html), [VPN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vpn.html)
+VM, VPN

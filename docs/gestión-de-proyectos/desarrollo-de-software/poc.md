@@ -18,4 +18,4 @@ Gestión de Proyectos
 Desarrollo de Software
 
 **Términos relacionados:**  
-[MVP](https://maleniski.github.io/diccionario-angl-tec-mx/docs/gestión-de-proyectos/desarrollo-de-software/mvp.html), [Spike](https://maleniski.github.io/diccionario-angl-tec-mx/docs/gestión-de-proyectos/desarrollo-de-software/spike.html)
+MVP, Spike

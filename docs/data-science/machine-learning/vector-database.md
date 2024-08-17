@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Feature Store](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/feature-store.html), [Hiperparámetros](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/hiperparmetros.html)
+Feature Store, Hiperparámetros

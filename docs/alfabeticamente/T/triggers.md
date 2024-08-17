@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Triggers
-nav_order: 17
+nav_order: 4
 parent: T
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Bases de Datos
 
 
 **Términos relacionados:**  
-[SP](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/sp.html), [Primary](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/primary.html), [Foreign keys](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/foreign-keys.html)
+SP, Primary, Foreign keys

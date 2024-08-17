@@ -17,4 +17,4 @@ Metodologías Ágiles
 
 
 **Términos relacionados:**  
-[Blocker](https://maleniski.github.io/diccionario-angl-tec-mx/docs/metodologías-ágiles/blocker.html), [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/metodologías-ágiles/sprint.html)
+Blocker, Sprint

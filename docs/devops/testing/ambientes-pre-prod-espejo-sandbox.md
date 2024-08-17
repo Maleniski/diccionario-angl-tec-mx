@@ -18,4 +18,4 @@ DevOps
 Testing
 
 **Términos relacionados:**  
-[Ambiente QA](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/testing/ambiente-qa.html), [Ambiente Dev](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/testing/ambiente-dev.html)
+Ambiente QA, Ambiente Dev

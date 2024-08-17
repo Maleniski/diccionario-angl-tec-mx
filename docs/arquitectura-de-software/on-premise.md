@@ -17,4 +17,4 @@ Arquitectura de Software
 
 
 **Términos relacionados:**  
-[Microservicio](https://maleniski.github.io/diccionario-angl-tec-mx/docs/arquitectura-de-software/microservicio.html), [Enterprise](https://maleniski.github.io/diccionario-angl-tec-mx/docs/arquitectura-de-software/enterprise.html)
+Microservicio, Enterprise

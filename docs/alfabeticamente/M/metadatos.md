@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metadatos
-nav_order: 12
+nav_order: 4
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Bases de Datos
 Data Science
 
 **Términos relacionados:**  
-[Diccionario de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/diccionario-de-datos.html), [Dataset](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dataset.html)
+Diccionario de datos, Dataset

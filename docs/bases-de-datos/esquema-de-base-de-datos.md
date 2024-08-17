@@ -17,4 +17,4 @@ Bases de Datos
 
 
 **Términos relacionados:**  
-[Base de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/base-de-datos.html), [Diccionario de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/diccionario-de-datos.html)
+Base de datos, Diccionario de datos

@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Precisión](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/precisin.html), [F-Score](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/f-score.html)
+Precisión, F-Score

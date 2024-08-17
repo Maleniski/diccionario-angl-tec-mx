@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Lakehouse
-nav_order: 6
+nav_order: 5
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Bases de Datos
 Almacenamiento
 
 **Términos relacionados:**  
-[Data Lake](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/data-lake.html), [ETL](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/etl.html)
+Data Lake, ETL

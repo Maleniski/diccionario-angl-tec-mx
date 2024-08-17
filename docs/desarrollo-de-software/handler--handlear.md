@@ -17,4 +17,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Middleware](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/middleware.html), [API](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/api.html)
+Middleware, API

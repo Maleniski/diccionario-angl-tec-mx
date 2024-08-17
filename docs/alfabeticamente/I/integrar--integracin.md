@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Integrar / integración
-nav_order: 12
+nav_order: 6
 parent: I
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 DevOps
 
 **Términos relacionados:**  
-[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pipeline.html), [Microservicio](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/microservicio.html)
+Pipeline, Microservicio

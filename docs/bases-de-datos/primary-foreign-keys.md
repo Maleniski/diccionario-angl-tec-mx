@@ -17,4 +17,4 @@ Bases de Datos
 
 
 **Términos relacionados:**  
-[Triggers](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/triggers.html), [Esquema de Base de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/esquema-de-base-de-datos.html)
+Triggers, Esquema de Base de datos

@@ -17,4 +17,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Syntactic Sugar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/syntactic-sugar.html), [Wildcard](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/wildcard.html)
+Syntactic Sugar, Wildcard

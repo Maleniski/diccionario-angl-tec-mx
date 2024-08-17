@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Causalidad](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/causalidad.html), [Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/clustering.html)
+Causalidad, Clustering

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hiperparámetros
-nav_order: 10
+nav_order: 5
 parent: H
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Ensamble](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/ensamble.html), [Imputación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/I/imputacin.html)
+Ensamble, Imputación

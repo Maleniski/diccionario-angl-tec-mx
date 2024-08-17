@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Minuta / minuteando
-nav_order: 16
+nav_order: 8
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Coloquialismo
 
 
 **Términos relacionados:**  
-[Daily](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/daily.html), [Weekly](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/W/weekly.html)
+Daily, Weekly

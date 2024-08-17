@@ -17,4 +17,4 @@ Gestión de Proyectos
 
 
 **Términos relacionados:**  
-[PM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/gestión-de-proyectos/pm.html), [Stakeholders](https://maleniski.github.io/diccionario-angl-tec-mx/docs/gestión-de-proyectos/stakeholders.html)
+PM, Stakeholders

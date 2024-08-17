@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Operador morsa
-nav_order: 13
+nav_order: 3
 parent: O
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Syntactic Sugar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/syntactic-sugar.html), [Wildcard](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/W/wildcard.html)
+Syntactic Sugar, Wildcard

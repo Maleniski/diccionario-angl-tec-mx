@@ -17,4 +17,4 @@ Coloquialismo
 
 
 **Términos relacionados:**  
-[Daily](https://maleniski.github.io/diccionario-angl-tec-mx/docs/coloquialismo/daily.html), [Weekly](https://maleniski.github.io/diccionario-angl-tec-mx/docs/coloquialismo/weekly.html)
+Daily, Weekly

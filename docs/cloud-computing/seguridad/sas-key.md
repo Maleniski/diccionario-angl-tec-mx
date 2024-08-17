@@ -18,4 +18,4 @@ Cloud Computing
 Seguridad
 
 **Términos relacionados:**  
-[VM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/cloud-computing/seguridad/vm.html), [VPN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/cloud-computing/seguridad/vpn.html)
+VM, VPN

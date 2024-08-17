@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SLA
-nav_order: 18
+nav_order: 6
 parent: S
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Acuerdo de Nivel de Servicio
 
 
 **Términos relacionados:**  
-[Endpoint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/endpoint.html), [API](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/api.html)
+Endpoint, API

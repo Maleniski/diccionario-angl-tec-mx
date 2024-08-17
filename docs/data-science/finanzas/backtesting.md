@@ -18,4 +18,4 @@ Data Science
 Finanzas
 
 **Términos relacionados:**  
-[Forecasting](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/finanzas/forecasting.html), [Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/finanzas/clustering.html)
+Forecasting, Clustering

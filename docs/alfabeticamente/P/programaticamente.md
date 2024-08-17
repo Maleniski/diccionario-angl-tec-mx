@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Programaticamente
-nav_order: 22
+nav_order: 11
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Codear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/codear.html), [Hardcoding](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/H/hardcoding.html)
+Codear, Hardcoding

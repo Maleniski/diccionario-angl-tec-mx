@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mods
-nav_order: 19
+nav_order: 11
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Coloquialismo
 Desarrollo de Software
 
 **Términos relacionados:**  
-[Bomberazo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/B/bomberazo.html), [Al vuelo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/al-vuelo.html)
+Bomberazo, Al vuelo

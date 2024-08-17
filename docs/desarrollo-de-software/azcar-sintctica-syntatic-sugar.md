@@ -17,4 +17,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Operador morsa](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/operador-morsa.html), [Wildcard](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/wildcard.html)
+Operador morsa, Wildcard

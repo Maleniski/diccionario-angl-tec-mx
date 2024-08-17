@@ -18,4 +18,4 @@ Data Science
 Gobierno de Datos
 
 **Términos relacionados:**  
-[Data stewards](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/gobierno-de-datos/data-stewards.html), [Diccionario de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/gobierno-de-datos/diccionario-de-datos.html)
+Data stewards, Diccionario de datos

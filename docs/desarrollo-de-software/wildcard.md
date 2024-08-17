@@ -17,4 +17,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Placeholder](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/placeholder.html), [Operador morsa](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/operador-morsa.html)
+Placeholder, Operador morsa

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dashboard, tablero
-nav_order: 4
+nav_order: 3
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 Gestión de Proyectos
 
 **Términos relacionados:**  
-[Milestone](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/milestone.html), [Stakeholders](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/stakeholders.html)
+Milestone, Stakeholders

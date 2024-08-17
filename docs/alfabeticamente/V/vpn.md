@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VPN
-nav_order: 20
+nav_order: 5
 parent: V
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Redes
 Seguridad
 
 **Términos relacionados:**  
-[VPC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vpc.html), [SAS Key](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/sas-key.html)
+VPC, SAS Key

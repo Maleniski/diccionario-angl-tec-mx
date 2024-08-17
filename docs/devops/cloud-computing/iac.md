@@ -18,4 +18,4 @@ DevOps
 Cloud Computing
 
 **Términos relacionados:**  
-[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/cloud-computing/pipeline.html), [DevOps](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/cloud-computing/devops.html)
+Pipeline, DevOps

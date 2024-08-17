@@ -17,4 +17,4 @@ Arquitectura de Software
 
 
 **Términos relacionados:**  
-[API](https://maleniski.github.io/diccionario-angl-tec-mx/docs/arquitectura-de-software/api.html), [Handler](https://maleniski.github.io/diccionario-angl-tec-mx/docs/arquitectura-de-software/handler.html)
+API, Handler

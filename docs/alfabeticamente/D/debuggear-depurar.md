@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Debuggear, depurar
-nav_order: 10
+nav_order: 9
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Codear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/codear.html), [Testear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/T/testear.html)
+Codear, Testear

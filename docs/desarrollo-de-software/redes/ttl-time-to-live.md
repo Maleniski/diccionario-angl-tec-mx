@@ -18,4 +18,4 @@ Desarrollo de Software
 Redes
 
 **Términos relacionados:**  
-[VPN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/redes/vpn.html), [VPC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/redes/vpc.html)
+VPN, VPC

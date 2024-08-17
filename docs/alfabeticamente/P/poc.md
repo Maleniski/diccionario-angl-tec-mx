@@ -1,7 +1,7 @@
 ---
 layout: default
 title: POC
-nav_order: 18
+nav_order: 7
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Gestión de Proyectos
 Desarrollo de Software
 
 **Términos relacionados:**  
-[MVP](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/mvp.html), [Spike](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/spike.html)
+MVP, Spike

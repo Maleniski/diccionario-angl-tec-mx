@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Milestone
-nav_order: 15
+nav_order: 7
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Metodologías Ágiles
 Gestión de Proyectos
 
 **Términos relacionados:**  
-[Dashboard](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dashboard.html), [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/sprint.html)
+Dashboard, Sprint

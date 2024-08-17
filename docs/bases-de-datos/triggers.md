@@ -17,4 +17,4 @@ Bases de Datos
 
 
 **Términos relacionados:**  
-[SP](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/sp.html), [Primary](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/primary.html), [Foreign keys](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/foreign-keys.html)
+SP, Primary, Foreign keys

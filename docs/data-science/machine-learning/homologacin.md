@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Normalización](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/normalizacin.html), [Estandarización](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/estandarizacin.html)
+Normalización, Estandarización

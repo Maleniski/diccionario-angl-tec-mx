@@ -18,4 +18,4 @@ Bases de Datos
 Almacenamiento
 
 **Términos relacionados:**  
-[Data Lakehouse](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/almacenamiento/data-lakehouse.html), [ETL](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/almacenamiento/etl.html)
+Data Lakehouse, ETL

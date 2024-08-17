@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plugin
-nav_order: 16
+nav_order: 5
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 Extensibilidad
 
 **Términos relacionados:**  
-[Framework](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/framework.html), [Git](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/G/git.html)
+Framework, Git

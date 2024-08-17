@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LLMOps
-nav_order: 12
+nav_order: 5
 parent: L
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ DevOps
 Data Science
 
 **Términos relacionados:**  
-[MLOps](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/mlops.html), [DevOps](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/devops.html)
+MLOps, DevOps

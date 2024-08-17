@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hiperescalador
-nav_order: 9
+nav_order: 4
 parent: H
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Cloud Computing
 
 
 **Términos relacionados:**  
-[VM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vm.html), [SaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/saas.html)
+VM, SaaS

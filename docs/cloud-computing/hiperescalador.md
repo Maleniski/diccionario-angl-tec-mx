@@ -17,4 +17,4 @@ Cloud Computing
 
 
 **Términos relacionados:**  
-[VM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/cloud-computing/vm.html), [SaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/cloud-computing/saas.html)
+VM, SaaS

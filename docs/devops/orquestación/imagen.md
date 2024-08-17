@@ -18,4 +18,4 @@ DevOps
 Orquestación
 
 **Términos relacionados:**  
-[Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/orquestación/contenedor.html), [Dockerizar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/orquestación/dockerizar.html)
+Contenedor, Dockerizar

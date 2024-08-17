@@ -18,4 +18,4 @@ Cloud Computing
 Servicios
 
 **Términos relacionados:**  
-[SaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/cloud-computing/servicios/saas.html), [IaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/cloud-computing/servicios/iaas.html)
+SaaS, IaaS

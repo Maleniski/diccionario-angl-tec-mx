@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Back-end
-nav_order: 1
+nav_order: 2
 parent: B
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 Arquitectura de Software
 
 **Términos relacionados:**  
-[Front-end](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/front-end.html), [Full-stack](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/full-stack.html)
+Front-end, Full-stack

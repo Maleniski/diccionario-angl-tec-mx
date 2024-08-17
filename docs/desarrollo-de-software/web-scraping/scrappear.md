@@ -18,4 +18,4 @@ Desarrollo de Software
 Web Scraping
 
 **Términos relacionados:**  
-[Ciclar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/web-scraping/ciclar.html), [Testear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/web-scraping/testear.html)
+Ciclar, Testear

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wireframe
-nav_order: 20
+nav_order: 4
 parent: W
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Diseño
 Desarrollo de Software
 
 **Términos relacionados:**  
-[UX/UI](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/U/uxui.html), [Maquetado](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/maquetado.html)
+UX/UI, Maquetado

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Out of the box sample
-nav_order: 15
+nav_order: 5
 parent: O
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Framework](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/framework.html), [Bootstrap](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/B/bootstrap.html)
+Framework, Bootstrap

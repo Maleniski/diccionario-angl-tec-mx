@@ -18,4 +18,4 @@ Cloud Computing
 Almacenamiento
 
 **Términos relacionados:**  
-[Imagen](https://maleniski.github.io/diccionario-angl-tec-mx/docs/cloud-computing/almacenamiento/imagen.html), [SaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/cloud-computing/almacenamiento/saas.html)
+Imagen, SaaS

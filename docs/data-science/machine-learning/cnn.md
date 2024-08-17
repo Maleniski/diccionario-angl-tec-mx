@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[DNN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/dnn.html), [LLM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/llm.html)
+DNN, LLM

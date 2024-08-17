@@ -17,4 +17,4 @@ Coloquialismo
 
 
 **Términos relacionados:**  
-[Mods](https://maleniski.github.io/diccionario-angl-tec-mx/docs/coloquialismo/mods.html), [Al vuelo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/coloquialismo/al-vuelo.html)
+Mods, Al vuelo

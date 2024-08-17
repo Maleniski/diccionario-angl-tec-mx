@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Overfit](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/overfit.html), [Underfit](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/underfit.html)
+Overfit, Underfit

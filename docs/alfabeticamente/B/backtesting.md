@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Backtesting
-nav_order: 3
+nav_order: 4
 parent: B
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Finanzas
 
 **Términos relacionados:**  
-[Forecasting](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/forecasting.html), [Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/clustering.html)
+Forecasting, Clustering

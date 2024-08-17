@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Weekly
-nav_order: 18
+nav_order: 2
 parent: W
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Metodologías Ágiles
 
 
 **Términos relacionados:**  
-[Daily](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/daily.html), [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/sprint.html)
+Daily, Sprint

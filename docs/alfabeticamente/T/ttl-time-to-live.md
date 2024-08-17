@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TTL (time to live)
-nav_order: 18
+nav_order: 5
 parent: T
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 Redes
 
 **Términos relacionados:**  
-[VPN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vpn.html), [VPC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vpc.html)
+VPN, VPC

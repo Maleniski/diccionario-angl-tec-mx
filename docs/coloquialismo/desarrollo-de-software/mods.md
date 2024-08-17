@@ -18,4 +18,4 @@ Coloquialismo
 Desarrollo de Software
 
 **Términos relacionados:**  
-[Bomberazo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/coloquialismo/desarrollo-de-software/bomberazo.html), [Al vuelo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/coloquialismo/desarrollo-de-software/al-vuelo.html)
+Bomberazo, Al vuelo

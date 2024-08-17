@@ -17,4 +17,4 @@ Bases de Datos
 
 
 **Términos relacionados:**  
-[Triggers](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/triggers.html), [Primary](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/primary.html), [Foreign keys](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/foreign-keys.html)
+Triggers, Primary, Foreign keys

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scrappear
-nav_order: 16
+nav_order: 4
 parent: S
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 Web Scraping
 
 **Términos relacionados:**  
-[Ciclar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/ciclar.html), [Testear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/T/testear.html)
+Ciclar, Testear

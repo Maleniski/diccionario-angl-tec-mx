@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Esquema de Base de datos
-nav_order: 9
+nav_order: 7
 parent: E
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Bases de Datos
 
 
 **Términos relacionados:**  
-[Base de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/B/base-de-datos.html), [Diccionario de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/diccionario-de-datos.html)
+Base de datos, Diccionario de datos

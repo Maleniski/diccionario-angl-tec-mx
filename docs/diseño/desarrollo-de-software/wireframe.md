@@ -18,4 +18,4 @@ Diseño
 Desarrollo de Software
 
 **Términos relacionados:**  
-[UX/UI](https://maleniski.github.io/diccionario-angl-tec-mx/docs/diseño/desarrollo-de-software/uxui.html), [Maquetado](https://maleniski.github.io/diccionario-angl-tec-mx/docs/diseño/desarrollo-de-software/maquetado.html)
+UX/UI, Maquetado

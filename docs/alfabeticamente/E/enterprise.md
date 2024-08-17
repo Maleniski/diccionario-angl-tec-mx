@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Enterprise
-nav_order: 8
+nav_order: 6
 parent: E
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Arquitectura de Software
 
 
 **Términos relacionados:**  
-[Microservicio](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/microservicio.html), [Middleware](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/middleware.html)
+Microservicio, Middleware

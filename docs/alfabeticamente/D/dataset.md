@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dataset
-nav_order: 9
+nav_order: 8
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Estructura de Datos
 
 **Términos relacionados:**  
-[Dataframe](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dataframe.html), [ETL](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/etl.html)
+Dataframe, ETL

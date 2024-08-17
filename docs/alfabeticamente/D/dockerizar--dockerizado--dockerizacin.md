@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dockerizar / dockerizado / dockerización
-nav_order: 15
+nav_order: 14
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ DevOps
 Contenedores
 
 **Términos relacionados:**  
-[Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/contenedor.html), [Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pod.html)
+Contenedor, Pod

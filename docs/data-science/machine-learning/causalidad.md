@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Correlación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/correlacin.html), [Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/clustering.html)
+Correlación, Clustering

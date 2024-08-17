@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Homologación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/homologacin.html), [Imputación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/imputacin.html)
+Homologación, Imputación

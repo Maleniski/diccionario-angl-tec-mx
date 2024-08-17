@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PM
-nav_order: 17
+nav_order: 6
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Gestión de Proyectos
 
 
 **Términos relacionados:**  
-[Tech lead](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/T/tech-lead.html), [Stakeholders](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/stakeholders.html)
+Tech lead, Stakeholders

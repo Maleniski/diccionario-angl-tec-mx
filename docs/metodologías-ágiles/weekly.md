@@ -17,4 +17,4 @@ Metodologías Ágiles
 
 
 **Términos relacionados:**  
-[Daily](https://maleniski.github.io/diccionario-angl-tec-mx/docs/metodologías-ágiles/daily.html), [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/metodologías-ágiles/sprint.html)
+Daily, Sprint

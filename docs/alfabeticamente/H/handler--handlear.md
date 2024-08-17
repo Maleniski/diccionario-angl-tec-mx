@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Handler / handlear
-nav_order: 7
+nav_order: 2
 parent: H
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Middleware](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/middleware.html), [API](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/api.html)
+Middleware, API

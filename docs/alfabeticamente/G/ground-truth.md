@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ground Truth
-nav_order: 8
+nav_order: 4
 parent: G
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Overfit](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/O/overfit.html), [Underfit](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/U/underfit.html)
+Overfit, Underfit

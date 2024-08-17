@@ -17,4 +17,4 @@ Arquitectura de Software
 
 
 **Términos relacionados:**  
-[Enterprise](https://maleniski.github.io/diccionario-angl-tec-mx/docs/arquitectura-de-software/enterprise.html), [Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/arquitectura-de-software/contenedor.html)
+Enterprise, Contenedor

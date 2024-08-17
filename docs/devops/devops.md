@@ -17,4 +17,4 @@ DevOps
 
 
 **Términos relacionados:**  
-[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/pipeline.html), [Dockerizar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/dockerizar.html)
+Pipeline, Dockerizar

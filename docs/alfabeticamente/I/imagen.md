@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Imagen
-nav_order: 10
+nav_order: 4
 parent: I
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ DevOps
 Orquestación
 
 **Términos relacionados:**  
-[Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/contenedor.html), [Dockerizar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dockerizar.html)
+Contenedor, Dockerizar

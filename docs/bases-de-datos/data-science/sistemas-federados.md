@@ -18,4 +18,4 @@ Bases de Datos
 Data Science
 
 **Términos relacionados:**  
-[Data Lake](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/data-science/data-lake.html), [Diccionario de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/data-science/diccionario-de-datos.html)
+Data Lake, Diccionario de datos

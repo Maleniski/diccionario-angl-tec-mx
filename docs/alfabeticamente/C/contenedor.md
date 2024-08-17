@@ -18,4 +18,4 @@ DevOps
 Orquestación
 
 **Términos relacionados:**  
-[Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pod.html), [Dockerizar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dockerizar.html)
+Pod, Dockerizar

@@ -18,4 +18,4 @@ DevOps
 Orquestación
 
 **Términos relacionados:**  
-[Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/orquestación/pod.html), [Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/orquestación/cluster.html)
+Pod, Cluster

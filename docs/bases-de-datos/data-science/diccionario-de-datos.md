@@ -18,4 +18,4 @@ Bases de Datos
 Data Science
 
 **Términos relacionados:**  
-[Metadatos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/data-science/metadatos.html), [Esquema de Base de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/data-science/esquema-de-base-de-datos.html)
+Metadatos, Esquema de Base de datos

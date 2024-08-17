@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modelo Multivariado
-nav_order: 18
+nav_order: 10
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Causalidad](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/causalidad.html), [Correlación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/correlacin.html)
+Causalidad, Correlación

@@ -17,4 +17,4 @@ Metodologías Ágiles
 
 
 **Términos relacionados:**  
-[Stopper](https://maleniski.github.io/diccionario-angl-tec-mx/docs/metodologías-ágiles/stopper.html), [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/metodologías-ágiles/sprint.html)
+Stopper, Sprint

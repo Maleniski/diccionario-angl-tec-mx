@@ -17,4 +17,4 @@ Gestión de Proyectos
 
 
 **Términos relacionados:**  
-[Tech lead](https://maleniski.github.io/diccionario-angl-tec-mx/docs/gestión-de-proyectos/tech-lead.html), [PM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/gestión-de-proyectos/pm.html)
+Tech lead, PM

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PaaS
-nav_order: 13
+nav_order: 2
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Cloud Computing
 Servicios
 
 **Términos relacionados:**  
-[SaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/saas.html), [IaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/I/iaas.html)
+SaaS, IaaS

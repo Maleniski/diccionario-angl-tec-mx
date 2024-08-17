@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LLM
-nav_order: 11
+nav_order: 4
 parent: L
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[LLMOps](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/L/llmops.html), [CNN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cnn.html)
+LLMOps, CNN

@@ -18,4 +18,4 @@ Gobierno de Datos
 Data Science
 
 **Términos relacionados:**  
-[Gobierno de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/gobierno-de-datos/data-science/gobierno-de-datos.html), [Diccionario de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/gobierno-de-datos/data-science/diccionario-de-datos.html)
+Gobierno de datos, Diccionario de datos

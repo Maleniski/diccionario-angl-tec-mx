@@ -18,4 +18,4 @@ Desarrollo de Software
 Gestión de Proyectos
 
 **Términos relacionados:**  
-[Milestone](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/gestión-de-proyectos/milestone.html), [Stakeholders](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/gestión-de-proyectos/stakeholders.html)
+Milestone, Stakeholders

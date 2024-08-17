@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Levantar un pod
-nav_order: 10
+nav_order: 3
 parent: L
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ DevOps
 Orquestación
 
 **Términos relacionados:**  
-[Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pod.html), [Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cluster.html)
+Pod, Cluster

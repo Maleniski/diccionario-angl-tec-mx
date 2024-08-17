@@ -17,4 +17,4 @@ Arquitectura de Software
 
 
 **Términos relacionados:**  
-[Ambientes en ecosistemas](https://maleniski.github.io/diccionario-angl-tec-mx/docs/arquitectura-de-software/ambientes-en-ecosistemas.html), [Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/arquitectura-de-software/cluster.html)
+Ambientes en ecosistemas, Cluster

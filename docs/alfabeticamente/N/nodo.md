@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nodo
-nav_order: 11
+nav_order: 2
 parent: N
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ DevOps
 Orquestación
 
 **Términos relacionados:**  
-[Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cluster.html), [Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pod.html)
+Cluster, Pod

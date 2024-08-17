@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bucket
-nav_order: 8
+nav_order: 9
 parent: B
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Cloud Computing
 Almacenamiento
 
 **Términos relacionados:**  
-[Imagen](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/I/imagen.html), [SaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/saas.html)
+Imagen, SaaS

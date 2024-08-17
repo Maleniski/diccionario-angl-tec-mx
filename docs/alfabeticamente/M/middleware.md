@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Middleware
-nav_order: 14
+nav_order: 6
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Arquitectura de Software
 
 
 **Términos relacionados:**  
-[API](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/api.html), [Handler](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/H/handler.html)
+API, Handler

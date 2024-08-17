@@ -18,4 +18,4 @@ Bases de Datos
 Data Science
 
 **Términos relacionados:**  
-[Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/data-science/clustering.html), [Data Lake](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/data-science/data-lake.html)
+Clustering, Data Lake

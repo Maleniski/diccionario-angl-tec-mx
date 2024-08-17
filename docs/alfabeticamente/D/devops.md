@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DevOps
-nav_order: 12
+nav_order: 11
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ DevOps
 
 
 **Términos relacionados:**  
-[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pipeline.html), [Dockerizar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dockerizar.html)
+Pipeline, Dockerizar

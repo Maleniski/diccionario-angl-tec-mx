@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sprint
-nav_order: 21
+nav_order: 9
 parent: S
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Metodologías Ágiles
 
 
 **Términos relacionados:**  
-[Spike](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/spike.html), [Backlog](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/B/backlog.html)
+Spike, Backlog

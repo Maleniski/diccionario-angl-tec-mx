@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pod
-nav_order: 19
+nav_order: 8
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ DevOps
 Orquestación
 
 **Términos relacionados:**  
-[Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/contenedor.html), [Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cluster.html)
+Contenedor, Cluster

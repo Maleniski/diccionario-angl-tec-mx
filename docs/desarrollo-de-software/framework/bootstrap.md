@@ -18,4 +18,4 @@ Desarrollo de Software
 Framework
 
 **Términos relacionados:**  
-[Framework](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/framework/framework.html), [UX/UI](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/framework/uxui.html)
+Framework, UX/UI

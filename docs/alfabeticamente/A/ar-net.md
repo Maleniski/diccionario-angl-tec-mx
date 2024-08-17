@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AR-NET
-nav_order: 8
+nav_order: 10
 parent: A
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[CNN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cnn.html), [Modelo Multivariado](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/modelo-multivariado.html)
+CNN, Modelo Multivariado

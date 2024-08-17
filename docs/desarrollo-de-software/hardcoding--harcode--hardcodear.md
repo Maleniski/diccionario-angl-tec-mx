@@ -17,4 +17,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Placeholder](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/placeholder.html), [Programaticamente](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/programaticamente.html)
+Placeholder, Programaticamente

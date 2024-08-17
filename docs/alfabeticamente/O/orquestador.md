@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Orquestador
-nav_order: 14
+nav_order: 4
 parent: O
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ DevOps
 Orquestación
 
 **Términos relacionados:**  
-[Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pod.html), [Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cluster.html)
+Pod, Cluster

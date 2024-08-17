@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IaC
-nav_order: 9
+nav_order: 3
 parent: I
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ DevOps
 Cloud Computing
 
 **Términos relacionados:**  
-[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pipeline.html), [DevOps](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/devops.html)
+Pipeline, DevOps

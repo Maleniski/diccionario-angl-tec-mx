@@ -18,4 +18,4 @@ Data Science
 Estructura de Datos
 
 **Términos relacionados:**  
-[Dataset](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/estructura-de-datos/dataset.html), [ETL](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/estructura-de-datos/etl.html)
+Dataset, ETL

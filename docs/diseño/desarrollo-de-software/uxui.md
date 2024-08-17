@@ -18,4 +18,4 @@ Diseño
 Desarrollo de Software
 
 **Términos relacionados:**  
-[Wireframe](https://maleniski.github.io/diccionario-angl-tec-mx/docs/diseño/desarrollo-de-software/wireframe.html), [Maquetado](https://maleniski.github.io/diccionario-angl-tec-mx/docs/diseño/desarrollo-de-software/maquetado.html)
+Wireframe, Maquetado

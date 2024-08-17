@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Primary, Foreign keys
-nav_order: 21
+nav_order: 10
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Bases de Datos
 
 
 **Términos relacionados:**  
-[Triggers](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/T/triggers.html), [Esquema de Base de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/esquema-de-base-de-datos.html)
+Triggers, Esquema de Base de datos

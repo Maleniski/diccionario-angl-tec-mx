@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vector Database
-nav_order: 17
+nav_order: 2
 parent: V
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Feature Store](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/feature-store.html), [Hiperparámetros](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/H/hiperparmetros.html)
+Feature Store, Hiperparámetros

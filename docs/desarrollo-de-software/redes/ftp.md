@@ -18,4 +18,4 @@ Desarrollo de Software
 Redes
 
 **Términos relacionados:**  
-[VM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/redes/vm.html), [VPN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/redes/vpn.html)
+VM, VPN

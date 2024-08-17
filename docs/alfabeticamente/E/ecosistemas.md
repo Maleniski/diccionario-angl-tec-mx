@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ecosistemas
-nav_order: 4
+nav_order: 2
 parent: E
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Arquitectura de Software
 
 
 **Términos relacionados:**  
-[Ambientes en ecosistemas](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambientes-en-ecosistemas.html), [Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cluster.html)
+Ambientes en ecosistemas, Cluster

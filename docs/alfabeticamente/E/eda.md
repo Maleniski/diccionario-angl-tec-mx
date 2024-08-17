@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EDA
-nav_order: 5
+nav_order: 3
 parent: E
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Análisis de Datos
 
 **Términos relacionados:**  
-[Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/clustering.html), [Dataframe](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dataframe.html)
+Clustering, Dataframe

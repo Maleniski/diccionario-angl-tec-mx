@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Vector Database](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/vector-database.html), [Hiperparámetros](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/hiperparmetros.html)
+Vector Database, Hiperparámetros

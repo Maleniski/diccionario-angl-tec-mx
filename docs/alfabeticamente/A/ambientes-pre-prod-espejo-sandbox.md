@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ambientes PRE-PROD, ESPEJO, SANDBOX
-nav_order: 6
+nav_order: 8
 parent: A
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ DevOps
 Testing
 
 **Términos relacionados:**  
-[Ambiente QA](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-qa.html), [Ambiente Dev](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-dev.html)
+Ambiente QA, Ambiente Dev

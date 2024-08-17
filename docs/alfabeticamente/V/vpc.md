@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VPC
-nav_order: 19
+nav_order: 4
 parent: V
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Cloud Computing
 Redes
 
 **Términos relacionados:**  
-[VPN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vpn.html), [SAS Key](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/sas-key.html)
+VPN, SAS Key

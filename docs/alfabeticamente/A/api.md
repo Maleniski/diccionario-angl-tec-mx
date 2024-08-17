@@ -1,7 +1,7 @@
 ---
 layout: default
 title: API
-nav_order: 7
+nav_order: 9
 parent: A
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ API y Servicios
 
 
 **Términos relacionados:**  
-[Endpoint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/endpoint.html), [Middleware](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/middleware.html)
+Endpoint, Middleware

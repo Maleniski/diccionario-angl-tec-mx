@@ -18,4 +18,4 @@ Coloquialismo
 Desarrollo de Software
 
 **Términos relacionados:**  
-[Debuggear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/coloquialismo/desarrollo-de-software/debuggear.html), [Testear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/coloquialismo/desarrollo-de-software/testear.html)
+Debuggear, Testear

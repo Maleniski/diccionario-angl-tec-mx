@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Matriz de Confusión
-nav_order: 11
+nav_order: 3
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Precisión](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/precisin.html), [F-Score](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/f-score.html)
+Precisión, F-Score

@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[LLMOps](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/llmops.html), [CNN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/cnn.html)
+LLMOps, CNN

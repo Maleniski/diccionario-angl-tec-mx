@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ambientes en ecosistemas
-nav_order: 5
+nav_order: 7
 parent: A
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Arquitectura de Software
 DevOps
 
 **Términos relacionados:**  
-[Ambiente QA](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-qa.html), [Ambiente Prod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-prod.html)
+Ambiente QA, Ambiente Prod

@@ -18,4 +18,4 @@ Redes
 Seguridad
 
 **Términos relacionados:**  
-[VPC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/redes/seguridad/vpc.html), [SAS Key](https://maleniski.github.io/diccionario-angl-tec-mx/docs/redes/seguridad/sas-key.html)
+VPC, SAS Key

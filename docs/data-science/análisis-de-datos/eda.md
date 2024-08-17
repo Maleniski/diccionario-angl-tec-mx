@@ -18,4 +18,4 @@ Data Science
 Análisis de Datos
 
 **Términos relacionados:**  
-[Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/análisis-de-datos/clustering.html), [Dataframe](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/análisis-de-datos/dataframe.html)
+Clustering, Dataframe

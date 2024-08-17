@@ -17,4 +17,4 @@ Bases de Datos
 
 
 **Términos relacionados:**  
-[Esquema de Base de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/esquema-de-base-de-datos.html), [ETL](https://maleniski.github.io/diccionario-angl-tec-mx/docs/bases-de-datos/etl.html)
+Esquema de Base de datos, ETL

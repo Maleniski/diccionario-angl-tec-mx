@@ -18,4 +18,4 @@ DevOps
 Orquestación
 
 **Términos relacionados:**  
-[Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/orquestación/contenedor.html), [Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/orquestación/cluster.html)
+Contenedor, Cluster

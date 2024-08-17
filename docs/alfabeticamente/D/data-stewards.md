@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data stewards
-nav_order: 7
+nav_order: 6
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Gobierno de Datos
 Data Science
 
 **Términos relacionados:**  
-[Gobierno de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/G/gobierno-de-datos.html), [Diccionario de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/diccionario-de-datos.html)
+Gobierno de datos, Diccionario de datos

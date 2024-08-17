@@ -18,4 +18,4 @@ Cloud Computing
 Virtualización
 
 **Términos relacionados:**  
-[Hiperescalador](https://maleniski.github.io/diccionario-angl-tec-mx/docs/cloud-computing/virtualización/hiperescalador.html), [VPC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/cloud-computing/virtualización/vpc.html)
+Hiperescalador, VPC

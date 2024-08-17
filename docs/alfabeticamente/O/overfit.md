@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Overfit
-nav_order: 16
+nav_order: 6
 parent: O
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Underfit](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/U/underfit.html), [Hiperparámetros](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/H/hiperparmetros.html)
+Underfit, Hiperparámetros

@@ -18,4 +18,4 @@ Desarrollo de Software
 DevOps
 
 **Términos relacionados:**  
-[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/devops/pipeline.html), [Microservicio](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/devops/microservicio.html)
+Pipeline, Microservicio

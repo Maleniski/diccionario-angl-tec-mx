@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MVP
-nav_order: 20
+nav_order: 12
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Gestión de Proyectos
 Desarrollo de Software
 
 **Términos relacionados:**  
-[POC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/poc.html), [Agile](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/agile.html)
+POC, Agile

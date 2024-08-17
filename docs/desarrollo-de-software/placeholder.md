@@ -17,4 +17,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Dummy](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/dummy.html), [Hardcoding](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/hardcoding.html)
+Dummy, Hardcoding

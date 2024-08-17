@@ -18,4 +18,4 @@ Metodologías Ágiles
 Gestión de Proyectos
 
 **Términos relacionados:**  
-[Dashboard](https://maleniski.github.io/diccionario-angl-tec-mx/docs/metodologías-ágiles/gestión-de-proyectos/dashboard.html), [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/metodologías-ágiles/gestión-de-proyectos/sprint.html)
+Dashboard, Sprint

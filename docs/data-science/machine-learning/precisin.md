@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[F-Score](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/f-score.html), [Matriz de Confusión](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/matriz-de-confusin.html)
+F-Score, Matriz de Confusión

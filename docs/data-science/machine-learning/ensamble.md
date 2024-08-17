@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/clustering.html), [Hiperparámetros](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/hiperparmetros.html)
+Clustering, Hiperparámetros

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ETL
-nav_order: 10
+nav_order: 8
 parent: E
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Bases de Datos
 Data Science
 
 **Términos relacionados:**  
-[Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/clustering.html), [Data Lake](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/data-lake.html)
+Clustering, Data Lake

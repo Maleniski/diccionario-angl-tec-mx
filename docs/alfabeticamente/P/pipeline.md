@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pipeline
-nav_order: 14
+nav_order: 3
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ DevOps
 CI/CD
 
 **Términos relacionados:**  
-[Integrar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/I/integrar.html), [Desplegar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/desplegar.html)
+Integrar, Desplegar

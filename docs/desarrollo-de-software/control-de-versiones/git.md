@@ -18,4 +18,4 @@ Desarrollo de Software
 Control de Versiones
 
 **Términos relacionados:**  
-[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/control-de-versiones/pipeline.html), [Framework](https://maleniski.github.io/diccionario-angl-tec-mx/docs/desarrollo-de-software/control-de-versiones/framework.html)
+Pipeline, Framework

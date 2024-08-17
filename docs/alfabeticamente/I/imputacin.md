@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Imputación
-nav_order: 11
+nav_order: 5
 parent: I
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Normalización](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/N/normalizacin.html), [Estandarización](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/estandarizacin.html)
+Normalización, Estandarización

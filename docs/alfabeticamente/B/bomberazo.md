@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bomberazo
-nav_order: 6
+nav_order: 7
 parent: B
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Coloquialismo
 
 
 **Términos relacionados:**  
-[Mods](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/mods.html), [Al vuelo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/al-vuelo.html)
+Mods, Al vuelo

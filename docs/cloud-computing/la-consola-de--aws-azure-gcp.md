@@ -17,4 +17,4 @@ Cloud Computing
 
 
 **Términos relacionados:**  
-[VM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/cloud-computing/vm.html), [VPC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/cloud-computing/vpc.html)
+VM, VPC

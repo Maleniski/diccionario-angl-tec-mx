@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dummy
-nav_order: 16
+nav_order: 15
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 Testing
 
 **Términos relacionados:**  
-[Placeholder](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/placeholder.html), [Testear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/T/testear.html)
+Placeholder, Testear

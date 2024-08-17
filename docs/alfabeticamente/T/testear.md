@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Testear
-nav_order: 16
+nav_order: 3
 parent: T
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 Testing
 
 **Términos relacionados:**  
-[Debuggear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/debuggear.html), [Dummy](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dummy.html)
+Debuggear, Dummy

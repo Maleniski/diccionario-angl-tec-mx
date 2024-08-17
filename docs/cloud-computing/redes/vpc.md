@@ -18,4 +18,4 @@ Cloud Computing
 Redes
 
 **Términos relacionados:**  
-[VPN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/cloud-computing/redes/vpn.html), [SAS Key](https://maleniski.github.io/diccionario-angl-tec-mx/docs/cloud-computing/redes/sas-key.html)
+VPN, SAS Key

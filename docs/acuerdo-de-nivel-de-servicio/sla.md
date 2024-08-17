@@ -17,4 +17,4 @@ Acuerdo de Nivel de Servicio
 
 
 **Términos relacionados:**  
-[Endpoint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/acuerdo-de-nivel-de-servicio/endpoint.html), [API](https://maleniski.github.io/diccionario-angl-tec-mx/docs/acuerdo-de-nivel-de-servicio/api.html)
+Endpoint, API

@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Underfit](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/underfit.html), [Hiperparámetros](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/hiperparmetros.html)
+Underfit, Hiperparámetros

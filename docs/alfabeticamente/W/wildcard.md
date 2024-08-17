@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wildcard
-nav_order: 19
+nav_order: 3
 parent: W
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Placeholder](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/placeholder.html), [Operador morsa](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/O/operador-morsa.html)
+Placeholder, Operador morsa

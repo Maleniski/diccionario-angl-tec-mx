@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Backtesting](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/backtesting.html), [Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/clustering.html)
+Backtesting, Clustering

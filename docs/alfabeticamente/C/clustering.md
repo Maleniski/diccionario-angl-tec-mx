@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Ensamble](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/ensamble.html), [Forecasting](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/forecasting.html)
+Ensamble, Forecasting

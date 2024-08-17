@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[Matriz de Confusión](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/matriz-de-confusin.html), [Precisión](https://maleniski.github.io/diccionario-angl-tec-mx/docs/data-science/machine-learning/precisin.html)
+Matriz de Confusión, Precisión

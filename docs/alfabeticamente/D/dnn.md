@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DNN
-nav_order: 14
+nav_order: 13
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Data Science
 Machine Learning
 
 **Términos relacionados:**  
-[CNN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cnn.html), [LLM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/L/llm.html)
+CNN, LLM

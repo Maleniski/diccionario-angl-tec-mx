@@ -17,4 +17,4 @@ DevOps
 
 
 **Términos relacionados:**  
-[Ambiente QA](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/ambiente-qa.html), [Ambiente Prod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/ambiente-prod.html)
+Ambiente QA, Ambiente Prod

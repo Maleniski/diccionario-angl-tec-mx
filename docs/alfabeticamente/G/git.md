@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Git
-nav_order: 6
+nav_order: 2
 parent: G
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 Control de Versiones
 
 **Términos relacionados:**  
-[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pipeline.html), [Framework](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/framework.html)
+Pipeline, Framework

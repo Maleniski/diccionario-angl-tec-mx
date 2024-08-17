@@ -18,4 +18,4 @@ DevOps
 Data Science
 
 **Términos relacionados:**  
-[MLOps](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/data-science/mlops.html), [DevOps](https://maleniski.github.io/diccionario-angl-tec-mx/docs/devops/data-science/devops.html)
+MLOps, DevOps

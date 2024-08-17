@@ -18,4 +18,4 @@ Arquitectura de Software
 DevOps
 
 **Términos relacionados:**  
-[Ambiente QA](https://maleniski.github.io/diccionario-angl-tec-mx/docs/arquitectura-de-software/devops/ambiente-qa.html), [Ambiente Prod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/arquitectura-de-software/devops/ambiente-prod.html)
+Ambiente QA, Ambiente Prod

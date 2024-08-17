@@ -18,4 +18,4 @@ Gestión de Proyectos
 Desarrollo de Software
 
 **Términos relacionados:**  
-[POC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/gestión-de-proyectos/desarrollo-de-software/poc.html), [Agile](https://maleniski.github.io/diccionario-angl-tec-mx/docs/gestión-de-proyectos/desarrollo-de-software/agile.html)
+POC, Agile

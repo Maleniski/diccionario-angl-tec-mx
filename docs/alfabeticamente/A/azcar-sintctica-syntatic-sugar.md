@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Azúcar sintáctica (syntatic sugar)
-nav_order: 9
+nav_order: 11
 parent: A
 grand_parent: Alfabéticamente
 ---
@@ -18,4 +18,4 @@ Desarrollo de Software
 
 
 **Términos relacionados:**  
-[Operador morsa](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/O/operador-morsa.html), [Wildcard](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/W/wildcard.html)
+Operador morsa, Wildcard
