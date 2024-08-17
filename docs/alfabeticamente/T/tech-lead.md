@@ -9,10 +9,12 @@ grand_parent: Alfabéticamente
 # Tech lead
 
 **Definición:**  
+PM, Stakeholders
+
+**Categoría:**  
+Gestión de Proyectos 
+**Subcategoría:**  
 Líder técnico responsable de guiar a un equipo en las decisiones técnicas y la implementación de soluciones.
 
-**Taxonomía:**  
-Gestión de Proyectos
-
 **Términos relacionados:**  
-[PM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pm.html), [Stakeholders](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/stakeholders.html)
+

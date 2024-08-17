@@ -9,10 +9,12 @@ grand_parent: Alfabéticamente
 # Framework
 
 **Definición:**  
+Bootstrap, Git
+
+**Categoría:**  
+Desarrollo de Software 
+**Subcategoría:**  
 Conjunto de herramientas y bibliotecas que proporcionan una estructura base para el desarrollo de aplicaciones.
 
-**Taxonomía:**  
-Desarrollo de Software
-
 **Términos relacionados:**  
-[Bootstrap](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/B/bootstrap.html), [Git](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/G/git.html)
+

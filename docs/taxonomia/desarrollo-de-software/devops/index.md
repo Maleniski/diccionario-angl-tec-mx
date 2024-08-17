@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Desarrollo de Software / DevOps
-nav_order: 21
-parent: Taxonomía
+title: DevOps
 has_children: true
+parent: Desarrollo de Software
+grand_parent: Taxonomía
 ---

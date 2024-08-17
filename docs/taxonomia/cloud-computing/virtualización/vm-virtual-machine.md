@@ -1,7 +1,6 @@
 ---
 layout: default
 title: VM (Virtual Machine)
-nav_order: 44
 parent: Virtualización
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Instancia de un sistema operativo que se ejecuta sobre un hipervisor, simulando un hardware físico completo.
 
-**Taxonomía:**  
-Cloud Computing / Virtualización
+**Categoría:**  
+Cloud Computing
+
+**Subcategoría:**  
+Virtualización
 
 **Términos relacionados:**  
-[Hiperescalador](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/cloud-computing-/-virtualización/hiperescalador.html), [VPC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/cloud-computing-/-virtualización/vpc.html)
+[Hiperescalador](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/cloud-computing/virtualización/hiperescalador.html), [VPC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/cloud-computing/virtualización/vpc.html)

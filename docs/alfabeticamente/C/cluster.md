@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Conjunto de servidores o nodos que trabajan juntos para proporcionar alta disponibilidad y escalabilidad.
 
-**Taxonomía:**  
-DevOps / Orquestación
+**Categoría:**  
+DevOps 
+**Subcategoría:**  
+Orquestación
 
 **Términos relacionados:**  
 [Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pod.html), [Nodo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/N/nodo.html)

@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Parte de una aplicación que gestiona la lógica de negocio, bases de datos y las interacciones con la parte frontal.
 
-**Taxonomía:**  
-Desarrollo de Software / Arquitectura de Software
+**Categoría:**  
+Desarrollo de Software 
+**Subcategoría:**  
+Arquitectura de Software
 
 **Términos relacionados:**  
 [Front-end](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/front-end.html), [Full-stack](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/full-stack.html)

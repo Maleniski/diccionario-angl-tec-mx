@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Cloud Computing / Servicios
-nav_order: 31
-parent: Taxonomía
+title: Servicios
 has_children: true
+parent: Cloud Computing
+grand_parent: Taxonomía
 ---

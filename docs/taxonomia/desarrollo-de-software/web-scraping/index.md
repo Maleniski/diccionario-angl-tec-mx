@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Desarrollo de Software / Web Scraping
-nav_order: 42
-parent: Taxonomía
+title: Web Scraping
 has_children: true
+parent: Desarrollo de Software
+grand_parent: Taxonomía
 ---

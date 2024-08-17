@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Homologación
-nav_order: 19
 parent: Machine Learning
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Proceso de alineación de datos o procesos para cumplir con un estándar común o requisitos específicos.
 
-**Taxonomía:**  
-Data Science / Machine Learning
+**Categoría:**  
+Data Science
+
+**Subcategoría:**  
+Machine Learning
 
 **Términos relacionados:**  
-[Normalización](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science-/-machine-learning/normalizacin.html), [Estandarización](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science-/-machine-learning/estandarizacin.html)
+[Normalización](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science/machine-learning/normalizacin.html), [Estandarización](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science/machine-learning/estandarizacin.html)

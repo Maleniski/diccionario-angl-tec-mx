@@ -9,10 +9,12 @@ grand_parent: Alfabéticamente
 # Middleware
 
 **Definición:**  
+API, Handler
+
+**Categoría:**  
+Arquitectura de Software 
+**Subcategoría:**  
 Software que actúa como intermediario entre diferentes aplicaciones o servicios, facilitando su comunicación.
 
-**Taxonomía:**  
-Arquitectura de Software
-
 **Términos relacionados:**  
-[API](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/api.html), [Handler](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/H/handler.html)
+

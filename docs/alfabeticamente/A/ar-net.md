@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Modelo de red neuronal diseñado para análisis de series temporales, combinando características de redes neuronales y métodos autoregresivos.
 
-**Taxonomía:**  
-Data Science / Machine Learning
+**Categoría:**  
+Data Science 
+**Subcategoría:**  
+Machine Learning
 
 **Términos relacionados:**  
 [CNN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cnn.html), [Modelo Multivariado](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/modelo-multivariado.html)

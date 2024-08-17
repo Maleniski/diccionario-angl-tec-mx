@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Sistema de control de versiones distribuido utilizado para seguir los cambios en el código fuente durante el desarrollo de software.
 
-**Taxonomía:**  
-Desarrollo de Software / Control de Versiones
+**Categoría:**  
+Desarrollo de Software 
+**Subcategoría:**  
+Control de Versiones
 
 **Términos relacionados:**  
 [Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pipeline.html), [Framework](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/framework.html)

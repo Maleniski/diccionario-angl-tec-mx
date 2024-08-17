@@ -1,7 +1,7 @@
 ---
 layout: default
-title: DevOps / Testing
-nav_order: 4
-parent: Taxonomía
+title: Testing
 has_children: true
+parent: DevOps
+grand_parent: Taxonomía
 ---

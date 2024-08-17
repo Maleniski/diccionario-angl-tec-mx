@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Bomberazo
-nav_order: 3
 parent: Coloquialismo
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Tarea urgente que se realiza de manera improvisada y con poco tiempo para su planificación.
 
-**Taxonomía:**  
+**Categoría:**  
 Coloquialismo
+
+**Subcategoría:**  
+N/A
 
 **Términos relacionados:**  
 [Mods](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/coloquialismo/mods.html), [Al vuelo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/coloquialismo/al-vuelo.html)

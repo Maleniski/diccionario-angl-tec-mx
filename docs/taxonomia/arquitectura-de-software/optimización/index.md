@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Arquitectura de Software / Optimización
-nav_order: 37
-parent: Taxonomía
+title: Optimización
 has_children: true
+parent: Arquitectura de Software
+grand_parent: Taxonomía
 ---

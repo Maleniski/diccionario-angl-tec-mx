@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bases de Datos / Almacenamiento
-nav_order: 18
-parent: Taxonomía
+title: Almacenamiento
 has_children: true
+parent: Bases de Datos
+grand_parent: Taxonomía
 ---

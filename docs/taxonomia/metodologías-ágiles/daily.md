@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Daily
-nav_order: 4
 parent: Metodologías Ágiles
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Reunión diaria breve en la que los miembros del equipo de desarrollo discuten su progreso y obstáculos.
 
-**Taxonomía:**  
+**Categoría:**  
 Metodologías Ágiles
+
+**Subcategoría:**  
+N/A
 
 **Términos relacionados:**  
 [Weekly](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/metodologías-ágiles/weekly.html), [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/metodologías-ágiles/sprint.html)

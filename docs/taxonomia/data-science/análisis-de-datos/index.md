@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Data Science / Análisis de Datos
-nav_order: 26
-parent: Taxonomía
+title: Análisis de Datos
 has_children: true
+parent: Data Science
+grand_parent: Taxonomía
 ---

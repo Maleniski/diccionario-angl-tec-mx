@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Data Science / Estructura de Datos
-nav_order: 20
-parent: Taxonomía
+title: Estructura de Datos
 has_children: true
+parent: Data Science
+grand_parent: Taxonomía
 ---

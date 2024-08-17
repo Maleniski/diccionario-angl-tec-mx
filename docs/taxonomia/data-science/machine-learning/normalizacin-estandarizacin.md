@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Normalización, Estandarización
-nav_order: 24
 parent: Machine Learning
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Procesos de ajuste de datos para que se ajusten a una escala o distribución estándar, facilitando su uso en modelos de machine learning.
 
-**Taxonomía:**  
-Data Science / Machine Learning
+**Categoría:**  
+Data Science
+
+**Subcategoría:**  
+Machine Learning
 
 **Términos relacionados:**  
-[Homologación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science-/-machine-learning/homologacin.html), [Imputación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science-/-machine-learning/imputacin.html)
+[Homologación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science/machine-learning/homologacin.html), [Imputación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science/machine-learning/imputacin.html)

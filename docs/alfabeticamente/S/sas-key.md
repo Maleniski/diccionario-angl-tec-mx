@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Clave de acceso compartido utilizada en Azure para conceder acceso limitado a recursos de almacenamiento.
 
-**Taxonomía:**  
-Cloud Computing / Seguridad
+**Categoría:**  
+Cloud Computing 
+**Subcategoría:**  
+Seguridad
 
 **Términos relacionados:**  
 [VM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vm.html), [VPN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vpn.html)

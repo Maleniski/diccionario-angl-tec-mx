@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Red Neuronal Convolucional; tipo de red neuronal diseñada para procesar datos con estructura de cuadrícula, como imágenes.
 
-**Taxonomía:**  
-Data Science / Machine Learning
+**Categoría:**  
+Data Science 
+**Subcategoría:**  
+Machine Learning
 
 **Términos relacionados:**  
 [DNN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dnn.html), [LLM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/L/llm.html)

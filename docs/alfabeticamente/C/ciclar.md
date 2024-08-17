@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Proceso de repetir una acción o secuencia de código en un bucle.
 
-**Taxonomía:**  
-Desarrollo de Software
+**Categoría:**  
+Desarrollo de Software 
+  
+
 
 **Términos relacionados:**  
 [Codear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/codear.html), [Scrappear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/scrappear.html)

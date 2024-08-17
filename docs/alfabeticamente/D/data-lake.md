@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Almacén de datos centralizado que permite almacenar datos en su formato original, tanto estructurados como no estructurados, para análisis y procesamiento posterior.
 
-**Taxonomía:**  
-Bases de Datos / Almacenamiento
+**Categoría:**  
+Bases de Datos 
+**Subcategoría:**  
+Almacenamiento
 
 **Términos relacionados:**  
 [Data Lakehouse](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/data-lakehouse.html), [ETL](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/etl.html)

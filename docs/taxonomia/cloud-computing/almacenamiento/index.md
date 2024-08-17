@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Cloud Computing / Almacenamiento
-nav_order: 13
-parent: Taxonomía
+title: Almacenamiento
 has_children: true
+parent: Cloud Computing
+grand_parent: Taxonomía
 ---

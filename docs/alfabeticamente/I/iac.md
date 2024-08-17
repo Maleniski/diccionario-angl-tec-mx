@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Infraestructura como código; práctica de gestionar y aprovisionar recursos de infraestructura mediante archivos de definición legibles por máquinas en lugar de procesos manuales.
 
-**Taxonomía:**  
-DevOps / Cloud Computing
+**Categoría:**  
+DevOps 
+**Subcategoría:**  
+Cloud Computing
 
 **Términos relacionados:**  
 [Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pipeline.html), [DevOps](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/devops.html)

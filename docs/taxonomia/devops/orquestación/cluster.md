@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Cluster
-nav_order: 15
 parent: Orquestación
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Conjunto de servidores o nodos que trabajan juntos para proporcionar alta disponibilidad y escalabilidad.
 
-**Taxonomía:**  
-DevOps / Orquestación
+**Categoría:**  
+DevOps
+
+**Subcategoría:**  
+Orquestación
 
 **Términos relacionados:**  
-[Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops-/-orquestación/pod.html), [Nodo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops-/-orquestación/nodo.html)
+[Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/orquestación/pod.html), [Nodo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/orquestación/nodo.html)

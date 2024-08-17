@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Referente a soluciones o sistemas diseñados para ser utilizados en grandes organizaciones.
 
-**Taxonomía:**  
-Arquitectura de Software
+**Categoría:**  
+Arquitectura de Software 
+  
+
 
 **Términos relacionados:**  
 [Microservicio](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/microservicio.html), [Middleware](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/middleware.html)

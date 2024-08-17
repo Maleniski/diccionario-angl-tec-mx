@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Mods
-nav_order: 17
 parent: Desarrollo de Software
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Modificaciones o expansiones no oficiales hechas a un software o juego.
 
-**Taxonomía:**  
-Coloquialismo / Desarrollo de Software
+**Categoría:**  
+Coloquialismo
+
+**Subcategoría:**  
+Desarrollo de Software
 
 **Términos relacionados:**  
-[Bomberazo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/coloquialismo-/-desarrollo-de-software/bomberazo.html), [Al vuelo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/coloquialismo-/-desarrollo-de-software/al-vuelo.html)
+[Bomberazo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/coloquialismo/desarrollo-de-software/bomberazo.html), [Al vuelo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/coloquialismo/desarrollo-de-software/al-vuelo.html)

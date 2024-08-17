@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Experiencia de usuario (UX) y la interfaz de usuario (UI); aspectos relacionados con cómo los usuarios interactúan con una aplicación y cómo esta es visualmente presentada.
 
-**Taxonomía:**  
-Diseño / Desarrollo de Software
+**Categoría:**  
+Diseño 
+**Subcategoría:**  
+Desarrollo de Software
 
 **Términos relacionados:**  
 [Wireframe](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/W/wireframe.html), [Maquetado](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/maquetado.html)

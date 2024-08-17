@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Pipeline
-nav_order: 38
 parent: CI/CD
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Cadena automatizada de procesos para la construcción, prueba, y despliegue de software.
 
-**Taxonomía:**  
-DevOps / CI/CD
+**Categoría:**  
+DevOps
+
+**Subcategoría:**  
+CI/CD
 
 **Términos relacionados:**  
-[Integrar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops-/-ci/cd/integrar.html), [Desplegar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops-/-ci/cd/desplegar.html)
+[Integrar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/ci/cd/integrar.html), [Desplegar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/ci/cd/desplegar.html)

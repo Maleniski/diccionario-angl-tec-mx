@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Underfit
-nav_order: 28
 parent: Machine Learning
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Cuando un modelo de machine learning es demasiado simple y no captura bien los patrones en los datos, resultando en bajo rendimiento.
 
-**Taxonomía:**  
-Data Science / Machine Learning
+**Categoría:**  
+Data Science
+
+**Subcategoría:**  
+Machine Learning
 
 **Términos relacionados:**  
-[Overfit](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science-/-machine-learning/overfit.html), [Hiperparámetros](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science-/-machine-learning/hiperparmetros.html)
+[Overfit](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science/machine-learning/overfit.html), [Hiperparámetros](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science/machine-learning/hiperparmetros.html)

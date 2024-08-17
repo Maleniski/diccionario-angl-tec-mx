@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Proceso de probar una estrategia de inversión utilizando datos históricos para evaluar su viabilidad.
 
-**Taxonomía:**  
-Data Science / Finanzas
+**Categoría:**  
+Data Science 
+**Subcategoría:**  
+Finanzas
 
 **Términos relacionados:**  
 [Forecasting](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/forecasting.html), [Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/clustering.html)

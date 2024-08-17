@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Data Science / Finanzas
-nav_order: 10
-parent: Taxonomía
+title: Finanzas
 has_children: true
+parent: Data Science
+grand_parent: Taxonomía
 ---

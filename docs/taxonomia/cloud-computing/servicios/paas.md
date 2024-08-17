@@ -1,7 +1,6 @@
 ---
 layout: default
 title: PaaS
-nav_order: 32
 parent: Servicios
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Plataforma como servicio que proporciona un entorno en la nube para desarrollar, gestionar y ejecutar aplicaciones sin gestionar la infraestructura subyacente.
 
-**Taxonomía:**  
-Cloud Computing / Servicios
+**Categoría:**  
+Cloud Computing
+
+**Subcategoría:**  
+Servicios
 
 **Términos relacionados:**  
-[SaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/cloud-computing-/-servicios/saas.html), [IaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/cloud-computing-/-servicios/iaas.html)
+[SaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/cloud-computing/servicios/saas.html), [IaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/cloud-computing/servicios/iaas.html)

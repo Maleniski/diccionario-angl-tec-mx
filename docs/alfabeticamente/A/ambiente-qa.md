@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Entorno en el que se realizan pruebas para asegurar la calidad de la aplicación antes de pasar a producción.
 
-**Taxonomía:**  
-DevOps / Testing
+**Categoría:**  
+DevOps 
+**Subcategoría:**  
+Testing
 
 **Términos relacionados:**  
 [Ambiente Dev](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-dev.html), [Ambiente Prod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-prod.html)

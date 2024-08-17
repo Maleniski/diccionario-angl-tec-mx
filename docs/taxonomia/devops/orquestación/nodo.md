@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Nodo
-nav_order: 19
 parent: Orquestación
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Unidad individual dentro de un cluster que puede ejecutar uno o más pods.
 
-**Taxonomía:**  
-DevOps / Orquestación
+**Categoría:**  
+DevOps
+
+**Subcategoría:**  
+Orquestación
 
 **Términos relacionados:**  
-[Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops-/-orquestación/cluster.html), [Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops-/-orquestación/pod.html)
+[Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/orquestación/cluster.html), [Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/orquestación/pod.html)

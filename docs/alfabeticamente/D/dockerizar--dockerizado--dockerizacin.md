@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Proceso de encapsular una aplicación en un contenedor Docker para facilitar su despliegue y ejecución.
 
-**Taxonomía:**  
-DevOps / Contenedores
+**Categoría:**  
+DevOps 
+**Subcategoría:**  
+Contenedores
 
 **Términos relacionados:**  
 [Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/contenedor.html), [Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pod.html)

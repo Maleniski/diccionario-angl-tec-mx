@@ -9,10 +9,12 @@ grand_parent: Alfabéticamente
 # Operador morsa
 
 **Definición:**  
+Syntactic Sugar, Wildcard
+
+**Categoría:**  
+Desarrollo de Software 
+**Subcategoría:**  
 Operador de asignación introducido en Python 3.8 que permite asignar valores y utilizarlos en una sola expresión.
 
-**Taxonomía:**  
-Desarrollo de Software
-
 **Términos relacionados:**  
-[Syntactic Sugar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/syntactic-sugar.html), [Wildcard](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/W/wildcard.html)
+

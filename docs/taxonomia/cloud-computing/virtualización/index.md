@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Cloud Computing / Virtualización
-nav_order: 44
-parent: Taxonomía
+title: Virtualización
 has_children: true
+parent: Cloud Computing
+grand_parent: Taxonomía
 ---

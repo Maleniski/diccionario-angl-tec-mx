@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Proceso de combinar módulos de software independientes en un sistema unificado.
 
-**Taxonomía:**  
-Desarrollo de Software / DevOps
+**Categoría:**  
+Desarrollo de Software 
+**Subcategoría:**  
+DevOps
 
 **Términos relacionados:**  
 [Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pipeline.html), [Microservicio](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/microservicio.html)

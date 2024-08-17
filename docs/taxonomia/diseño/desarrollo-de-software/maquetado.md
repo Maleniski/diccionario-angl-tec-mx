@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Maquetado
-nav_order: 34
 parent: Desarrollo de Software
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Proceso de diseñar la estructura visual de una página web o aplicación antes de su desarrollo completo.
 
-**Taxonomía:**  
-Diseño / Desarrollo de Software
+**Categoría:**  
+Diseño
+
+**Subcategoría:**  
+Desarrollo de Software
 
 **Términos relacionados:**  
-[Wireframe](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/diseño-/-desarrollo-de-software/wireframe.html), [UX/UI](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/diseño-/-desarrollo-de-software/uxui.html)
+[Wireframe](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/diseño/desarrollo-de-software/wireframe.html), [UX/UI](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/diseño/desarrollo-de-software/uxui.html)

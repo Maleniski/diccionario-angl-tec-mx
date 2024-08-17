@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Causalidad
-nav_order: 8
 parent: Machine Learning
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Relación entre causa y efecto donde una variable influye directamente en otra, diferenciándose de la simple correlación.
 
-**Taxonomía:**  
-Data Science / Machine Learning
+**Categoría:**  
+Data Science
+
+**Subcategoría:**  
+Machine Learning
 
 **Términos relacionados:**  
-[Correlación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science-/-machine-learning/correlacin.html), [Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science-/-machine-learning/clustering.html)
+[Correlación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science/machine-learning/correlacin.html), [Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science/machine-learning/clustering.html)

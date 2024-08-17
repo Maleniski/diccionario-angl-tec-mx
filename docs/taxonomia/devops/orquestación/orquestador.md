@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Orquestador
-nav_order: 20
 parent: Orquestación
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Software que gestiona la coordinación y ejecución de contenedores en un entorno distribuido.
 
-**Taxonomía:**  
-DevOps / Orquestación
+**Categoría:**  
+DevOps
+
+**Subcategoría:**  
+Orquestación
 
 **Términos relacionados:**  
-[Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops-/-orquestación/pod.html), [Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops-/-orquestación/cluster.html)
+[Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/orquestación/pod.html), [Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/orquestación/cluster.html)

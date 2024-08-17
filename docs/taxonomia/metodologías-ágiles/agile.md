@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Agile
-nav_order: 1
 parent: Metodologías Ágiles
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Metodología de desarrollo de software que enfatiza la flexibilidad, colaboración, y entregas iterativas rápidas.
 
-**Taxonomía:**  
+**Categoría:**  
 Metodologías Ágiles
+
+**Subcategoría:**  
+N/A
 
 **Términos relacionados:**  
 [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/metodologías-ágiles/sprint.html), [Backlog](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/metodologías-ágiles/backlog.html)

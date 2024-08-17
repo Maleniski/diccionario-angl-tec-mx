@@ -9,10 +9,12 @@ grand_parent: Alfabéticamente
 # Stopper
 
 **Definición:**  
+Blocker, Sprint
+
+**Categoría:**  
+Metodologías Ágiles 
+**Subcategoría:**  
 Problema crítico que detiene completamente el progreso de un proyecto o tarea.
 
-**Taxonomía:**  
-Metodologías Ágiles
-
 **Términos relacionados:**  
-[Blocker](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/B/blocker.html), [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/sprint.html)
+

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Data Science / Gobierno de Datos
-nav_order: 29
-parent: Taxonomía
+title: Gobierno de Datos
 has_children: true
+parent: Data Science
+grand_parent: Taxonomía
 ---

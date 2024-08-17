@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Entornos que simulan el ambiente de producción para realizar pruebas antes de desplegar cambios.
 
-**Taxonomía:**  
-DevOps / Testing
+**Categoría:**  
+DevOps 
+**Subcategoría:**  
+Testing
 
 **Términos relacionados:**  
 [Ambiente QA](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-qa.html), [Ambiente Dev](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-dev.html)

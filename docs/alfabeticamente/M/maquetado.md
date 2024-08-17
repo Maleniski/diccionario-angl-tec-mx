@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Proceso de diseñar la estructura visual de una página web o aplicación antes de su desarrollo completo.
 
-**Taxonomía:**  
-Diseño / Desarrollo de Software
+**Categoría:**  
+Diseño 
+**Subcategoría:**  
+Desarrollo de Software
 
 **Términos relacionados:**  
 [Wireframe](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/W/wireframe.html), [UX/UI](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/U/uxui.html)

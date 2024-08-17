@@ -1,7 +1,6 @@
 ---
 layout: default
 title: VPN
-nav_order: 46
 parent: Seguridad
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Tecnología que crea una conexión segura y cifrada sobre una red menos segura, como internet.
 
-**Taxonomía:**  
-Redes / Seguridad
+**Categoría:**  
+Redes
+
+**Subcategoría:**  
+Seguridad
 
 **Términos relacionados:**  
-[VPC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/redes-/-seguridad/vpc.html), [SAS Key](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/redes-/-seguridad/sas-key.html)
+[VPC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/redes/seguridad/vpc.html), [SAS Key](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/redes/seguridad/sas-key.html)

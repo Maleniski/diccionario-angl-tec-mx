@@ -1,7 +1,7 @@
 ---
 layout: default
-title: DevOps / CI/CD
-nav_order: 38
-parent: Taxonomía
+title: CI/CD
 has_children: true
+parent: DevOps
+grand_parent: Taxonomía
 ---

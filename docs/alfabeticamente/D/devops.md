@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Conjunto de prácticas que unifican el desarrollo de software (Dev) y las operaciones de TI (Ops) para mejorar la eficiencia y calidad del despliegue de aplicaciones.
 
-**Taxonomía:**  
-DevOps
+**Categoría:**  
+DevOps 
+  
+
 
 **Términos relacionados:**  
 [Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pipeline.html), [Dockerizar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dockerizar.html)

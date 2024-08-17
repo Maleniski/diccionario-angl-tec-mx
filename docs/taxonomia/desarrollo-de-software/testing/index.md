@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Desarrollo de Software / Testing
-nav_order: 24
-parent: Taxonomía
+title: Testing
 has_children: true
+parent: Desarrollo de Software
+grand_parent: Taxonomía
 ---

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Overfit
-nav_order: 26
 parent: Machine Learning
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Cuando un modelo de machine learning se ajusta demasiado a los datos de entrenamiento, perdiendo capacidad de generalización a nuevos datos.
 
-**Taxonomía:**  
-Data Science / Machine Learning
+**Categoría:**  
+Data Science
+
+**Subcategoría:**  
+Machine Learning
 
 **Términos relacionados:**  
-[Underfit](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science-/-machine-learning/underfit.html), [Hiperparámetros](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science-/-machine-learning/hiperparmetros.html)
+[Underfit](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science/machine-learning/underfit.html), [Hiperparámetros](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science/machine-learning/hiperparmetros.html)

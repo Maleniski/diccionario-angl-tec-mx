@@ -1,7 +1,7 @@
 ---
 layout: default
-title: DevOps / Cloud Computing
-nav_order: 32
-parent: Taxonomía
+title: Cloud Computing
 has_children: true
+parent: DevOps
+grand_parent: Taxonomía
 ---

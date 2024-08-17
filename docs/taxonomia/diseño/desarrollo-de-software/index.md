@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Diseño / Desarrollo de Software
-nav_order: 34
-parent: Taxonomía
+title: Desarrollo de Software
 has_children: true
+parent: Diseño
+grand_parent: Taxonomía
 ---

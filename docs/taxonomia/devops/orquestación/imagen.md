@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Imagen
-nav_order: 17
 parent: Orquestación
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Copia de un sistema operativo o aplicación, empaquetada para ser desplegada en contenedores u otros entornos.
 
-**Taxonomía:**  
-DevOps / Orquestación
+**Categoría:**  
+DevOps
+
+**Subcategoría:**  
+Orquestación
 
 **Términos relacionados:**  
-[Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops-/-orquestación/contenedor.html), [Dockerizar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops-/-orquestación/dockerizar.html)
+[Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/orquestación/contenedor.html), [Dockerizar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/orquestación/dockerizar.html)

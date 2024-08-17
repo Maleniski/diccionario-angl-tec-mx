@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Vector Database
-nav_order: 29
 parent: Machine Learning
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Base de datos optimizada para almacenar y gestionar vectores, comúnmente utilizada en aplicaciones de machine learning y búsquedas vectoriales.
 
-**Taxonomía:**  
-Data Science / Machine Learning
+**Categoría:**  
+Data Science
+
+**Subcategoría:**  
+Machine Learning
 
 **Términos relacionados:**  
-[Feature Store](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science-/-machine-learning/feature-store.html), [Hiperparámetros](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science-/-machine-learning/hiperparmetros.html)
+[Feature Store](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science/machine-learning/feature-store.html), [Hiperparámetros](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science/machine-learning/hiperparmetros.html)

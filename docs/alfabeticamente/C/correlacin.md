@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Medida estadística que indica la relación entre dos variables, utilizada para entender patrones en los datos.
 
-**Taxonomía:**  
-Data Science / Machine Learning
+**Categoría:**  
+Data Science 
+**Subcategoría:**  
+Machine Learning
 
 **Términos relacionados:**  
 [Causalidad](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/causalidad.html), [Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/clustering.html)

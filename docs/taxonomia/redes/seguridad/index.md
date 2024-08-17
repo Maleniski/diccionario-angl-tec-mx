@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Redes / Seguridad
-nav_order: 46
-parent: Taxonomía
+title: Seguridad
 has_children: true
+parent: Redes
+grand_parent: Taxonomía
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Gestión de Proyectos / Desarrollo de Software
-nav_order: 36
-parent: Taxonomía
+title: Desarrollo de Software
 has_children: true
+parent: Gestión de Proyectos
+grand_parent: Taxonomía
 ---

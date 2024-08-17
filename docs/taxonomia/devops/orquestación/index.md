@@ -1,7 +1,7 @@
 ---
 layout: default
-title: DevOps / Orquestación
-nav_order: 15
-parent: Taxonomía
+title: Orquestación
 has_children: true
+parent: DevOps
+grand_parent: Taxonomía
 ---

@@ -9,10 +9,12 @@ grand_parent: Alfabéticamente
 # PM
 
 **Definición:**  
+Tech lead, Stakeholders
+
+**Categoría:**  
+Gestión de Proyectos 
+**Subcategoría:**  
 Gerente de Proyecto, responsable de la planificación, ejecución y cierre de un proyecto.
 
-**Taxonomía:**  
-Gestión de Proyectos
-
 **Términos relacionados:**  
-[Tech lead](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/T/tech-lead.html), [Stakeholders](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/stakeholders.html)
+

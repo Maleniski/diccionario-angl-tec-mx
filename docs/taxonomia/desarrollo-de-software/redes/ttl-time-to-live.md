@@ -1,7 +1,6 @@
 ---
 layout: default
 title: TTL (time to live)
-nav_order: 28
 parent: Redes
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Tiempo de vida de un paquete o dato antes de que sea descartado o eliminado.
 
-**Taxonomía:**  
-Desarrollo de Software / Redes
+**Categoría:**  
+Desarrollo de Software
+
+**Subcategoría:**  
+Redes
 
 **Términos relacionados:**  
-[VPN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software-/-redes/vpn.html), [VPC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software-/-redes/vpc.html)
+[VPN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/redes/vpn.html), [VPC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/redes/vpc.html)

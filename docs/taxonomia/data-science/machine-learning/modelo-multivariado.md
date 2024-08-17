@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Modelo Multivariado
-nav_order: 23
 parent: Machine Learning
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Modelo de análisis estadístico o machine learning que considera múltiples variables para predecir un resultado o entender relaciones complejas entre ellas.
 
-**Taxonomía:**  
-Data Science / Machine Learning
+**Categoría:**  
+Data Science
+
+**Subcategoría:**  
+Machine Learning
 
 **Términos relacionados:**  
-[Causalidad](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science-/-machine-learning/causalidad.html), [Correlación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science-/-machine-learning/correlacin.html)
+[Causalidad](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science/machine-learning/causalidad.html), [Correlación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/data-science/machine-learning/correlacin.html)

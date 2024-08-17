@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Entorno en el que se ejecuta la versión final de la aplicación, accesible a los usuarios finales.
 
-**Taxonomía:**  
-DevOps
+**Categoría:**  
+DevOps 
+  
+
 
 **Términos relacionados:**  
 [Ambiente Dev](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-dev.html), [Ambiente QA](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-qa.html)

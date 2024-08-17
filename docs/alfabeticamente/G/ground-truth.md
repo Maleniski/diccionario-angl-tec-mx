@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Datos de referencia utilizados para entrenar y evaluar modelos de machine learning, considerados como la verdad factual.
 
-**Taxonomía:**  
-Data Science / Machine Learning
+**Categoría:**  
+Data Science 
+**Subcategoría:**  
+Machine Learning
 
 **Términos relacionados:**  
 [Overfit](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/O/overfit.html), [Underfit](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/U/underfit.html)

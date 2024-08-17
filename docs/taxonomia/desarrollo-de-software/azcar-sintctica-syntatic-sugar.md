@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Azúcar sintáctica (syntatic sugar)
-nav_order: 8
 parent: Desarrollo de Software
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Característica del lenguaje de programación que facilita escribir código más claro y conciso sin agregar funcionalidad.
 
-**Taxonomía:**  
+**Categoría:**  
 Desarrollo de Software
+
+**Subcategoría:**  
+N/A
 
 **Términos relacionados:**  
 [Operador morsa](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/operador-morsa.html), [Wildcard](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/wildcard.html)

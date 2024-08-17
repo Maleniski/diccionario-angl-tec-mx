@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Instancia de un sistema operativo que se ejecuta sobre un hipervisor, simulando un hardware físico completo.
 
-**Taxonomía:**  
-Cloud Computing / Virtualización
+**Categoría:**  
+Cloud Computing 
+**Subcategoría:**  
+Virtualización
 
 **Términos relacionados:**  
 [Hiperescalador](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/H/hiperescalador.html), [VPC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vpc.html)

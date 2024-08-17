@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Información que describe otros datos, proporcionando contexto o detalles adicionales sobre su origen, estructura, o características.
 
-**Taxonomía:**  
-Bases de Datos / Data Science
+**Categoría:**  
+Bases de Datos 
+**Subcategoría:**  
+Data Science
 
 **Términos relacionados:**  
 [Diccionario de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/diccionario-de-datos.html), [Dataset](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dataset.html)

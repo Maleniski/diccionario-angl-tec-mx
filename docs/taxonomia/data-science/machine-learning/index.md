@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Data Science / Machine Learning
-nav_order: 7
-parent: Taxonomía
+title: Machine Learning
 has_children: true
+parent: Data Science
+grand_parent: Taxonomía
 ---

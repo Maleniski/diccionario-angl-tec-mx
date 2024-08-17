@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Ambientes en ecosistemas
-nav_order: 5
 parent: DevOps
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Entornos específicos (como Dev, QA, Prod) en los que se despliegan y prueban aplicaciones.
 
-**Taxonomía:**  
-Arquitectura de Software / DevOps
+**Categoría:**  
+Arquitectura de Software
+
+**Subcategoría:**  
+DevOps
 
 **Términos relacionados:**  
-[Ambiente QA](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/arquitectura-de-software-/-devops/ambiente-qa.html), [Ambiente Prod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/arquitectura-de-software-/-devops/ambiente-prod.html)
+[Ambiente QA](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/arquitectura-de-software/devops/ambiente-qa.html), [Ambiente Prod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/arquitectura-de-software/devops/ambiente-prod.html)

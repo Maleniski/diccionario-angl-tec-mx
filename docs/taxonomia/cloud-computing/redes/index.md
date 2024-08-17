@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Cloud Computing / Redes
-nav_order: 45
-parent: Taxonomía
+title: Redes
 has_children: true
+parent: Cloud Computing
+grand_parent: Taxonomía
 ---

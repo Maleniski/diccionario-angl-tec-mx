@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Full-stack
-nav_order: 11
 parent: Arquitectura de Software
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Desarrollador o aplicación que cubre tanto el Front-end como el Back-end.
 
-**Taxonomía:**  
-Desarrollo de Software / Arquitectura de Software
+**Categoría:**  
+Desarrollo de Software
+
+**Subcategoría:**  
+Arquitectura de Software
 
 **Términos relacionados:**  
-[Front-end](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software-/-arquitectura-de-software/front-end.html), [Back-end](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software-/-arquitectura-de-software/back-end.html)
+[Front-end](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/arquitectura-de-software/front-end.html), [Back-end](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/arquitectura-de-software/back-end.html)

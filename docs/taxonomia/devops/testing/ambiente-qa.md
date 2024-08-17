@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Ambiente QA
-nav_order: 4
 parent: Testing
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Entorno en el que se realizan pruebas para asegurar la calidad de la aplicación antes de pasar a producción.
 
-**Taxonomía:**  
-DevOps / Testing
+**Categoría:**  
+DevOps
+
+**Subcategoría:**  
+Testing
 
 **Términos relacionados:**  
-[Ambiente Dev](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops-/-testing/ambiente-dev.html), [Ambiente Prod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops-/-testing/ambiente-prod.html)
+[Ambiente Dev](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/testing/ambiente-dev.html), [Ambiente Prod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/testing/ambiente-prod.html)

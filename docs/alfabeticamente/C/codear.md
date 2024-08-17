@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Acto de escribir código o programar.
 
-**Taxonomía:**  
-Coloquialismo / Desarrollo de Software
+**Categoría:**  
+Coloquialismo 
+**Subcategoría:**  
+Desarrollo de Software
 
 **Términos relacionados:**  
 [Debuggear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/debuggear.html), [Testear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/T/testear.html)

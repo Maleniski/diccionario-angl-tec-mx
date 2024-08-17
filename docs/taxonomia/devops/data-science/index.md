@@ -1,7 +1,7 @@
 ---
 layout: default
-title: DevOps / Data Science
-nav_order: 33
-parent: Taxonomía
+title: Data Science
 has_children: true
+parent: DevOps
+grand_parent: Taxonomía
 ---

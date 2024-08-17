@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Arquitectura de Software / DevOps
-nav_order: 5
-parent: Taxonomía
+title: DevOps
 has_children: true
+parent: Arquitectura de Software
+grand_parent: Taxonomía
 ---

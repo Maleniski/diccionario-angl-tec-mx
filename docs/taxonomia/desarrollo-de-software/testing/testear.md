@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Testear
-nav_order: 25
 parent: Testing
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Evaluar un software o sistema para verificar su correcto funcionamiento.
 
-**Taxonomía:**  
-Desarrollo de Software / Testing
+**Categoría:**  
+Desarrollo de Software
+
+**Subcategoría:**  
+Testing
 
 **Términos relacionados:**  
-[Debuggear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software-/-testing/debuggear.html), [Dummy](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software-/-testing/dummy.html)
+[Debuggear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/testing/debuggear.html), [Dummy](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/testing/dummy.html)

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Ambiente Prod
-nav_order: 4
 parent: DevOps
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Entorno en el que se ejecuta la versión final de la aplicación, accesible a los usuarios finales.
 
-**Taxonomía:**  
+**Categoría:**  
 DevOps
+
+**Subcategoría:**  
+N/A
 
 **Términos relacionados:**  
 [Ambiente Dev](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/ambiente-dev.html), [Ambiente QA](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/ambiente-qa.html)

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Desarrollo de Software / Control de Versiones
-nav_order: 28
-parent: Taxonomía
+title: Control de Versiones
 has_children: true
+parent: Desarrollo de Software
+grand_parent: Taxonomía
 ---

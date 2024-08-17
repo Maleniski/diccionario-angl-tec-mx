@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Infrastructure as a Service; modelo de servicio que ofrece recursos de computación virtualizados a través de internet.
 
-**Taxonomía:**  
-Cloud Computing / Servicios
+**Categoría:**  
+Cloud Computing 
+**Subcategoría:**  
+Servicios
 
 **Términos relacionados:**  
 [PaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/paas.html), [SaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/saas.html)

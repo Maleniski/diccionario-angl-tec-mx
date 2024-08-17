@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Punto de control importante en el cronograma de un proyecto, que marca la finalización de una fase clave.
 
-**Taxonomía:**  
-Metodologías Ágiles / Gestión de Proyectos
+**Categoría:**  
+Metodologías Ágiles 
+**Subcategoría:**  
+Gestión de Proyectos
 
 **Términos relacionados:**  
 [Dashboard](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dashboard.html), [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/sprint.html)

@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Ejemplos preconfigurados que vienen con un software o framework, listos para ser utilizados sin personalización.
 
-**Taxonomía:**  
-Data Science / Machine Learning
+**Categoría:**  
+Data Science 
+**Subcategoría:**  
+Machine Learning
 
 **Términos relacionados:**  
 [Framework](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/framework.html), [Bootstrap](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/B/bootstrap.html)

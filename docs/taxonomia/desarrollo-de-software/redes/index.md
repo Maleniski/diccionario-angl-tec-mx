@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Desarrollo de Software / Redes
-nav_order: 27
-parent: Taxonomía
+title: Redes
 has_children: true
+parent: Desarrollo de Software
+grand_parent: Taxonomía
 ---

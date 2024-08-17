@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Método de agrupación de datos en subconjuntos similares (clusters), utilizado en análisis exploratorio y modelos de machine learning.
 
-**Taxonomía:**  
-Data Science / Machine Learning
+**Categoría:**  
+Data Science 
+**Subcategoría:**  
+Machine Learning
 
 **Términos relacionados:**  
 [Ensamble](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/ensamble.html), [Forecasting](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/forecasting.html)

@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Estructura tabular de datos comúnmente utilizada en lenguajes como Python y R, compuesta por filas y columnas.
 
-**Taxonomía:**  
-Data Science / Estructura de Datos
+**Categoría:**  
+Data Science 
+**Subcategoría:**  
+Estructura de Datos
 
 **Términos relacionados:**  
 [Dataset](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dataset.html), [ETL](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/etl.html)

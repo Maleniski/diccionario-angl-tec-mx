@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Cloud Computing / Seguridad
-nav_order: 41
-parent: Taxonomía
+title: Seguridad
 has_children: true
+parent: Cloud Computing
+grand_parent: Taxonomía
 ---

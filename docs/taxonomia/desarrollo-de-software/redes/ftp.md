@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Ftp
-nav_order: 27
 parent: Redes
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Protocolo de transferencia de archivos que permite mover archivos entre sistemas conectados a una red.
 
-**Taxonomía:**  
-Desarrollo de Software / Redes
+**Categoría:**  
+Desarrollo de Software
+
+**Subcategoría:**  
+Redes
 
 **Términos relacionados:**  
-[VM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software-/-redes/vm.html), [VPN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software-/-redes/vpn.html)
+[VM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/redes/vm.html), [VPN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/redes/vpn.html)

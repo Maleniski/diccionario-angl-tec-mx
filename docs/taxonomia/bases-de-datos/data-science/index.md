@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bases de Datos / Data Science
-nav_order: 22
-parent: Taxonomía
+title: Data Science
 has_children: true
+parent: Bases de Datos
+grand_parent: Taxonomía
 ---

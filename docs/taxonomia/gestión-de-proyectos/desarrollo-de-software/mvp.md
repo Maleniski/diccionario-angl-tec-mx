@@ -1,7 +1,6 @@
 ---
 layout: default
 title: MVP
-nav_order: 36
 parent: Desarrollo de Software
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Producto Mínimo Viable; versión simplificada de un producto con suficiente funcionalidad para atraer a los primeros usuarios y validar una idea.
 
-**Taxonomía:**  
-Gestión de Proyectos / Desarrollo de Software
+**Categoría:**  
+Gestión de Proyectos
+
+**Subcategoría:**  
+Desarrollo de Software
 
 **Términos relacionados:**  
-[POC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/gestión-de-proyectos-/-desarrollo-de-software/poc.html), [Agile](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/gestión-de-proyectos-/-desarrollo-de-software/agile.html)
+[POC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/gestión-de-proyectos/desarrollo-de-software/poc.html), [Agile](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/gestión-de-proyectos/desarrollo-de-software/agile.html)

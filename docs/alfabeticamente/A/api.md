@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Interfaz que permite la comunicación entre diferentes aplicaciones o servicios de software.
 
-**Taxonomía:**  
-API y Servicios
+**Categoría:**  
+API y Servicios 
+  
+
 
 **Términos relacionados:**  
 [Endpoint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/endpoint.html), [Middleware](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/middleware.html)

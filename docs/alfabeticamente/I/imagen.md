@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Copia de un sistema operativo o aplicación, empaquetada para ser desplegada en contenedores u otros entornos.
 
-**Taxonomía:**  
-DevOps / Orquestación
+**Categoría:**  
+DevOps 
+**Subcategoría:**  
+Orquestación
 
 **Términos relacionados:**  
 [Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/contenedor.html), [Dockerizar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dockerizar.html)

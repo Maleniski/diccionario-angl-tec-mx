@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Metodologías Ágiles / Gestión de Proyectos
-nav_order: 35
-parent: Taxonomía
+title: Gestión de Proyectos
 has_children: true
+parent: Metodologías Ágiles
+grand_parent: Taxonomía
 ---

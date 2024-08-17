@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Relación entre causa y efecto donde una variable influye directamente en otra, diferenciándose de la simple correlación.
 
-**Taxonomía:**  
-Data Science / Machine Learning
+**Categoría:**  
+Data Science 
+**Subcategoría:**  
+Machine Learning
 
 **Términos relacionados:**  
 [Correlación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/correlacin.html), [Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/clustering.html)

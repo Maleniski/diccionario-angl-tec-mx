@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Proceso de poner en producción o hacer accesible un software a los usuarios finales.
 
-**Taxonomía:**  
-Desarrollo de Software / DevOps
+**Categoría:**  
+Desarrollo de Software 
+**Subcategoría:**  
+DevOps
 
 **Términos relacionados:**  
 [DevOps](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/devops.html), [Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pipeline.html)

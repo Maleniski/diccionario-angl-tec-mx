@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Protocolo de transferencia de archivos que permite mover archivos entre sistemas conectados a una red.
 
-**Taxonomía:**  
-Desarrollo de Software / Redes
+**Categoría:**  
+Desarrollo de Software 
+**Subcategoría:**  
+Redes
 
 **Términos relacionados:**  
 [VM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vm.html), [VPN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vpn.html)

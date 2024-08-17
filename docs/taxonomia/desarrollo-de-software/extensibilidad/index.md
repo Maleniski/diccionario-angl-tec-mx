@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Desarrollo de Software / Extensibilidad
-nav_order: 39
-parent: Taxonomía
+title: Extensibilidad
 has_children: true
+parent: Desarrollo de Software
+grand_parent: Taxonomía
 ---

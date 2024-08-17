@@ -9,10 +9,12 @@ grand_parent: Alfabéticamente
 # Microservicio
 
 **Definición:**  
+Enterprise, Contenedor
+
+**Categoría:**  
+Arquitectura de Software 
+**Subcategoría:**  
 Arquitectura donde una aplicación se descompone en pequeños servicios independientes que interactúan entre sí.
 
-**Taxonomía:**  
-Arquitectura de Software
-
 **Términos relacionados:**  
-[Enterprise](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/enterprise.html), [Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/contenedor.html)
+

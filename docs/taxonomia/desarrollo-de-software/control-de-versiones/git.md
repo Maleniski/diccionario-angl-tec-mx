@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Git
-nav_order: 28
 parent: Control de Versiones
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Sistema de control de versiones distribuido utilizado para seguir los cambios en el código fuente durante el desarrollo de software.
 
-**Taxonomía:**  
-Desarrollo de Software / Control de Versiones
+**Categoría:**  
+Desarrollo de Software
+
+**Subcategoría:**  
+Control de Versiones
 
 **Términos relacionados:**  
-[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software-/-control-de-versiones/pipeline.html), [Framework](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software-/-control-de-versiones/framework.html)
+[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/control-de-versiones/pipeline.html), [Framework](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/control-de-versiones/framework.html)

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Coloquialismo / Desarrollo de Software
-nav_order: 16
-parent: Taxonomía
+title: Desarrollo de Software
 has_children: true
+parent: Coloquialismo
+grand_parent: Taxonomía
 ---

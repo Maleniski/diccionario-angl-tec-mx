@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Repositorio centralizado que contiene descripciones y definiciones de los elementos de datos de una base de datos.
 
-**Taxonomía:**  
-Bases de Datos / Data Science
+**Categoría:**  
+Bases de Datos 
+**Subcategoría:**  
+Data Science
 
 **Términos relacionados:**  
 [Metadatos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/metadatos.html), [Esquema de Base de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/esquema-de-base-de-datos.html)

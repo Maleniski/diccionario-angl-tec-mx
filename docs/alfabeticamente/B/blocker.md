@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Obstáculo que impide el avance de un equipo en su trabajo.
 
-**Taxonomía:**  
-Metodologías Ágiles
+**Categoría:**  
+Metodologías Ágiles 
+  
+
 
 **Términos relacionados:**  
 [Stopper](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/stopper.html), [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/sprint.html)

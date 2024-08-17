@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Software que gestiona la coordinación y ejecución de contenedores en un entorno distribuido.
 
-**Taxonomía:**  
-DevOps / Orquestación
+**Categoría:**  
+DevOps 
+**Subcategoría:**  
+Orquestación
 
 **Términos relacionados:**  
 [Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pod.html), [Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cluster.html)

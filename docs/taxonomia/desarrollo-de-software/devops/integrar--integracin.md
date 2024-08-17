@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Integrar / integración
-nav_order: 22
 parent: DevOps
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Proceso de combinar módulos de software independientes en un sistema unificado.
 
-**Taxonomía:**  
-Desarrollo de Software / DevOps
+**Categoría:**  
+Desarrollo de Software
+
+**Subcategoría:**  
+DevOps
 
 **Términos relacionados:**  
-[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software-/-devops/pipeline.html), [Microservicio](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software-/-devops/microservicio.html)
+[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/devops/pipeline.html), [Microservicio](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/devops/microservicio.html)

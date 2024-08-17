@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Lista priorizada de tareas, características y requerimientos pendientes por desarrollar en un proyecto.
 
-**Taxonomía:**  
-Metodologías Ágiles
+**Categoría:**  
+Metodologías Ágiles 
+  
+
 
 **Términos relacionados:**  
 [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/sprint.html), [Spike](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/spike.html)

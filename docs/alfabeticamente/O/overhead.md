@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Carga adicional que consume recursos y afecta el rendimiento de un sistema o aplicación.
 
-**Taxonomía:**  
-Arquitectura de Software / Optimización
+**Categoría:**  
+Arquitectura de Software 
+**Subcategoría:**  
+Optimización
 
 **Términos relacionados:**  
 [Caché](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cach.html), [Middleware](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/middleware.html)

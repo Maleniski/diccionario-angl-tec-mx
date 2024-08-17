@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Al vuelo
-nav_order: 2
 parent: Coloquialismo
 grand_parent: Taxonomía
 ---
@@ -11,8 +10,11 @@ grand_parent: Taxonomía
 **Definición:**  
 Realizar una tarea o tomar una decisión de manera rápida y/o improvisada, posiblemente sin planificación previa.
 
-**Taxonomía:**  
+**Categoría:**  
 Coloquialismo
+
+**Subcategoría:**  
+N/A
 
 **Términos relacionados:**  
 [Bomberazo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/coloquialismo/bomberazo.html), [Mods](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/coloquialismo/mods.html)

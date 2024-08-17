@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Desarrollo de Software / Framework
-nav_order: 12
-parent: Taxonomía
+title: Framework
 has_children: true
+parent: Desarrollo de Software
+grand_parent: Taxonomía
 ---

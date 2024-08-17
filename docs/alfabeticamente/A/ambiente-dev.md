@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Entorno en el que se desarrolla el software, antes de ser probado en QA.
 
-**Taxonomía:**  
-DevOps
+**Categoría:**  
+DevOps 
+  
+
 
 **Términos relacionados:**  
 [Ambiente QA](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-qa.html), [Ambiente Prod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-prod.html)

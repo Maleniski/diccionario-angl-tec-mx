@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Desarrollo de Software / Arquitectura de Software
-nav_order: 9
-parent: Taxonomía
+title: Arquitectura de Software
 has_children: true
+parent: Desarrollo de Software
+grand_parent: Taxonomía
 ---

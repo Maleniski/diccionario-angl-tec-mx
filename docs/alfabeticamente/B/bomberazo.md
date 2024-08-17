@@ -11,8 +11,10 @@ grand_parent: Alfabéticamente
 **Definición:**  
 Tarea urgente que se realiza de manera improvisada y con poco tiempo para su planificación.
 
-**Taxonomía:**  
-Coloquialismo
+**Categoría:**  
+Coloquialismo 
+  
+
 
 **Términos relacionados:**  
 [Mods](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/mods.html), [Al vuelo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/al-vuelo.html)
