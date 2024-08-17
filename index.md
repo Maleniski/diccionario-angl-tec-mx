@@ -24,7 +24,7 @@ Este diccionario se mantiene de forma colaborativa por medio de la comunidad.
 
 ## Contacto
 
-Puedes contactar al dueño del respositorio por medio de los siguientes canales:
+Puedes contactar al dueño del respositorio por medio de los siguientes canales:  
 
-María Elena Martínez Manzanares (alias, Malena Manzanares)
+María Elena Martínez Manzanares (alias, Malena Manzanares)  
 a214200821@unison.mx  
