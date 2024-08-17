@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sprint
-nav_order: 6
+nav_order: 7
 parent: Metodologías Ágiles
 grand_parent: Taxonomía
 ---

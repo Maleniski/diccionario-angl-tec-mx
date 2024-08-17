@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Operador morsa
-nav_order: 14
+nav_order: 21
 parent: Desarrollo de Software
 grand_parent: Taxonomía
 ---

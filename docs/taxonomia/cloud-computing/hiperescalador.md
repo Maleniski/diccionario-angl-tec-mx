@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hiperescalador
-nav_order: 30
+nav_order: 31
 parent: Cloud Computing
 grand_parent: Taxonomía
 ---

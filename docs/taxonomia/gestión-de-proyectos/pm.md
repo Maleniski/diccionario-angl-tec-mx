@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PM
-nav_order: 40
+nav_order: 41
 parent: Gestión de Proyectos
 grand_parent: Taxonomía
 ---

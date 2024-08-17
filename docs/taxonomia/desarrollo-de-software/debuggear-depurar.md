@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Debuggear, depurar
-nav_order: 10
+nav_order: 13
 parent: Desarrollo de Software
 grand_parent: Taxonomía
 ---
