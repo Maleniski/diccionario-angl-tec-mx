@@ -1,6 +1,6 @@
 ---
 title: Inicio
-layout: Inicio
+layout: home
 ---
 
 Bienvenido a "Anglicismos y Tecnicismos para Software y Ciencia de Datos en México".
