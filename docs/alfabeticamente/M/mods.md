@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Mods
-nav_order: 10
+nav_order: 20
 parent: M
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Mods  
-*Definición:* Modificaciones o expansiones no oficiales hechas a un software o juego.
+# Mods
 
-*Taxonomía:* Coloquialismo / Desarrollo de Software  
-*Términos relacionados:* Bomberazo, Al vuelo
+**Definición:**  
+Modificaciones o expansiones no oficiales hechas a un software o juego.
+
+**Taxonomía:**  
+Coloquialismo / Desarrollo de Software
+
+**Términos relacionados:**  
+[Bomberazo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/B/bomberazo.html), [Al vuelo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/al-vuelo.html)

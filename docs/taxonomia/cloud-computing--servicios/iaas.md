@@ -1,13 +1,18 @@
 ---
 layout: default
 title: IaaS
-nav_order: 1
+nav_order: 31
 parent: Cloud Computing / Servicios
 grand_parent: Taxonomía
 ---
 
-*Término:* IaaS  
-*Definición:* Infrastructure as a Service; modelo de servicio que ofrece recursos de computación virtualizados a través de internet.
+# IaaS
 
-*Taxonomía:* Cloud Computing / Servicios  
-*Términos relacionados:* PaaS, SaaS
+**Definición:**  
+Infrastructure as a Service; modelo de servicio que ofrece recursos de computación virtualizados a través de internet.
+
+**Taxonomía:**  
+Cloud Computing / Servicios
+
+**Términos relacionados:**  
+[PaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/paas/paas.html), [SaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/saas/saas.html)

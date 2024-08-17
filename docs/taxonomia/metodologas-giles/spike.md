@@ -6,8 +6,13 @@ parent: Metodologías Ágiles
 grand_parent: Taxonomía
 ---
 
-*Término:* Spike  
-*Definición:* Pequeño esfuerzo exploratorio para investigar un problema o probar una idea en un entorno ágil.
+# Spike
 
-*Taxonomía:* Metodologías Ágiles  
-*Términos relacionados:* Sprint, Backlog
+**Definición:**  
+Pequeño esfuerzo exploratorio para investigar un problema o probar una idea en un entorno ágil.
+
+**Taxonomía:**  
+Metodologías Ágiles
+
+**Términos relacionados:**  
+[Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/sprint/sprint.html), [Backlog](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/backlog/backlog.html)

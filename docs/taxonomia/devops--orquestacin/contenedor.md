@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Contenedor
-nav_order: 2
+nav_order: 16
 parent: DevOps / Orquestación
 grand_parent: Taxonomía
 ---
 
-*Término:* Contenedor  
-*Definición:* Unidad estándar de software que empaqueta el código y todas sus dependencias para que una aplicación se ejecute de manera uniforme en cualquier entorno.
+# Contenedor
 
-*Taxonomía:* DevOps / Orquestación  
-*Términos relacionados:* Pod, Dockerizar
+**Definición:**  
+Unidad estándar de software que empaqueta el código y todas sus dependencias para que una aplicación se ejecute de manera uniforme en cualquier entorno.
+
+**Taxonomía:**  
+DevOps / Orquestación
+
+**Términos relacionados:**  
+[Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/pod/pod.html), [Dockerizar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/dockerizar/dockerizar.html)

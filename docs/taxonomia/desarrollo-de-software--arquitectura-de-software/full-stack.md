@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Full-stack
-nav_order: 3
+nav_order: 11
 parent: Desarrollo de Software / Arquitectura de Software
 grand_parent: Taxonomía
 ---
 
-*Término:* Full-stack  
-*Definición:* Desarrollador o aplicación que cubre tanto el Front-end como el Back-end.
+# Full-stack
 
-*Taxonomía:* Desarrollo de Software / Arquitectura de Software  
-*Términos relacionados:* Front-end, Back-end
+**Definición:**  
+Desarrollador o aplicación que cubre tanto el Front-end como el Back-end.
+
+**Taxonomía:**  
+Desarrollo de Software / Arquitectura de Software
+
+**Términos relacionados:**  
+[Front-end](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/front-end/front-end.html), [Back-end](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/back-end/back-end.html)

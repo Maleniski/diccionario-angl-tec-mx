@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Middleware
-nav_order: 4
+nav_order: 28
 parent: Arquitectura de Software
 grand_parent: Taxonomía
 ---
 
-*Término:* Middleware  
-*Definición:* Software que actúa como intermediario entre diferentes aplicaciones o servicios, facilitando su comunicación.
+# Middleware
 
-*Taxonomía:* Arquitectura de Software  
-*Términos relacionados:* API, Handler
+**Definición:**  
+Software que actúa como intermediario entre diferentes aplicaciones o servicios, facilitando su comunicación.
+
+**Taxonomía:**  
+Arquitectura de Software
+
+**Términos relacionados:**  
+[API](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/api/api.html), [Handler](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/handler/handler.html)

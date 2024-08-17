@@ -1,13 +1,18 @@
 ---
 layout: default
 title: CNN
-nav_order: 6
+nav_order: 8
 parent: C
 grand_parent: Alfabéticamente
 ---
 
-*Término:* CNN  
-*Definición:* Red Neuronal Convolucional; tipo de red neuronal diseñada para procesar datos con estructura de cuadrícula, como imágenes.
+# CNN
 
-*Taxonomía:* Data Science / Machine Learning  
-*Términos relacionados:* DNN, LLM
+**Definición:**  
+Red Neuronal Convolucional; tipo de red neuronal diseñada para procesar datos con estructura de cuadrícula, como imágenes.
+
+**Taxonomía:**  
+Data Science / Machine Learning
+
+**Términos relacionados:**  
+[DNN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dnn.html), [LLM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/L/llm.html)

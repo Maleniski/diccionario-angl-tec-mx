@@ -1,13 +1,18 @@
 ---
 layout: default
 title: SAS Key
-nav_order: 2
+nav_order: 16
 parent: S
 grand_parent: Alfabéticamente
 ---
 
-*Término:* SAS Key  
-*Definición:* Clave de acceso compartido utilizada en Azure para conceder acceso limitado a recursos de almacenamiento.
+# SAS Key
 
-*Taxonomía:* Cloud Computing / Seguridad  
-*Términos relacionados:* VM, VPN
+**Definición:**  
+Clave de acceso compartido utilizada en Azure para conceder acceso limitado a recursos de almacenamiento.
+
+**Taxonomía:**  
+Cloud Computing / Seguridad
+
+**Términos relacionados:**  
+[VM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vm.html), [VPN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vpn.html)

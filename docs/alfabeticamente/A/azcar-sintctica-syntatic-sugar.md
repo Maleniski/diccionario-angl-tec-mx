@@ -6,8 +6,13 @@ parent: A
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Azúcar sintáctica (syntatic sugar)  
-*Definición:* Característica del lenguaje de programación que facilita escribir código más claro y conciso sin agregar funcionalidad.
+# Azúcar sintáctica (syntatic sugar)
 
-*Taxonomía:* Desarrollo de Software  
-*Términos relacionados:* Operador morsa, Wildcard
+**Definición:**  
+Característica del lenguaje de programación que facilita escribir código más claro y conciso sin agregar funcionalidad.
+
+**Taxonomía:**  
+Desarrollo de Software
+
+**Términos relacionados:**  
+[Operador morsa](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/O/operador-morsa.html), [Wildcard](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/W/wildcard.html)

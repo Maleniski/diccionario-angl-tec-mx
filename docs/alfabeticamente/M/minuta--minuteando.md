@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Minuta / minuteando
-nav_order: 7
+nav_order: 17
 parent: M
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Minuta / minuteando  
-*Definición:* Documento que resume los puntos discutidos en una reunión, así como las acciones a tomar.
+# Minuta / minuteando
 
-*Taxonomía:* Coloquialismo  
-*Términos relacionados:* Daily, Weekly
+**Definición:**  
+Documento que resume los puntos discutidos en una reunión, así como las acciones a tomar.
+
+**Taxonomía:**  
+Coloquialismo
+
+**Términos relacionados:**  
+[Daily](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/daily.html), [Weekly](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/W/weekly.html)

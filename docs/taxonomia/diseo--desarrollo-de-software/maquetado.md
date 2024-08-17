@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Maquetado
-nav_order: 1
+nav_order: 34
 parent: Diseño / Desarrollo de Software
 grand_parent: Taxonomía
 ---
 
-*Término:* Maquetado  
-*Definición:* Proceso de diseñar la estructura visual de una página web o aplicación antes de su desarrollo completo.
+# Maquetado
 
-*Taxonomía:* Diseño / Desarrollo de Software  
-*Términos relacionados:* Wireframe, UX/UI
+**Definición:**  
+Proceso de diseñar la estructura visual de una página web o aplicación antes de su desarrollo completo.
+
+**Taxonomía:**  
+Diseño / Desarrollo de Software
+
+**Términos relacionados:**  
+[Wireframe](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/wireframe/wireframe.html), [UX/UI](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/uxui/uxui.html)

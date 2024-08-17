@@ -1,13 +1,18 @@
 ---
 layout: default
 title: MVP
-nav_order: 1
+nav_order: 36
 parent: Gestión de Proyectos / Desarrollo de Software
 grand_parent: Taxonomía
 ---
 
-*Término:* MVP  
-*Definición:* Producto Mínimo Viable; versión simplificada de un producto con suficiente funcionalidad para atraer a los primeros usuarios y validar una idea.
+# MVP
 
-*Taxonomía:* Gestión de Proyectos / Desarrollo de Software  
-*Términos relacionados:* POC, Agile
+**Definición:**  
+Producto Mínimo Viable; versión simplificada de un producto con suficiente funcionalidad para atraer a los primeros usuarios y validar una idea.
+
+**Taxonomía:**  
+Gestión de Proyectos / Desarrollo de Software
+
+**Términos relacionados:**  
+[POC](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/poc/poc.html), [Agile](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/agile/agile.html)

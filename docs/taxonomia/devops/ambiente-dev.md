@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Ambiente Dev
-nav_order: 1
+nav_order: 3
 parent: DevOps
 grand_parent: Taxonomía
 ---
 
-*Término:* Ambiente Dev  
-*Definición:* Entorno en el que se desarrolla el software, antes de ser probado en QA.
+# Ambiente Dev
 
-*Taxonomía:* DevOps  
-*Términos relacionados:* Ambiente QA, Ambiente Prod
+**Definición:**  
+Entorno en el que se desarrolla el software, antes de ser probado en QA.
+
+**Taxonomía:**  
+DevOps
+
+**Términos relacionados:**  
+[Ambiente QA](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/ambiente-qa/ambiente-qa.html), [Ambiente Prod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/ambiente-prod/ambiente-prod.html)

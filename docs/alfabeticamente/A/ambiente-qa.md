@@ -6,8 +6,13 @@ parent: A
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Ambiente QA  
-*Definición:* Entorno en el que se realizan pruebas para asegurar la calidad de la aplicación antes de pasar a producción.
+# Ambiente QA
 
-*Taxonomía:* DevOps / Testing  
-*Términos relacionados:* Ambiente Dev, Ambiente Prod
+**Definición:**  
+Entorno en el que se realizan pruebas para asegurar la calidad de la aplicación antes de pasar a producción.
+
+**Taxonomía:**  
+DevOps / Testing
+
+**Términos relacionados:**  
+[Ambiente Dev](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-dev.html), [Ambiente Prod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambiente-prod.html)

@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Ensamble
-nav_order: 4
+nav_order: 8
 parent: E
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Ensamble  
-*Definición:* Técnica de combinación de múltiples modelos de machine learning para mejorar la precisión de las predicciones.
+# Ensamble
 
-*Taxonomía:* Data Science / Machine Learning  
-*Términos relacionados:* Clustering, Hiperparámetros
+**Definición:**  
+Técnica de combinación de múltiples modelos de machine learning para mejorar la precisión de las predicciones.
+
+**Taxonomía:**  
+Data Science / Machine Learning
+
+**Términos relacionados:**  
+[Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/clustering.html), [Hiperparámetros](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/H/hiperparmetros.html)

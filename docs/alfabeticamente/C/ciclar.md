@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Ciclar
-nav_order: 3
+nav_order: 5
 parent: C
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Ciclar  
-*Definición:* Proceso de repetir una acción o secuencia de código en un bucle.
+# Ciclar
 
-*Taxonomía:* Desarrollo de Software  
-*Términos relacionados:* Codear, Scrappear
+**Definición:**  
+Proceso de repetir una acción o secuencia de código en un bucle.
+
+**Taxonomía:**  
+Desarrollo de Software
+
+**Términos relacionados:**  
+[Codear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/codear.html), [Scrappear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/scrappear.html)

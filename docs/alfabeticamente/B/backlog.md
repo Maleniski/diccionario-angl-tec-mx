@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Backlog
-nav_order: 2
+nav_order: 3
 parent: B
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Backlog  
-*Definición:* Lista priorizada de tareas, características y requerimientos pendientes por desarrollar en un proyecto.
+# Backlog
 
-*Taxonomía:* Metodologías Ágiles  
-*Términos relacionados:* Sprint, Spike
+**Definición:**  
+Lista priorizada de tareas, características y requerimientos pendientes por desarrollar en un proyecto.
+
+**Taxonomía:**  
+Metodologías Ágiles
+
+**Términos relacionados:**  
+[Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/sprint.html), [Spike](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/spike.html)

@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Correlación
-nav_order: 9
+nav_order: 11
 parent: C
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Correlación  
-*Definición:* Medida estadística que indica la relación entre dos variables, utilizada para entender patrones en los datos.
+# Correlación
 
-*Taxonomía:* Data Science / Machine Learning  
-*Términos relacionados:* Causalidad, Clustering
+**Definición:**  
+Medida estadística que indica la relación entre dos variables, utilizada para entender patrones en los datos.
+
+**Taxonomía:**  
+Data Science / Machine Learning
+
+**Términos relacionados:**  
+[Causalidad](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/causalidad.html), [Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/clustering.html)

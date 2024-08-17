@@ -1,13 +1,18 @@
 ---
 layout: default
 title: PM
-nav_order: 1
+nav_order: 40
 parent: Gestión de Proyectos
 grand_parent: Taxonomía
 ---
 
-*Término:* PM  
-*Definición:* Gerente de Proyecto, responsable de la planificación, ejecución y cierre de un proyecto.
+# PM
 
-*Taxonomía:* Gestión de Proyectos  
-*Términos relacionados:* Tech lead, Stakeholders
+**Definición:**  
+Gerente de Proyecto, responsable de la planificación, ejecución y cierre de un proyecto.
+
+**Taxonomía:**  
+Gestión de Proyectos
+
+**Términos relacionados:**  
+[Tech lead](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/tech-lead/tech-lead.html), [Stakeholders](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/stakeholders/stakeholders.html)

@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Dummy
-nav_order: 1
+nav_order: 24
 parent: Desarrollo de Software / Testing
 grand_parent: Taxonomía
 ---
 
-*Término:* Dummy  
-*Definición:* Objeto o dato simulado utilizado para pruebas de software o desarrollo.
+# Dummy
 
-*Taxonomía:* Desarrollo de Software / Testing  
-*Términos relacionados:* Placeholder, Testear
+**Definición:**  
+Objeto o dato simulado utilizado para pruebas de software o desarrollo.
+
+**Taxonomía:**  
+Desarrollo de Software / Testing
+
+**Términos relacionados:**  
+[Placeholder](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/placeholder/placeholder.html), [Testear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/testear/testear.html)

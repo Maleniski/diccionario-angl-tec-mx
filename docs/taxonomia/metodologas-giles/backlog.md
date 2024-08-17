@@ -6,8 +6,13 @@ parent: Metodologías Ágiles
 grand_parent: Taxonomía
 ---
 
-*Término:* Backlog  
-*Definición:* Lista priorizada de tareas, características y requerimientos pendientes por desarrollar en un proyecto.
+# Backlog
 
-*Taxonomía:* Metodologías Ágiles  
-*Términos relacionados:* Sprint, Spike
+**Definición:**  
+Lista priorizada de tareas, características y requerimientos pendientes por desarrollar en un proyecto.
+
+**Taxonomía:**  
+Metodologías Ágiles
+
+**Términos relacionados:**  
+[Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/sprint/sprint.html), [Spike](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/spike/spike.html)

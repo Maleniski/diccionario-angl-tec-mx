@@ -1,13 +1,18 @@
 ---
 layout: default
 title: POC
-nav_order: 2
+nav_order: 37
 parent: Gestión de Proyectos / Desarrollo de Software
 grand_parent: Taxonomía
 ---
 
-*Término:* POC  
-*Definición:* Prueba de Concepto; proyecto corto o experimental para demostrar la viabilidad técnica de una idea o tecnología.
+# POC
 
-*Taxonomía:* Gestión de Proyectos / Desarrollo de Software  
-*Términos relacionados:* MVP, Spike
+**Definición:**  
+Prueba de Concepto; proyecto corto o experimental para demostrar la viabilidad técnica de una idea o tecnología.
+
+**Taxonomía:**  
+Gestión de Proyectos / Desarrollo de Software
+
+**Términos relacionados:**  
+[MVP](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/mvp/mvp.html), [Spike](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/spike/spike.html)

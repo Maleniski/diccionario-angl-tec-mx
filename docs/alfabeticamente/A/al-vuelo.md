@@ -6,8 +6,13 @@ parent: A
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Al vuelo  
-*Definición:* Realizar una tarea o tomar una decisión de manera rápida y/o improvisada, posiblemente sin planificación previa.
+# Al vuelo
 
-*Taxonomía:* Coloquialismo  
-*Términos relacionados:* Bomberazo, Mods
+**Definición:**  
+Realizar una tarea o tomar una decisión de manera rápida y/o improvisada, posiblemente sin planificación previa.
+
+**Taxonomía:**  
+Coloquialismo
+
+**Términos relacionados:**  
+[Bomberazo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/B/bomberazo.html), [Mods](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/mods.html)

@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Hiperparámetros
-nav_order: 12
+nav_order: 18
 parent: Data Science / Machine Learning
 grand_parent: Taxonomía
 ---
 
-*Término:* Hiperparámetros  
-*Definición:* Parámetros que se configuran antes del entrenamiento de un modelo de machine learning y que controlan su comportamiento y precisión.
+# Hiperparámetros
 
-*Taxonomía:* Data Science / Machine Learning  
-*Términos relacionados:* Ensamble, Imputación
+**Definición:**  
+Parámetros que se configuran antes del entrenamiento de un modelo de machine learning y que controlan su comportamiento y precisión.
+
+**Taxonomía:**  
+Data Science / Machine Learning
+
+**Términos relacionados:**  
+[Ensamble](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/ensamble/ensamble.html), [Imputación](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/imputacin/imputacin.html)

@@ -1,13 +1,18 @@
 ---
 layout: default
 title: SaaS
-nav_order: 3
+nav_order: 33
 parent: Cloud Computing / Servicios
 grand_parent: Taxonomía
 ---
 
-*Término:* SaaS  
-*Definición:* Modelo de distribución de software donde las aplicaciones se alojan en la nube y se acceden a través de internet.
+# SaaS
 
-*Taxonomía:* Cloud Computing / Servicios  
-*Términos relacionados:* PaaS, IaaS
+**Definición:**  
+Modelo de distribución de software donde las aplicaciones se alojan en la nube y se acceden a través de internet.
+
+**Taxonomía:**  
+Cloud Computing / Servicios
+
+**Términos relacionados:**  
+[PaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/paas/paas.html), [IaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/iaas/iaas.html)

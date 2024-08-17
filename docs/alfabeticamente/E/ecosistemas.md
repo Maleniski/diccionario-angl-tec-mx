@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Ecosistemas
-nav_order: 1
+nav_order: 5
 parent: E
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Ecosistemas  
-*Definición:* Conjunto de tecnologías y servicios interconectados que funcionan juntos en una aplicación o sistema.
+# Ecosistemas
 
-*Taxonomía:* Arquitectura de Software  
-*Términos relacionados:* Ambientes en ecosistemas, Cluster
+**Definición:**  
+Conjunto de tecnologías y servicios interconectados que funcionan juntos en una aplicación o sistema.
+
+**Taxonomía:**  
+Arquitectura de Software
+
+**Términos relacionados:**  
+[Ambientes en ecosistemas](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/ambientes-en-ecosistemas.html), [Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cluster.html)

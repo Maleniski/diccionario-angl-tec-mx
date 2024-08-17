@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Orquestador
-nav_order: 3
+nav_order: 15
 parent: O
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Orquestador  
-*Definición:* Software que gestiona la coordinación y ejecución de contenedores en un entorno distribuido.
+# Orquestador
 
-*Taxonomía:* DevOps / Orquestación  
-*Términos relacionados:* Pod, Cluster
+**Definición:**  
+Software que gestiona la coordinación y ejecución de contenedores en un entorno distribuido.
+
+**Taxonomía:**  
+DevOps / Orquestación
+
+**Términos relacionados:**  
+[Pod](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pod.html), [Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cluster.html)

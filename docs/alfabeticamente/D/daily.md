@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Daily
-nav_order: 1
+nav_order: 4
 parent: D
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Daily  
-*Definición:* Reunión diaria breve en la que los miembros del equipo de desarrollo discuten su progreso y obstáculos.
+# Daily
 
-*Taxonomía:* Metodologías Ágiles  
-*Términos relacionados:* Weekly, Sprint
+**Definición:**  
+Reunión diaria breve en la que los miembros del equipo de desarrollo discuten su progreso y obstáculos.
+
+**Taxonomía:**  
+Metodologías Ágiles
+
+**Términos relacionados:**  
+[Weekly](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/W/weekly.html), [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/sprint.html)

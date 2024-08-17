@@ -1,13 +1,18 @@
 ---
 layout: default
 title: API
-nav_order: 1
+nav_order: 6
 parent: API y Servicios
 grand_parent: Taxonomía
 ---
 
-*Término:* API  
-*Definición:* Interfaz que permite la comunicación entre diferentes aplicaciones o servicios de software.
+# API
 
-*Taxonomía:* API y Servicios  
-*Términos relacionados:* Endpoint, Middleware
+**Definición:**  
+Interfaz que permite la comunicación entre diferentes aplicaciones o servicios de software.
+
+**Taxonomía:**  
+API y Servicios
+
+**Términos relacionados:**  
+[Endpoint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/endpoint/endpoint.html), [Middleware](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/middleware/middleware.html)

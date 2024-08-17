@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Clustering
-nav_order: 3
+nav_order: 9
 parent: Data Science / Machine Learning
 grand_parent: Taxonomía
 ---
 
-*Término:* Clustering  
-*Definición:* Método de agrupación de datos en subconjuntos similares (clusters), utilizado en análisis exploratorio y modelos de machine learning.
+# Clustering
 
-*Taxonomía:* Data Science / Machine Learning  
-*Términos relacionados:* Ensamble, Forecasting
+**Definición:**  
+Método de agrupación de datos en subconjuntos similares (clusters), utilizado en análisis exploratorio y modelos de machine learning.
+
+**Taxonomía:**  
+Data Science / Machine Learning
+
+**Términos relacionados:**  
+[Ensamble](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/ensamble/ensamble.html), [Forecasting](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/forecasting/forecasting.html)

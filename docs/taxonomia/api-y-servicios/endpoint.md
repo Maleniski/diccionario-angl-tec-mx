@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Endpoint
-nav_order: 2
+nav_order: 7
 parent: API y Servicios
 grand_parent: Taxonomía
 ---
 
-*Término:* Endpoint  
-*Definición:* URL o dirección que expone una API para interactuar con un servicio específico.
+# Endpoint
 
-*Taxonomía:* API y Servicios  
-*Términos relacionados:* API, Middleware
+**Definición:**  
+URL o dirección que expone una API para interactuar con un servicio específico.
+
+**Taxonomía:**  
+API y Servicios
+
+**Términos relacionados:**  
+[API](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/api/api.html), [Middleware](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/middleware/middleware.html)

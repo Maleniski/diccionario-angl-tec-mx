@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Operador morsa
-nav_order: 7
+nav_order: 14
 parent: Desarrollo de Software
 grand_parent: Taxonomía
 ---
 
-*Término:* Operador morsa  
-*Definición:* Operador de asignación introducido en Python 3.8 que permite asignar valores y utilizarlos en una sola expresión.
+# Operador morsa
 
-*Taxonomía:* Desarrollo de Software  
-*Términos relacionados:* Syntactic Sugar, Wildcard
+**Definición:**  
+Operador de asignación introducido en Python 3.8 que permite asignar valores y utilizarlos en una sola expresión.
+
+**Taxonomía:**  
+Desarrollo de Software
+
+**Términos relacionados:**  
+[Syntactic Sugar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/syntactic-sugar/syntactic-sugar.html), [Wildcard](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/wildcard/wildcard.html)

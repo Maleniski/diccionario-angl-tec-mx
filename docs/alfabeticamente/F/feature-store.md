@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Feature Store
-nav_order: 2
+nav_order: 7
 parent: F
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Feature Store  
-*Definición:* Repositorio centralizado donde se almacenan, gestionan y reutilizan las características (features) utilizadas en modelos de machine learning.
+# Feature Store
 
-*Taxonomía:* Data Science / Machine Learning  
-*Términos relacionados:* Vector Database, Hiperparámetros
+**Definición:**  
+Repositorio centralizado donde se almacenan, gestionan y reutilizan las características (features) utilizadas en modelos de machine learning.
+
+**Taxonomía:**  
+Data Science / Machine Learning
+
+**Términos relacionados:**  
+[Vector Database](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vector-database.html), [Hiperparámetros](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/H/hiperparmetros.html)

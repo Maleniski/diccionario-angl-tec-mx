@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Weekly
-nav_order: 1
+nav_order: 19
 parent: W
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Weekly  
-*Definición:* Reunión semanal para revisar el progreso general del equipo y planificar la próxima semana de trabajo.
+# Weekly
 
-*Taxonomía:* Metodologías Ágiles  
-*Términos relacionados:* Daily, Sprint
+**Definición:**  
+Reunión semanal para revisar el progreso general del equipo y planificar la próxima semana de trabajo.
+
+**Taxonomía:**  
+Metodologías Ágiles
+
+**Términos relacionados:**  
+[Daily](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/daily.html), [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/sprint.html)

@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Diccionario de datos
-nav_order: 1
+nav_order: 22
 parent: Bases de Datos / Data Science
 grand_parent: Taxonomía
 ---
 
-*Término:* Diccionario de datos  
-*Definición:* Repositorio centralizado que contiene descripciones y definiciones de los elementos de datos de una base de datos.
+# Diccionario de datos
 
-*Taxonomía:* Bases de Datos / Data Science  
-*Términos relacionados:* Metadatos, Esquema de Base de datos
+**Definición:**  
+Repositorio centralizado que contiene descripciones y definiciones de los elementos de datos de una base de datos.
+
+**Taxonomía:**  
+Bases de Datos / Data Science
+
+**Términos relacionados:**  
+[Metadatos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/metadatos/metadatos.html), [Esquema de Base de datos](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/esquema-de-base-de-datos/esquema-de-base-de-datos.html)

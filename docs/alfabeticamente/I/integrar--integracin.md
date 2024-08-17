@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Integrar / integración
-nav_order: 5
+nav_order: 13
 parent: I
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Integrar / integración  
-*Definición:* Proceso de combinar módulos de software independientes en un sistema unificado.
+# Integrar / integración
 
-*Taxonomía:* Desarrollo de Software / DevOps  
-*Términos relacionados:* Pipeline, Microservicio
+**Definición:**  
+Proceso de combinar módulos de software independientes en un sistema unificado.
+
+**Taxonomía:**  
+Desarrollo de Software / DevOps
+
+**Términos relacionados:**  
+[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pipeline.html), [Microservicio](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/microservicio.html)

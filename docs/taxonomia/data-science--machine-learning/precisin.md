@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Precisión
-nav_order: 21
+nav_order: 27
 parent: Data Science / Machine Learning
 grand_parent: Taxonomía
 ---
 
-*Término:* Precisión  
-*Definición:* Proporción de verdaderos positivos sobre el total de predicciones positivas, utilizada como métrica de evaluación en modelos de clasificación.
+# Precisión
 
-*Taxonomía:* Data Science / Machine Learning  
-*Términos relacionados:* F-Score, Matriz de Confusión
+**Definición:**  
+Proporción de verdaderos positivos sobre el total de predicciones positivas, utilizada como métrica de evaluación en modelos de clasificación.
+
+**Taxonomía:**  
+Data Science / Machine Learning
+
+**Términos relacionados:**  
+[F-Score](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/f-score/f-score.html), [Matriz de Confusión](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/matriz-de-confusin/matriz-de-confusin.html)

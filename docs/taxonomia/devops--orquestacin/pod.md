@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Pod
-nav_order: 7
+nav_order: 21
 parent: DevOps / Orquestación
 grand_parent: Taxonomía
 ---
 
-*Término:* Pod  
-*Definición:* Unidad básica de ejecución en Kubernetes que contiene uno o más contenedores.
+# Pod
 
-*Taxonomía:* DevOps / Orquestación  
-*Términos relacionados:* Contenedor, Cluster
+**Definición:**  
+Unidad básica de ejecución en Kubernetes que contiene uno o más contenedores.
+
+**Taxonomía:**  
+DevOps / Orquestación
+
+**Términos relacionados:**  
+[Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/contenedor/contenedor.html), [Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/cluster/cluster.html)

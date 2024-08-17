@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Bucket
-nav_order: 1
+nav_order: 13
 parent: Cloud Computing / Almacenamiento
 grand_parent: Taxonomía
 ---
 
-*Término:* Bucket  
-*Definición:* Contenedor utilizado en servicios de almacenamiento en la nube para organizar y almacenar archivos o datos.
+# Bucket
 
-*Taxonomía:* Cloud Computing / Almacenamiento  
-*Términos relacionados:* Imagen, SaaS
+**Definición:**  
+Contenedor utilizado en servicios de almacenamiento en la nube para organizar y almacenar archivos o datos.
+
+**Taxonomía:**  
+Cloud Computing / Almacenamiento
+
+**Términos relacionados:**  
+[Imagen](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/imagen/imagen.html), [SaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/saas/saas.html)

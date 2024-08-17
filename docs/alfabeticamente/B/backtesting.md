@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Backtesting
-nav_order: 3
+nav_order: 4
 parent: B
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Backtesting  
-*Definición:* Proceso de probar una estrategia de inversión utilizando datos históricos para evaluar su viabilidad.
+# Backtesting
 
-*Taxonomía:* Data Science / Finanzas  
-*Términos relacionados:* Forecasting, Clustering
+**Definición:**  
+Proceso de probar una estrategia de inversión utilizando datos históricos para evaluar su viabilidad.
+
+**Taxonomía:**  
+Data Science / Finanzas
+
+**Términos relacionados:**  
+[Forecasting](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/forecasting.html), [Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/clustering.html)

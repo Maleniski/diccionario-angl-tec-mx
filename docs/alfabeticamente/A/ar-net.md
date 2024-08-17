@@ -6,8 +6,13 @@ parent: A
 grand_parent: Alfabéticamente
 ---
 
-*Término:* AR-NET  
-*Definición:* Modelo de red neuronal diseñado para análisis de series temporales, combinando características de redes neuronales y métodos autoregresivos.
+# AR-NET
 
-*Taxonomía:* Data Science / Machine Learning  
-*Términos relacionados:* CNN, Modelo Multivariado
+**Definición:**  
+Modelo de red neuronal diseñado para análisis de series temporales, combinando características de redes neuronales y métodos autoregresivos.
+
+**Taxonomía:**  
+Data Science / Machine Learning
+
+**Términos relacionados:**  
+[CNN](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/cnn.html), [Modelo Multivariado](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/modelo-multivariado.html)

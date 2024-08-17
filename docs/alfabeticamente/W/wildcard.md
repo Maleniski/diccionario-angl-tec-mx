@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Wildcard
-nav_order: 2
+nav_order: 20
 parent: W
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Wildcard  
-*Definición:* Caracteres especiales que representan uno o más caracteres en una búsqueda o selección.
+# Wildcard
 
-*Taxonomía:* Desarrollo de Software  
-*Términos relacionados:* Placeholder, Operador morsa
+**Definición:**  
+Caracteres especiales que representan uno o más caracteres en una búsqueda o selección.
+
+**Taxonomía:**  
+Desarrollo de Software
+
+**Términos relacionados:**  
+[Placeholder](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/placeholder.html), [Operador morsa](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/O/operador-morsa.html)

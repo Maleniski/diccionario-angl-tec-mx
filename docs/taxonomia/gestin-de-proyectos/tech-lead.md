@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Tech lead
-nav_order: 3
+nav_order: 42
 parent: Gestión de Proyectos
 grand_parent: Taxonomía
 ---
 
-*Término:* Tech lead  
-*Definición:* Líder técnico responsable de guiar a un equipo en las decisiones técnicas y la implementación de soluciones.
+# Tech lead
 
-*Taxonomía:* Gestión de Proyectos  
-*Términos relacionados:* PM, Stakeholders
+**Definición:**  
+Líder técnico responsable de guiar a un equipo en las decisiones técnicas y la implementación de soluciones.
+
+**Taxonomía:**  
+Gestión de Proyectos
+
+**Términos relacionados:**  
+[PM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/pm/pm.html), [Stakeholders](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/stakeholders/stakeholders.html)

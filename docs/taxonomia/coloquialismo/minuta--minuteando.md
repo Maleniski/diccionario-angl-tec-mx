@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Minuta / minuteando
-nav_order: 3
+nav_order: 4
 parent: Coloquialismo
 grand_parent: Taxonomía
 ---
 
-*Término:* Minuta / minuteando  
-*Definición:* Documento que resume los puntos discutidos en una reunión, así como las acciones a tomar.
+# Minuta / minuteando
 
-*Taxonomía:* Coloquialismo  
-*Términos relacionados:* Daily, Weekly
+**Definición:**  
+Documento que resume los puntos discutidos en una reunión, así como las acciones a tomar.
+
+**Taxonomía:**  
+Coloquialismo
+
+**Términos relacionados:**  
+[Daily](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/daily/daily.html), [Weekly](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/weekly/weekly.html)

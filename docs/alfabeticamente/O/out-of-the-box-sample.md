@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Out of the box sample
-nav_order: 4
+nav_order: 16
 parent: O
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Out of the box sample  
-*Definición:* Ejemplos preconfigurados que vienen con un software o framework, listos para ser utilizados sin personalización.
+# Out of the box sample
 
-*Taxonomía:* Data Science / Machine Learning  
-*Términos relacionados:* Framework, Bootstrap
+**Definición:**  
+Ejemplos preconfigurados que vienen con un software o framework, listos para ser utilizados sin personalización.
+
+**Taxonomía:**  
+Data Science / Machine Learning
+
+**Términos relacionados:**  
+[Framework](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/framework.html), [Bootstrap](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/B/bootstrap.html)

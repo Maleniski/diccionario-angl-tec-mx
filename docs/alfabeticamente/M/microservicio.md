@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Microservicio
-nav_order: 4
+nav_order: 14
 parent: M
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Microservicio  
-*Definición:* Arquitectura donde una aplicación se descompone en pequeños servicios independientes que interactúan entre sí.
+# Microservicio
 
-*Taxonomía:* Arquitectura de Software  
-*Términos relacionados:* Enterprise, Contenedor
+**Definición:**  
+Arquitectura donde una aplicación se descompone en pequeños servicios independientes que interactúan entre sí.
+
+**Taxonomía:**  
+Arquitectura de Software
+
+**Términos relacionados:**  
+[Enterprise](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/enterprise.html), [Contenedor](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/contenedor.html)

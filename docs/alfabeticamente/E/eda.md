@@ -1,13 +1,18 @@
 ---
 layout: default
 title: EDA
-nav_order: 2
+nav_order: 6
 parent: E
 grand_parent: Alfabéticamente
 ---
 
-*Término:* EDA  
-*Definición:* Exploratory Data Analysis; proceso de análisis preliminar de los datos para descubrir patrones, anomalías y probar hipótesis antes de aplicar modelos.
+# EDA
 
-*Taxonomía:* Data Science / Análisis de Datos  
-*Términos relacionados:* Clustering, Dataframe
+**Definición:**  
+Exploratory Data Analysis; proceso de análisis preliminar de los datos para descubrir patrones, anomalías y probar hipótesis antes de aplicar modelos.
+
+**Taxonomía:**  
+Data Science / Análisis de Datos
+
+**Términos relacionados:**  
+[Clustering](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/clustering.html), [Dataframe](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dataframe.html)

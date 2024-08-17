@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Front-end
-nav_order: 2
+nav_order: 10
 parent: Desarrollo de Software / Arquitectura de Software
 grand_parent: Taxonomía
 ---
 
-*Término:* Front-end  
-*Definición:* Parte de una aplicación con la que interactúan los usuarios, generalmente a través de una interfaz gráfica.
+# Front-end
 
-*Taxonomía:* Desarrollo de Software / Arquitectura de Software  
-*Términos relacionados:* Back-end, Full-stack
+**Definición:**  
+Parte de una aplicación con la que interactúan los usuarios, generalmente a través de una interfaz gráfica.
+
+**Taxonomía:**  
+Desarrollo de Software / Arquitectura de Software
+
+**Términos relacionados:**  
+[Back-end](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/back-end/back-end.html), [Full-stack](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/full-stack/full-stack.html)

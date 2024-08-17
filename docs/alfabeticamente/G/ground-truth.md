@@ -1,13 +1,18 @@
 ---
 layout: default
 title: Ground Truth
-nav_order: 3
+nav_order: 9
 parent: G
 grand_parent: Alfabéticamente
 ---
 
-*Término:* Ground Truth  
-*Definición:* Datos de referencia utilizados para entrenar y evaluar modelos de machine learning, considerados como la verdad factual.
+# Ground Truth
 
-*Taxonomía:* Data Science / Machine Learning  
-*Términos relacionados:* Overfit, Underfit
+**Definición:**  
+Datos de referencia utilizados para entrenar y evaluar modelos de machine learning, considerados como la verdad factual.
+
+**Taxonomía:**  
+Data Science / Machine Learning
+
+**Términos relacionados:**  
+[Overfit](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/O/overfit.html), [Underfit](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/U/underfit.html)
