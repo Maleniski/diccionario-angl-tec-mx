@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Imputación
-nav_order: 12
+nav_order: 11
 parent: I
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Proceso de reemplazar datos faltantes con valores sustitutos basados en alguna metodología para completar un conjunto de datos.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

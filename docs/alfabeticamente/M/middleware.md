@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Middleware
-nav_order: 15
+nav_order: 14
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Software que actúa como intermediario entre diferentes aplicaciones o servicios, facilitando su comunicación.
 
 **Categoría:**  
-Arquitectura de Software 
+Arquitectura de Software  
+
   
 
 

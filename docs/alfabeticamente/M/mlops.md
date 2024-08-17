@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MLOps
-nav_order: 18
+nav_order: 17
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Práctica de automatizar y optimizar el ciclo de vida del machine learning, desde el desarrollo del modelo hasta su implementación en producción.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
 **Subcategoría:**  
 Data Science
 

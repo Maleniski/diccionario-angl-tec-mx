@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Diccionario de datos
-nav_order: 14
+nav_order: 13
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Repositorio centralizado que contiene descripciones y definiciones de los elementos de datos de una base de datos.
 
 **Categoría:**  
-Bases de Datos 
+Bases de Datos  
+
 **Subcategoría:**  
 Data Science
 

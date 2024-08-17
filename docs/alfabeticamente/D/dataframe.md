@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dataframe
-nav_order: 9
+nav_order: 8
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Estructura tabular de datos comúnmente utilizada en lenguajes como Python y R, compuesta por filas y columnas.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Estructura de Datos
 

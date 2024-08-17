@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SaaS
-nav_order: 15
+nav_order: 14
 parent: S
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Modelo de distribución de software donde las aplicaciones se alojan en la nube y se acceden a través de internet.
 
 **Categoría:**  
-Cloud Computing 
+Cloud Computing  
+
 **Subcategoría:**  
 Servicios
 

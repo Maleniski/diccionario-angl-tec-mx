@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Levantar un pod
-nav_order: 11
+nav_order: 10
 parent: L
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Acción de iniciar o desplegar un pod en un entorno de Kubernetes.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
 **Subcategoría:**  
 Orquestación
 

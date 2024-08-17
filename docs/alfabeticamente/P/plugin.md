@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plugin
-nav_order: 17
+nav_order: 16
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Componente adicional que se añade a un programa para extender su funcionalidad.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 Extensibilidad
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ftp
-nav_order: 11
+nav_order: 10
 parent: F
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Protocolo de transferencia de archivos que permite mover archivos entre sistemas conectados a una red.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 Redes
 

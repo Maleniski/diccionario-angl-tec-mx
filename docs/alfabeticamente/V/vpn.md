@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VPN
-nav_order: 21
+nav_order: 20
 parent: V
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Tecnología que crea una conexión segura y cifrada sobre una red menos segura, como internet.
 
 **Categoría:**  
-Redes 
+Redes  
+
 **Subcategoría:**  
 Seguridad
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MVP
-nav_order: 21
+nav_order: 20
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Producto Mínimo Viable; versión simplificada de un producto con suficiente funcionalidad para atraer a los primeros usuarios y validar una idea.
 
 **Categoría:**  
-Gestión de Proyectos 
+Gestión de Proyectos  
+
 **Subcategoría:**  
 Desarrollo de Software
 

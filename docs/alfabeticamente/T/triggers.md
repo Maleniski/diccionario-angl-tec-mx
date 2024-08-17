@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Triggers
-nav_order: 18
+nav_order: 17
 parent: T
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Conjunto de instrucciones SQL que se ejecutan automáticamente en respuesta a ciertos eventos en una tabla o vista de una base de datos.
 
 **Categoría:**  
-Bases de Datos 
+Bases de Datos  
+
   
 
 

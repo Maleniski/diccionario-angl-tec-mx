@@ -1,7 +1,7 @@
 ---
 layout: default
 title: La consola de ... (AWS, AZURE, GCP)
-nav_order: 10
+nav_order: 9
 parent: L
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Interfaz gráfica o de línea de comandos proporcionada por proveedores de la nube para gestionar y monitorear recursos y servicios en la nube.
 
 **Categoría:**  
-Cloud Computing 
+Cloud Computing  
+
   
 
 

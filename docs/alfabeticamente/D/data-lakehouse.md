@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Lakehouse
-nav_order: 7
+nav_order: 6
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Arquitectura que combina las ventajas de un Data Lake y un Data Warehouse, permitiendo análisis avanzados y gestión de datos estructurados y no estructurados.
 
 **Categoría:**  
-Bases de Datos 
+Bases de Datos  
+
 **Subcategoría:**  
 Almacenamiento
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ambiente Dev
-nav_order: 3
+nav_order: 2
 parent: A
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Entorno en el que se desarrolla el software, antes de ser probado en QA.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
   
 
 

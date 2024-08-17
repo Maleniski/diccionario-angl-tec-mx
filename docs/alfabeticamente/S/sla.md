@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SLA
-nav_order: 19
+nav_order: 18
 parent: S
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Acuerdo entre un proveedor de servicios y un cliente que especifica los niveles de servicio esperados.
 
 **Categoría:**  
-Acuerdo de Nivel de Servicio 
+Acuerdo de Nivel de Servicio  
+
   
 
 

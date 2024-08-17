@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Out of the box sample
-nav_order: 16
+nav_order: 15
 parent: O
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Ejemplos preconfigurados que vienen con un software o framework, listos para ser utilizados sin personalización.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

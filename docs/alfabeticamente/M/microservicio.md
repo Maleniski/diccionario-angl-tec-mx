@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Microservicio
-nav_order: 14
+nav_order: 13
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Arquitectura donde una aplicación se descompone en pequeños servicios independientes que interactúan entre sí.
 
 **Categoría:**  
-Arquitectura de Software 
+Arquitectura de Software  
+
   
 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metadatos
-nav_order: 13
+nav_order: 12
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Información que describe otros datos, proporcionando contexto o detalles adicionales sobre su origen, estructura, o características.
 
 **Categoría:**  
-Bases de Datos 
+Bases de Datos  
+
 **Subcategoría:**  
 Data Science
 

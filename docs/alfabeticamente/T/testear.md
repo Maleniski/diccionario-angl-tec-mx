@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Testear
-nav_order: 17
+nav_order: 16
 parent: T
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Evaluar un software o sistema para verificar su correcto funcionamiento.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 Testing
 

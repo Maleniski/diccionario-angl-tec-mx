@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Debuggear, depurar
-nav_order: 11
+nav_order: 10
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Proceso de identificar y corregir errores o bugs en un programa de software.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
   
 
 

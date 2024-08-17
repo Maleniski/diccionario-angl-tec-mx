@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Al vuelo
-nav_order: 2
+nav_order: 1
 parent: A
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Realizar una tarea o tomar una decisión de manera rápida y/o improvisada, posiblemente sin planificación previa.
 
 **Categoría:**  
-Coloquialismo 
+Coloquialismo  
+
   
 
 

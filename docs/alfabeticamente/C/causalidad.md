@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Causalidad
-nav_order: 4
+nav_order: 3
 parent: C
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Relación entre causa y efecto donde una variable influye directamente en otra, diferenciándose de la simple correlación.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

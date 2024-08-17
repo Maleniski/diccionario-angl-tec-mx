@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Orquestador
-nav_order: 15
+nav_order: 14
 parent: O
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Software que gestiona la coordinación y ejecución de contenedores en un entorno distribuido.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
 **Subcategoría:**  
 Orquestación
 

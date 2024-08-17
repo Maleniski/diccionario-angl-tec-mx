@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data stewards
-nav_order: 8
+nav_order: 7
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Profesionales responsables de la gestión, calidad y gobernanza de los datos en una organización.
 
 **Categoría:**  
-Gobierno de Datos 
+Gobierno de Datos  
+
 **Subcategoría:**  
 Data Science
 

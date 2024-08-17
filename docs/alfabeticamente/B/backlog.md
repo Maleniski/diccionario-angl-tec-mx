@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Backlog
-nav_order: 3
+nav_order: 2
 parent: B
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Lista priorizada de tareas, características y requerimientos pendientes por desarrollar en un proyecto.
 
 **Categoría:**  
-Metodologías Ágiles 
+Metodologías Ágiles  
+
   
 
 

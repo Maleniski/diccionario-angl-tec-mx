@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Primary, Foreign keys
-nav_order: 22
+nav_order: 21
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Claves utilizadas en bases de datos relacionales para establecer y asegurar la integridad de las relaciones entre tablas.
 
 **Categoría:**  
-Bases de Datos 
+Bases de Datos  
+
   
 
 

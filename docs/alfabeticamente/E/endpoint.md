@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Endpoint
-nav_order: 7
+nav_order: 6
 parent: E
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 URL o dirección que expone una API para interactuar con un servicio específico.
 
 **Categoría:**  
-API y Servicios 
+API y Servicios  
+
   
 
 

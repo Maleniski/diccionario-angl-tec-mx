@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TTL (time to live)
-nav_order: 19
+nav_order: 18
 parent: T
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Tiempo de vida de un paquete o dato antes de que sea descartado o eliminado.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 Redes
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Overfit
-nav_order: 17
+nav_order: 16
 parent: O
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Cuando un modelo de machine learning se ajusta demasiado a los datos de entrenamiento, perdiendo capacidad de generalización a nuevos datos.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

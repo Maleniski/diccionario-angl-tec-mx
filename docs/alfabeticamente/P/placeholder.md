@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Placeholder
-nav_order: 16
+nav_order: 15
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Elemento temporal utilizado para reservar espacio o representar datos aún no disponibles.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
   
 
 

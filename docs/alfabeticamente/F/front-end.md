@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Front-end
-nav_order: 10
+nav_order: 9
 parent: F
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Parte de una aplicación con la que interactúan los usuarios, generalmente a través de una interfaz gráfica.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 Arquitectura de Software
 

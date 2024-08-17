@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hiperparámetros
-nav_order: 11
+nav_order: 10
 parent: H
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Parámetros que se configuran antes del entrenamiento de un modelo de machine learning y que controlan su comportamiento y precisión.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

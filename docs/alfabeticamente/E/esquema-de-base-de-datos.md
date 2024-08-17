@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Esquema de Base de datos
-nav_order: 10
+nav_order: 9
 parent: E
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Estructura lógica que define la organización y relaciones entre los datos en una base de datos.
 
 **Categoría:**  
-Bases de Datos 
+Bases de Datos  
+
   
 
 

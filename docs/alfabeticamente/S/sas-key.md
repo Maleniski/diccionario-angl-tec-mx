@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SAS Key
-nav_order: 16
+nav_order: 15
 parent: S
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Clave de acceso compartido utilizada en Azure para conceder acceso limitado a recursos de almacenamiento.
 
 **Categoría:**  
-Cloud Computing 
+Cloud Computing  
+
 **Subcategoría:**  
 Seguridad
 

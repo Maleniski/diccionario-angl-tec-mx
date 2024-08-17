@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Normalización, Estandarización
-nav_order: 13
+nav_order: 12
 parent: N
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Procesos de ajuste de datos para que se ajusten a una escala o distribución estándar, facilitando su uso en modelos de machine learning.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Lake
-nav_order: 6
+nav_order: 5
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Almacén de datos centralizado que permite almacenar datos en su formato original, tanto estructurados como no estructurados, para análisis y procesamiento posterior.
 
 **Categoría:**  
-Bases de Datos 
+Bases de Datos  
+
 **Subcategoría:**  
 Almacenamiento
 

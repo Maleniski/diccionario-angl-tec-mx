@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pipeline
-nav_order: 15
+nav_order: 14
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Cadena automatizada de procesos para la construcción, prueba, y despliegue de software.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
 **Subcategoría:**  
 CI/CD
 

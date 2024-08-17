@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gobierno de datos
-nav_order: 8
+nav_order: 7
 parent: G
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Conjunto de prácticas y políticas para asegurar la gestión adecuada, calidad y seguridad de los datos en una organización.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Gobierno de Datos
 

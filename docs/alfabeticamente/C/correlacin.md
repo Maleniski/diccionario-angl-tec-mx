@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Correlación
-nav_order: 11
+nav_order: 10
 parent: C
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Medida estadística que indica la relación entre dos variables, utilizada para entender patrones en los datos.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

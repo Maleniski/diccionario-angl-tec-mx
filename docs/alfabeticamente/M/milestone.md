@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Milestone
-nav_order: 16
+nav_order: 15
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Punto de control importante en el cronograma de un proyecto, que marca la finalización de una fase clave.
 
 **Categoría:**  
-Metodologías Ágiles 
+Metodologías Ágiles  
+
 **Subcategoría:**  
 Gestión de Proyectos
 

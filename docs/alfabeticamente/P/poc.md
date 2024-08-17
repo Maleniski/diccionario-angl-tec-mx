@@ -1,7 +1,7 @@
 ---
 layout: default
 title: POC
-nav_order: 19
+nav_order: 18
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Prueba de Concepto; proyecto corto o experimental para demostrar la viabilidad técnica de una idea o tecnología.
 
 **Categoría:**  
-Gestión de Proyectos 
+Gestión de Proyectos  
+
 **Subcategoría:**  
 Desarrollo de Software
 

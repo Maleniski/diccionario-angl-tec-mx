@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stakeholders
-nav_order: 23
+nav_order: 22
 parent: S
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Personas o grupos con interés en el éxito de un proyecto, incluidos usuarios, gerentes y patrocinadores.
 
 **Categoría:**  
-Gestión de Proyectos 
+Gestión de Proyectos  
+
   
 
 

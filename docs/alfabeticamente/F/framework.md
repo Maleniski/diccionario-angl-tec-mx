@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Framework
-nav_order: 9
+nav_order: 8
 parent: F
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Bootstrap, Git
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 Conjunto de herramientas y bibliotecas que proporcionan una estructura base para el desarrollo de aplicaciones.
 

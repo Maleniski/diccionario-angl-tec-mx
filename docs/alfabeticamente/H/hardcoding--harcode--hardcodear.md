@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hardcoding / Harcode / Hardcodear
-nav_order: 9
+nav_order: 8
 parent: H
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Práctica de insertar datos fijos directamente en el código fuente en lugar de obtenerlos dinámicamente.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
   
 
 

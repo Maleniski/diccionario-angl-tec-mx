@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Desplegar, deployar
-nav_order: 12
+nav_order: 11
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Proceso de poner en producción o hacer accesible un software a los usuarios finales.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 DevOps
 

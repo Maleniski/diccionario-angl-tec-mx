@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Imagen
-nav_order: 11
+nav_order: 10
 parent: I
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Copia de un sistema operativo o aplicación, empaquetada para ser desplegada en contenedores u otros entornos.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
 **Subcategoría:**  
 Orquestación
 

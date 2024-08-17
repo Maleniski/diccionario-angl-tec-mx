@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Daily
-nav_order: 4
+nav_order: 3
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Reunión diaria breve en la que los miembros del equipo de desarrollo discuten su progreso y obstáculos.
 
 **Categoría:**  
-Metodologías Ágiles 
+Metodologías Ágiles  
+
   
 
 

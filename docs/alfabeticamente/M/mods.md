@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mods
-nav_order: 20
+nav_order: 19
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Modificaciones o expansiones no oficiales hechas a un software o juego.
 
 **Categoría:**  
-Coloquialismo 
+Coloquialismo  
+
 **Subcategoría:**  
 Desarrollo de Software
 

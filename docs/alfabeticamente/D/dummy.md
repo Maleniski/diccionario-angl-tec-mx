@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dummy
-nav_order: 17
+nav_order: 16
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Objeto o dato simulado utilizado para pruebas de software o desarrollo.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 Testing
 

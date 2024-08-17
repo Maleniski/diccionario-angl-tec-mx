@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ambientes en ecosistemas
-nav_order: 6
+nav_order: 5
 parent: A
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Entornos específicos (como Dev, QA, Prod) en los que se despliegan y prueban aplicaciones.
 
 **Categoría:**  
-Arquitectura de Software 
+Arquitectura de Software  
+
 **Subcategoría:**  
 DevOps
 

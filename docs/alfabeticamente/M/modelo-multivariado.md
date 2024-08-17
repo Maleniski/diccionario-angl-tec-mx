@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modelo Multivariado
-nav_order: 19
+nav_order: 18
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Modelo de análisis estadístico o machine learning que considera múltiples variables para predecir un resultado o entender relaciones complejas entre ellas.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maquetado
-nav_order: 11
+nav_order: 10
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Proceso de diseñar la estructura visual de una página web o aplicación antes de su desarrollo completo.
 
 **Categoría:**  
-Diseño 
+Diseño  
+
 **Subcategoría:**  
 Desarrollo de Software
 

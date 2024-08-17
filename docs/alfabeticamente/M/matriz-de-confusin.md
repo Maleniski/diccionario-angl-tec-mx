@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Matriz de Confusión
-nav_order: 12
+nav_order: 11
 parent: M
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Tabla que describe el rendimiento de un modelo de clasificación, mostrando los aciertos y errores en sus predicciones.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

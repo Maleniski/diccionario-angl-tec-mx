@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Overhead
-nav_order: 18
+nav_order: 17
 parent: O
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Carga adicional que consume recursos y afecta el rendimiento de un sistema o aplicación.
 
 **Categoría:**  
-Arquitectura de Software 
+Arquitectura de Software  
+
 **Subcategoría:**  
 Optimización
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Handler / handlear
-nav_order: 8
+nav_order: 7
 parent: H
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Código o función que se encarga de gestionar un evento o solicitud específica.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
   
 
 

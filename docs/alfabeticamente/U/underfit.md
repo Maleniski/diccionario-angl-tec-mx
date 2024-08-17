@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Underfit
-nav_order: 17
+nav_order: 16
 parent: U
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Cuando un modelo de machine learning es demasiado simple y no captura bien los patrones en los datos, resultando en bajo rendimiento.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Back-end
-nav_order: 2
+nav_order: 1
 parent: B
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Parte de una aplicación que gestiona la lógica de negocio, bases de datos y las interacciones con la parte frontal.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 Arquitectura de Software
 

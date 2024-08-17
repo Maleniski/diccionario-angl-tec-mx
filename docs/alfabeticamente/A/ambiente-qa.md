@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ambiente QA
-nav_order: 5
+nav_order: 4
 parent: A
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Entorno en el que se realizan pruebas para asegurar la calidad de la aplicación antes de pasar a producción.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
 **Subcategoría:**  
 Testing
 

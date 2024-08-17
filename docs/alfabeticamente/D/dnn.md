@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DNN
-nav_order: 15
+nav_order: 14
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Red Neuronal Profunda; tipo de red neuronal con múltiples capas ocultas, utilizada para modelar relaciones complejas en los datos.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

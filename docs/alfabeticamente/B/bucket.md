@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bucket
-nav_order: 9
+nav_order: 8
 parent: B
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Contenedor utilizado en servicios de almacenamiento en la nube para organizar y almacenar archivos o datos.
 
 **Categoría:**  
-Cloud Computing 
+Cloud Computing  
+
 **Subcategoría:**  
 Almacenamiento
 

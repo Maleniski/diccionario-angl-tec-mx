@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IaC
-nav_order: 10
+nav_order: 9
 parent: I
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Infraestructura como código; práctica de gestionar y aprovisionar recursos de infraestructura mediante archivos de definición legibles por máquinas en lugar de procesos manuales.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
 **Subcategoría:**  
 Cloud Computing
 

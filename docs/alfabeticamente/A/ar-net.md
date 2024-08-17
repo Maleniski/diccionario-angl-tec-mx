@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AR-NET
-nav_order: 9
+nav_order: 8
 parent: A
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Modelo de red neuronal diseñado para análisis de series temporales, combinando características de redes neuronales y métodos autoregresivos.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

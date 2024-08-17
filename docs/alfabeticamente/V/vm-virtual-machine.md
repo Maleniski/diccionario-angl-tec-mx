@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VM (Virtual Machine)
-nav_order: 19
+nav_order: 18
 parent: V
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Instancia de un sistema operativo que se ejecuta sobre un hipervisor, simulando un hardware físico completo.
 
 **Categoría:**  
-Cloud Computing 
+Cloud Computing  
+
 **Subcategoría:**  
 Virtualización
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bomberazo
-nav_order: 7
+nav_order: 6
 parent: B
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Tarea urgente que se realiza de manera improvisada y con poco tiempo para su planificación.
 
 **Categoría:**  
-Coloquialismo 
+Coloquialismo  
+
   
 
 

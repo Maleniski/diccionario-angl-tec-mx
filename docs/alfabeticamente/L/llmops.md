@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LLMOps
-nav_order: 13
+nav_order: 12
 parent: L
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Práctica de gestionar el ciclo de vida de modelos de lenguaje grandes (LLM) en producción, similar a MLOps.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
 **Subcategoría:**  
 Data Science
 

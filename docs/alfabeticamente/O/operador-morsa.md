@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Operador morsa
-nav_order: 14
+nav_order: 13
 parent: O
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Operador de asignación introducido en Python 3.8 que permite asignar valores y utilizarlos en una sola expresión.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
   
 
 

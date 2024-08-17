@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Codear
-nav_order: 9
+nav_order: 8
 parent: C
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Acto de escribir código o programar.
 
 **Categoría:**  
-Coloquialismo 
+Coloquialismo  
+
 **Subcategoría:**  
 Desarrollo de Software
 

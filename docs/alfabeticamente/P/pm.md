@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PM
-nav_order: 18
+nav_order: 17
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Gerente de Proyecto, responsable de la planificación, ejecución y cierre de un proyecto.
 
 **Categoría:**  
-Gestión de Proyectos 
+Gestión de Proyectos  
+
   
 
 

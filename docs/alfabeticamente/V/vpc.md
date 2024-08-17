@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VPC
-nav_order: 20
+nav_order: 19
 parent: V
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Red virtual privada que permite la creación de redes lógicas aisladas dentro de un entorno de nube.
 
 **Categoría:**  
-Cloud Computing 
+Cloud Computing  
+
 **Subcategoría:**  
 Redes
 

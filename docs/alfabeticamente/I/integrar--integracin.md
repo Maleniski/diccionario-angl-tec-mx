@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Integrar / integración
-nav_order: 13
+nav_order: 12
 parent: I
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Proceso de combinar módulos de software independientes en un sistema unificado.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 DevOps
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PaaS
-nav_order: 14
+nav_order: 13
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Plataforma como servicio que proporciona un entorno en la nube para desarrollar, gestionar y ejecutar aplicaciones sin gestionar la infraestructura subyacente.
 
 **Categoría:**  
-Cloud Computing 
+Cloud Computing  
+
 **Subcategoría:**  
 Servicios
 

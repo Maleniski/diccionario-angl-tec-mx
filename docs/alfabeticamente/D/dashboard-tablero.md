@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dashboard, tablero
-nav_order: 5
+nav_order: 4
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Interfaz visual que muestra métricas y datos clave sobre el estado de un proyecto o sistema.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 Gestión de Proyectos
 

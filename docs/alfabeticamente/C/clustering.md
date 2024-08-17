@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clustering
-nav_order: 7
+nav_order: 6
 parent: C
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Método de agrupación de datos en subconjuntos similares (clusters), utilizado en análisis exploratorio y modelos de machine learning.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

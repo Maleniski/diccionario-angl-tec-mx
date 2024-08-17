@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dataset
-nav_order: 10
+nav_order: 9
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Conjunto de datos estructurados que se utilizan para el análisis, entrenamiento de modelos de machine learning, y otras aplicaciones.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Estructura de Datos
 

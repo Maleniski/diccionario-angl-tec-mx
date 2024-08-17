@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dockerizar / dockerizado / dockerización
-nav_order: 16
+nav_order: 15
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Proceso de encapsular una aplicación en un contenedor Docker para facilitar su despliegue y ejecución.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
 **Subcategoría:**  
 Contenedores
 

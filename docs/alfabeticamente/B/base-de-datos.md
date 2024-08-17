@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Base de datos
-nav_order: 5
+nav_order: 4
 parent: B
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Conjunto organizado de datos almacenados electrónicamente en un sistema informático, accesibles para consultas y análisis.
 
 **Categoría:**  
-Bases de Datos 
+Bases de Datos  
+
   
 
 

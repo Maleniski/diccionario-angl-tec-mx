@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Caché
-nav_order: 3
+nav_order: 2
 parent: C
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Almacenamiento temporal de datos para acelerar su acceso futuro, evitando la necesidad de recalcular o recuperar información desde la fuente original.
 
 **Categoría:**  
-Optimización 
+Optimización  
+
 **Subcategoría:**  
 Arquitectura de Software
 

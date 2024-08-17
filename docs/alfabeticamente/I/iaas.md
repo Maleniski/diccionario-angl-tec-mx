@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IaaS
-nav_order: 9
+nav_order: 8
 parent: I
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Infrastructure as a Service; modelo de servicio que ofrece recursos de computación virtualizados a través de internet.
 
 **Categoría:**  
-Cloud Computing 
+Cloud Computing  
+
 **Subcategoría:**  
 Servicios
 

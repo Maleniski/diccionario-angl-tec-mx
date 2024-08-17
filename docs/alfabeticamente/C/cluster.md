@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cluster
-nav_order: 6
+nav_order: 5
 parent: C
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Conjunto de servidores o nodos que trabajan juntos para proporcionar alta disponibilidad y escalabilidad.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
 **Subcategoría:**  
 Orquestación
 

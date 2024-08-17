@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Git
-nav_order: 7
+nav_order: 6
 parent: G
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Sistema de control de versiones distribuido utilizado para seguir los cambios en el código fuente durante el desarrollo de software.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 Control de Versiones
 

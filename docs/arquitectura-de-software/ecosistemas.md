@@ -1,0 +1,20 @@
+---
+layout: default
+title: Ecosistemas
+parent: Arquitectura de Software
+grand_parent: Arquitectura de Software
+---
+
+# Ecosistemas
+
+**Definición:**  
+Conjunto de tecnologías y servicios interconectados que funcionan juntos en una aplicación o sistema.
+
+**Categoría:**  
+Arquitectura de Software  
+
+  
+
+
+**Términos relacionados:**  
+[Ambientes en ecosistemas](https://maleniski.github.io/diccionario-angl-tec-mx/docs/arquitectura-de-software/ambientes-en-ecosistemas.html), [Cluster](https://maleniski.github.io/diccionario-angl-tec-mx/docs/arquitectura-de-software/cluster.html)

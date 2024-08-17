@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Programaticamente
-nav_order: 23
+nav_order: 22
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Realizar una tarea a través de código escrito en lugar de manualmente.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
   
 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ciclar
-nav_order: 5
+nav_order: 4
 parent: C
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Proceso de repetir una acción o secuencia de código en un bucle.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
   
 
 

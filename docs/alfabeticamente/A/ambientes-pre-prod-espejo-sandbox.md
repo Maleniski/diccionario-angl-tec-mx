@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ambientes PRE-PROD, ESPEJO, SANDBOX
-nav_order: 7
+nav_order: 6
 parent: A
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Entornos que simulan el ambiente de producción para realizar pruebas antes de desplegar cambios.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
 **Subcategoría:**  
 Testing
 

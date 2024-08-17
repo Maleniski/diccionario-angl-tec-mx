@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blocker
-nav_order: 6
+nav_order: 5
 parent: B
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Obstáculo que impide el avance de un equipo en su trabajo.
 
 **Categoría:**  
-Metodologías Ágiles 
+Metodologías Ágiles  
+
   
 
 

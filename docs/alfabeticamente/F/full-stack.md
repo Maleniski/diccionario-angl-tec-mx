@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Full-stack
-nav_order: 12
+nav_order: 11
 parent: F
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Desarrollador o aplicación que cubre tanto el Front-end como el Back-end.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 Arquitectura de Software
 

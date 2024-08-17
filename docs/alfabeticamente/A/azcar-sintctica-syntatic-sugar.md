@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Azúcar sintáctica (syntatic sugar)
-nav_order: 10
+nav_order: 9
 parent: A
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Característica del lenguaje de programación que facilita escribir código más claro y conciso sin agregar funcionalidad.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
   
 
 

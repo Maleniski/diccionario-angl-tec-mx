@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nodo
-nav_order: 12
+nav_order: 11
 parent: N
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Unidad individual dentro de un cluster que puede ejecutar uno o más pods.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
 **Subcategoría:**  
 Orquestación
 

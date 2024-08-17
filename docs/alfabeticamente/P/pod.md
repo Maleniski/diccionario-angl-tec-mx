@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pod
-nav_order: 20
+nav_order: 19
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Unidad básica de ejecución en Kubernetes que contiene uno o más contenedores.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
 **Subcategoría:**  
 Orquestación
 

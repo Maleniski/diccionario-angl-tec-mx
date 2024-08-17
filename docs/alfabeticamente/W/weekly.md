@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Weekly
-nav_order: 19
+nav_order: 18
 parent: W
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Reunión semanal para revisar el progreso general del equipo y planificar la próxima semana de trabajo.
 
 **Categoría:**  
-Metodologías Ágiles 
+Metodologías Ágiles  
+
   
 
 

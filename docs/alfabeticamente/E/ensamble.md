@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ensamble
-nav_order: 8
+nav_order: 7
 parent: E
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Técnica de combinación de múltiples modelos de machine learning para mejorar la precisión de las predicciones.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

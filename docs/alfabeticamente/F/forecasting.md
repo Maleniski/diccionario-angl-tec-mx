@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Forecasting
-nav_order: 8
+nav_order: 7
 parent: F
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Proceso de predicción de valores futuros basados en datos históricos, comúnmente utilizado en finanzas y operaciones.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

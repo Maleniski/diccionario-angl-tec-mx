@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ETL
-nav_order: 11
+nav_order: 10
 parent: E
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Proceso de extracción, transformación y carga de datos desde diversas fuentes a un destino final, como un data warehouse.
 
 **Categoría:**  
-Bases de Datos 
+Bases de Datos  
+
 **Subcategoría:**  
 Data Science
 

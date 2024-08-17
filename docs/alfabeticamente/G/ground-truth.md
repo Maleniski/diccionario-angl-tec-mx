@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ground Truth
-nav_order: 9
+nav_order: 8
 parent: G
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Datos de referencia utilizados para entrenar y evaluar modelos de machine learning, considerados como la verdad factual.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

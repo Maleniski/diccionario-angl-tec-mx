@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Enterprise
-nav_order: 9
+nav_order: 8
 parent: E
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Referente a soluciones o sistemas diseñados para ser utilizados en grandes organizaciones.
 
 **Categoría:**  
-Arquitectura de Software 
+Arquitectura de Software  
+
   
 
 

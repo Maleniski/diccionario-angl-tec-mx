@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hiperescalador
-nav_order: 10
+nav_order: 9
 parent: H
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Proveedor de servicios en la nube capaz de ofrecer escalabilidad masiva a nivel global.
 
 **Categoría:**  
-Cloud Computing 
+Cloud Computing  
+
   
 
 

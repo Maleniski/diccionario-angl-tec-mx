@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scrappear
-nav_order: 17
+nav_order: 16
 parent: S
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Proceso de extraer datos de sitios web mediante scripts automatizados.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 Web Scraping
 

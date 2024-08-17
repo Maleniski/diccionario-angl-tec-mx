@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EDA
-nav_order: 6
+nav_order: 5
 parent: E
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Exploratory Data Analysis; proceso de análisis preliminar de los datos para descubrir patrones, anomalías y probar hipótesis antes de aplicar modelos.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Análisis de Datos
 

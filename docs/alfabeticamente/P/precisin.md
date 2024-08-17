@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Precisión
-nav_order: 21
+nav_order: 20
 parent: P
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Proporción de verdaderos positivos sobre el total de predicciones positivas, utilizada como métrica de evaluación en modelos de clasificación.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

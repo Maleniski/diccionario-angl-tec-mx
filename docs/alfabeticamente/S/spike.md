@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spike
-nav_order: 21
+nav_order: 20
 parent: S
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Pequeño esfuerzo exploratorio para investigar un problema o probar una idea en un entorno ágil.
 
 **Categoría:**  
-Metodologías Ágiles 
+Metodologías Ágiles  
+
   
 
 

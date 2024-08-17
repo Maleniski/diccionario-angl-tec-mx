@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DevOps
-nav_order: 13
+nav_order: 12
 parent: D
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Conjunto de prácticas que unifican el desarrollo de software (Dev) y las operaciones de TI (Ops) para mejorar la eficiencia y calidad del despliegue de aplicaciones.
 
 **Categoría:**  
-DevOps 
+DevOps  
+
   
 
 

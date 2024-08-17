@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CNN
-nav_order: 8
+nav_order: 7
 parent: C
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Red Neuronal Convolucional; tipo de red neuronal diseñada para procesar datos con estructura de cuadrícula, como imágenes.
 
 **Categoría:**  
-Data Science 
+Data Science  
+
 **Subcategoría:**  
 Machine Learning
 

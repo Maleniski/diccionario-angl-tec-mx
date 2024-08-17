@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SP (Store Procedures)
-nav_order: 20
+nav_order: 19
 parent: S
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Conjunto de instrucciones SQL precompiladas que se almacenan y ejecutan en una base de datos para realizar operaciones específicas.
 
 **Categoría:**  
-Bases de Datos 
+Bases de Datos  
+
   
 
 

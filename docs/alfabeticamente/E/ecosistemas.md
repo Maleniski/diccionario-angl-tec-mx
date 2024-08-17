@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ecosistemas
-nav_order: 5
+nav_order: 4
 parent: E
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Conjunto de tecnologías y servicios interconectados que funcionan juntos en una aplicación o sistema.
 
 **Categoría:**  
-Arquitectura de Software 
+Arquitectura de Software  
+
   
 
 

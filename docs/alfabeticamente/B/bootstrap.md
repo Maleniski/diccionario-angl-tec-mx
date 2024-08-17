@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bootstrap
-nav_order: 8
+nav_order: 7
 parent: B
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Framework de desarrollo front-end que facilita la creación rápida de interfaces web responsivas.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
 **Subcategoría:**  
 Framework
 

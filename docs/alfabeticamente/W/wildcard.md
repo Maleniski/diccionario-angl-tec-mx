@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wildcard
-nav_order: 20
+nav_order: 19
 parent: W
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Caracteres especiales que representan uno o más caracteres en una búsqueda o selección.
 
 **Categoría:**  
-Desarrollo de Software 
+Desarrollo de Software  
+
   
 
 

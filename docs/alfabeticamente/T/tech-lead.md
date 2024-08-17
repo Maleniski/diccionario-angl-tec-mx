@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tech lead
-nav_order: 16
+nav_order: 15
 parent: T
 grand_parent: Alfabéticamente
 ---
@@ -12,7 +12,8 @@ grand_parent: Alfabéticamente
 Líder técnico responsable de guiar a un equipo en las decisiones técnicas y la implementación de soluciones.
 
 **Categoría:**  
-Gestión de Proyectos 
+Gestión de Proyectos  
+
   
 
 
