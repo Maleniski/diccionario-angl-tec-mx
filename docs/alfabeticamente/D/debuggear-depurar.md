@@ -9,12 +9,12 @@ grand_parent: Alfabéticamente
 # Debuggear, depurar
 
 **Definición:**  
-Codear, Testear
+Proceso de identificar y corregir errores o bugs en un programa de software.
 
 **Categoría:**  
 Desarrollo de Software 
-**Subcategoría:**  
-Proceso de identificar y corregir errores o bugs en un programa de software.
+  
+
 
 **Términos relacionados:**  
-
+[Codear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/codear.html), [Testear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/T/testear.html)

@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Componente adicional que se añade a un programa para extender su funcionalidad.
 
 **Categoría:**  
-Desarrollo de Software
-
+Desarrollo de Software 
 **Subcategoría:**  
 Extensibilidad
 

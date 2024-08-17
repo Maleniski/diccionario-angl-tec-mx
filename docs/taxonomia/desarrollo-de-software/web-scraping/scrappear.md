@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Proceso de extraer datos de sitios web mediante scripts automatizados.
 
 **Categoría:**  
-Desarrollo de Software
-
+Desarrollo de Software 
 **Subcategoría:**  
 Web Scraping
 

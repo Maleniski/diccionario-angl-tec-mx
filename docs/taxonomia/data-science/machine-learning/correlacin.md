@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Medida estadística que indica la relación entre dos variables, utilizada para entender patrones en los datos.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

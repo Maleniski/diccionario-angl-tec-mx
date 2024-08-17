@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Acción de iniciar o desplegar un pod en un entorno de Kubernetes.
 
 **Categoría:**  
-DevOps
-
+DevOps 
 **Subcategoría:**  
 Orquestación
 

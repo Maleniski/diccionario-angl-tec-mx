@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Métrica que combina la precisión y el recall en un modelo de clasificación para balancear su rendimiento general.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

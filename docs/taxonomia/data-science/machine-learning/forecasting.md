@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Proceso de predicción de valores futuros basados en datos históricos, comúnmente utilizado en finanzas y operaciones.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

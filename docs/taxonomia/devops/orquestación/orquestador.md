@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Software que gestiona la coordinación y ejecución de contenedores en un entorno distribuido.
 
 **Categoría:**  
-DevOps
-
+DevOps 
 **Subcategoría:**  
 Orquestación
 

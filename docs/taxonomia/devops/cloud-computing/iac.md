@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Infraestructura como código; práctica de gestionar y aprovisionar recursos de infraestructura mediante archivos de definición legibles por máquinas en lugar de procesos manuales.
 
 **Categoría:**  
-DevOps
-
+DevOps 
 **Subcategoría:**  
 Cloud Computing
 

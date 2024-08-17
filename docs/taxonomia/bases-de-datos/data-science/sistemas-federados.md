@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Arquitectura de bases de datos en la que varios sistemas autónomos colaboran y comparten datos sin centralización.
 
 **Categoría:**  
-Bases de Datos
-
+Bases de Datos 
 **Subcategoría:**  
 Data Science
 

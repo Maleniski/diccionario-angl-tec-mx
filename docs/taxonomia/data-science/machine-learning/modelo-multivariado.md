@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Modelo de análisis estadístico o machine learning que considera múltiples variables para predecir un resultado o entender relaciones complejas entre ellas.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

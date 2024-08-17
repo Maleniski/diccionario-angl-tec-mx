@@ -11,10 +11,9 @@ grand_parent: Taxonomía
 Proceso de repetir una acción o secuencia de código en un bucle.
 
 **Categoría:**  
-Desarrollo de Software
+Desarrollo de Software 
+  
 
-**Subcategoría:**  
-N/A
 
 **Términos relacionados:**  
 [Codear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/codear.html), [Scrappear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/desarrollo-de-software/scrappear.html)

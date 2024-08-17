@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Proceso de combinar módulos de software independientes en un sistema unificado.
 
 **Categoría:**  
-Desarrollo de Software
-
+Desarrollo de Software 
 **Subcategoría:**  
 DevOps
 

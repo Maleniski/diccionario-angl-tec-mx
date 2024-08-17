@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Técnica de combinación de múltiples modelos de machine learning para mejorar la precisión de las predicciones.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

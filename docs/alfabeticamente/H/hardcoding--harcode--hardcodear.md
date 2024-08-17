@@ -9,12 +9,12 @@ grand_parent: Alfabéticamente
 # Hardcoding / Harcode / Hardcodear
 
 **Definición:**  
-Placeholder, Programaticamente
+Práctica de insertar datos fijos directamente en el código fuente en lugar de obtenerlos dinámicamente.
 
 **Categoría:**  
 Desarrollo de Software 
-**Subcategoría:**  
-Práctica de insertar datos fijos directamente en el código fuente en lugar de obtenerlos dinámicamente.
+  
+
 
 **Términos relacionados:**  
-
+[Placeholder](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/placeholder.html), [Programaticamente](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/programaticamente.html)

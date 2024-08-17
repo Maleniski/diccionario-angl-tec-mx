@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Red Neuronal Profunda; tipo de red neuronal con múltiples capas ocultas, utilizada para modelar relaciones complejas en los datos.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

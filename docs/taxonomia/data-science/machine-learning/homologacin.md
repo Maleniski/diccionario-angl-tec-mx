@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Proceso de alineación de datos o procesos para cumplir con un estándar común o requisitos específicos.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

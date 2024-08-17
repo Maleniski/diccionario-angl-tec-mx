@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Cuando un modelo de machine learning es demasiado simple y no captura bien los patrones en los datos, resultando en bajo rendimiento.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

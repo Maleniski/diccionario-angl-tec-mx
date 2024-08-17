@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Evaluar un software o sistema para verificar su correcto funcionamiento.
 
 **Categoría:**  
-Desarrollo de Software
-
+Desarrollo de Software 
 **Subcategoría:**  
 Testing
 

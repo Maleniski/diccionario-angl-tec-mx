@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Repositorio centralizado donde se almacenan, gestionan y reutilizan las características (features) utilizadas en modelos de machine learning.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

@@ -9,12 +9,12 @@ grand_parent: Alfabéticamente
 # Hiperescalador
 
 **Definición:**  
-VM, SaaS
+Proveedor de servicios en la nube capaz de ofrecer escalabilidad masiva a nivel global.
 
 **Categoría:**  
 Cloud Computing 
-**Subcategoría:**  
-Proveedor de servicios en la nube capaz de ofrecer escalabilidad masiva a nivel global.
+  
+
 
 **Términos relacionados:**  
-
+[VM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/V/vm.html), [SaaS](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/saas.html)

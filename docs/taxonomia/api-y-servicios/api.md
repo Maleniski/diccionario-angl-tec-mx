@@ -11,10 +11,9 @@ grand_parent: Taxonomía
 Interfaz que permite la comunicación entre diferentes aplicaciones o servicios de software.
 
 **Categoría:**  
-API y Servicios
+API y Servicios 
+  
 
-**Subcategoría:**  
-N/A
 
 **Términos relacionados:**  
 [Endpoint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/api-y-servicios/endpoint.html), [Middleware](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/api-y-servicios/middleware.html)

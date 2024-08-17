@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Datos de referencia utilizados para entrenar y evaluar modelos de machine learning, considerados como la verdad factual.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

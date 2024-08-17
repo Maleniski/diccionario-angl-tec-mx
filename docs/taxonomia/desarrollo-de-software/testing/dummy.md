@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Objeto o dato simulado utilizado para pruebas de software o desarrollo.
 
 **Categoría:**  
-Desarrollo de Software
-
+Desarrollo de Software 
 **Subcategoría:**  
 Testing
 

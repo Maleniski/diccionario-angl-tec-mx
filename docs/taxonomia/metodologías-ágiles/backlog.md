@@ -11,10 +11,9 @@ grand_parent: Taxonomía
 Lista priorizada de tareas, características y requerimientos pendientes por desarrollar en un proyecto.
 
 **Categoría:**  
-Metodologías Ágiles
+Metodologías Ágiles 
+  
 
-**Subcategoría:**  
-N/A
 
 **Términos relacionados:**  
 [Sprint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/metodologías-ágiles/sprint.html), [Spike](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/metodologías-ágiles/spike.html)

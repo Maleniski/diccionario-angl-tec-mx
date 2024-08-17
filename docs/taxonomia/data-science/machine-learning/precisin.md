@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Proporción de verdaderos positivos sobre el total de predicciones positivas, utilizada como métrica de evaluación en modelos de clasificación.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

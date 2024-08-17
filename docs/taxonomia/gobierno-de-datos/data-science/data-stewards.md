@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Profesionales responsables de la gestión, calidad y gobernanza de los datos en una organización.
 
 **Categoría:**  
-Gobierno de Datos
-
+Gobierno de Datos 
 **Subcategoría:**  
 Data Science
 

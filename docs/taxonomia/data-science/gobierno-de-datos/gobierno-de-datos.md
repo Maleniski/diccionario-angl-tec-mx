@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Conjunto de prácticas y políticas para asegurar la gestión adecuada, calidad y seguridad de los datos en una organización.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Gobierno de Datos
 

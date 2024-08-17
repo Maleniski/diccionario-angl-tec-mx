@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Copia de un sistema operativo o aplicación, empaquetada para ser desplegada en contenedores u otros entornos.
 
 **Categoría:**  
-DevOps
-
+DevOps 
 **Subcategoría:**  
 Orquestación
 

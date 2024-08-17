@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Infrastructure as a Service; modelo de servicio que ofrece recursos de computación virtualizados a través de internet.
 
 **Categoría:**  
-Cloud Computing
-
+Cloud Computing 
 **Subcategoría:**  
 Servicios
 

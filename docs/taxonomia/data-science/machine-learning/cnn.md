@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Red Neuronal Convolucional; tipo de red neuronal diseñada para procesar datos con estructura de cuadrícula, como imágenes.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

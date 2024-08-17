@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Tabla que describe el rendimiento de un modelo de clasificación, mostrando los aciertos y errores en sus predicciones.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

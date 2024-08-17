@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Plataforma como servicio que proporciona un entorno en la nube para desarrollar, gestionar y ejecutar aplicaciones sin gestionar la infraestructura subyacente.
 
 **Categoría:**  
-Cloud Computing
-
+Cloud Computing 
 **Subcategoría:**  
 Servicios
 

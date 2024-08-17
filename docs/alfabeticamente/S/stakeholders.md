@@ -9,12 +9,12 @@ grand_parent: Alfabéticamente
 # Stakeholders
 
 **Definición:**  
-Tech lead, PM
+Personas o grupos con interés en el éxito de un proyecto, incluidos usuarios, gerentes y patrocinadores.
 
 **Categoría:**  
 Gestión de Proyectos 
-**Subcategoría:**  
-Personas o grupos con interés en el éxito de un proyecto, incluidos usuarios, gerentes y patrocinadores.
+  
+
 
 **Términos relacionados:**  
-
+[Tech lead](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/T/tech-lead.html), [PM](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/pm.html)

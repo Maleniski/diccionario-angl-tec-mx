@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Protocolo de transferencia de archivos que permite mover archivos entre sistemas conectados a una red.
 
 **Categoría:**  
-Desarrollo de Software
-
+Desarrollo de Software 
 **Subcategoría:**  
 Redes
 

@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Unidad estándar de software que empaqueta el código y todas sus dependencias para que una aplicación se ejecute de manera uniforme en cualquier entorno.
 
 **Categoría:**  
-DevOps
-
+DevOps 
 **Subcategoría:**  
 Orquestación
 

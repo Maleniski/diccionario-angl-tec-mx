@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Tecnología que crea una conexión segura y cifrada sobre una red menos segura, como internet.
 
 **Categoría:**  
-Redes
-
+Redes 
 **Subcategoría:**  
 Seguridad
 

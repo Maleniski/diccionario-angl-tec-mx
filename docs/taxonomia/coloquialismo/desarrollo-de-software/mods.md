@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Modificaciones o expansiones no oficiales hechas a un software o juego.
 
 **Categoría:**  
-Coloquialismo
-
+Coloquialismo 
 **Subcategoría:**  
 Desarrollo de Software
 

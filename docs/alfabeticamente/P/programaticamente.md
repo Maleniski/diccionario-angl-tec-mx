@@ -9,12 +9,12 @@ grand_parent: Alfabéticamente
 # Programaticamente
 
 **Definición:**  
-Codear, Hardcoding
+Realizar una tarea a través de código escrito en lugar de manualmente.
 
 **Categoría:**  
 Desarrollo de Software 
-**Subcategoría:**  
-Realizar una tarea a través de código escrito en lugar de manualmente.
+  
+
 
 **Términos relacionados:**  
-
+[Codear](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/C/codear.html), [Hardcoding](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/H/hardcoding.html)

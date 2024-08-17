@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Instancia de un sistema operativo que se ejecuta sobre un hipervisor, simulando un hardware físico completo.
 
 **Categoría:**  
-Cloud Computing
-
+Cloud Computing 
 **Subcategoría:**  
 Virtualización
 

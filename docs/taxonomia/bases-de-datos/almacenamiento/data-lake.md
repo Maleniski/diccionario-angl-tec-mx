@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Almacén de datos centralizado que permite almacenar datos en su formato original, tanto estructurados como no estructurados, para análisis y procesamiento posterior.
 
 **Categoría:**  
-Bases de Datos
-
+Bases de Datos 
 **Subcategoría:**  
 Almacenamiento
 

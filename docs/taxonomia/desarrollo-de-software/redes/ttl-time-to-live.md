@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Tiempo de vida de un paquete o dato antes de que sea descartado o eliminado.
 
 **Categoría:**  
-Desarrollo de Software
-
+Desarrollo de Software 
 **Subcategoría:**  
 Redes
 

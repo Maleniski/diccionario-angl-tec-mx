@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Contenedor utilizado en servicios de almacenamiento en la nube para organizar y almacenar archivos o datos.
 
 **Categoría:**  
-Cloud Computing
-
+Cloud Computing 
 **Subcategoría:**  
 Almacenamiento
 

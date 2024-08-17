@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Relación entre causa y efecto donde una variable influye directamente en otra, diferenciándose de la simple correlación.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

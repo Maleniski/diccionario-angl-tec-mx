@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Parte de una aplicación que gestiona la lógica de negocio, bases de datos y las interacciones con la parte frontal.
 
 **Categoría:**  
-Desarrollo de Software
-
+Desarrollo de Software 
 **Subcategoría:**  
 Arquitectura de Software
 

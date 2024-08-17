@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Procesos de ajuste de datos para que se ajusten a una escala o distribución estándar, facilitando su uso en modelos de machine learning.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

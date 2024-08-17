@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Proceso de extracción, transformación y carga de datos desde diversas fuentes a un destino final, como un data warehouse.
 
 **Categoría:**  
-Bases de Datos
-
+Bases de Datos 
 **Subcategoría:**  
 Data Science
 

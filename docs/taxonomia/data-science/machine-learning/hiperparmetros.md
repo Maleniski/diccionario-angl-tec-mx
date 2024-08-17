@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Parámetros que se configuran antes del entrenamiento de un modelo de machine learning y que controlan su comportamiento y precisión.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Repositorio centralizado que contiene descripciones y definiciones de los elementos de datos de una base de datos.
 
 **Categoría:**  
-Bases de Datos
-
+Bases de Datos 
 **Subcategoría:**  
 Data Science
 

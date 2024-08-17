@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Información que describe otros datos, proporcionando contexto o detalles adicionales sobre su origen, estructura, o características.
 
 **Categoría:**  
-Bases de Datos
-
+Bases de Datos 
 **Subcategoría:**  
 Data Science
 

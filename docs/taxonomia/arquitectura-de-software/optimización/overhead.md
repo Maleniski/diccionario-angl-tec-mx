@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Carga adicional que consume recursos y afecta el rendimiento de un sistema o aplicación.
 
 **Categoría:**  
-Arquitectura de Software
-
+Arquitectura de Software 
 **Subcategoría:**  
 Optimización
 

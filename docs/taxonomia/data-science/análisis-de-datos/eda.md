@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Exploratory Data Analysis; proceso de análisis preliminar de los datos para descubrir patrones, anomalías y probar hipótesis antes de aplicar modelos.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Análisis de Datos
 

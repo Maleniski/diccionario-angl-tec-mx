@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Almacenamiento temporal de datos para acelerar su acceso futuro, evitando la necesidad de recalcular o recuperar información desde la fuente original.
 
 **Categoría:**  
-Optimización
-
+Optimización 
 **Subcategoría:**  
 Arquitectura de Software
 

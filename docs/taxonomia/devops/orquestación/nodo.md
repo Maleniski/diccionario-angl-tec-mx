@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Unidad individual dentro de un cluster que puede ejecutar uno o más pods.
 
 **Categoría:**  
-DevOps
-
+DevOps 
 **Subcategoría:**  
 Orquestación
 

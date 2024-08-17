@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Método de agrupación de datos en subconjuntos similares (clusters), utilizado en análisis exploratorio y modelos de machine learning.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

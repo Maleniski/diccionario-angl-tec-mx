@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Cuando un modelo de machine learning se ajusta demasiado a los datos de entrenamiento, perdiendo capacidad de generalización a nuevos datos.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

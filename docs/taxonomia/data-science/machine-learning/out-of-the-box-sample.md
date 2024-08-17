@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Ejemplos preconfigurados que vienen con un software o framework, listos para ser utilizados sin personalización.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

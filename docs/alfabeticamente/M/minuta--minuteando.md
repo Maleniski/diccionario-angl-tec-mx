@@ -9,12 +9,12 @@ grand_parent: Alfabéticamente
 # Minuta / minuteando
 
 **Definición:**  
-Daily, Weekly
+Documento que resume los puntos discutidos en una reunión, así como las acciones a tomar.
 
 **Categoría:**  
 Coloquialismo 
-**Subcategoría:**  
-Documento que resume los puntos discutidos en una reunión, así como las acciones a tomar.
+  
+
 
 **Términos relacionados:**  
-
+[Daily](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/daily.html), [Weekly](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/W/weekly.html)

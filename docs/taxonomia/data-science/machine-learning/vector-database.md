@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Base de datos optimizada para almacenar y gestionar vectores, comúnmente utilizada en aplicaciones de machine learning y búsquedas vectoriales.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

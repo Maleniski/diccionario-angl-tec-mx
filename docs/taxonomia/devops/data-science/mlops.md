@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Práctica de automatizar y optimizar el ciclo de vida del machine learning, desde el desarrollo del modelo hasta su implementación en producción.
 
 **Categoría:**  
-DevOps
-
+DevOps 
 **Subcategoría:**  
 Data Science
 

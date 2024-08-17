@@ -9,12 +9,12 @@ grand_parent: Alfabéticamente
 # SLA
 
 **Definición:**  
-Endpoint, API
+Acuerdo entre un proveedor de servicios y un cliente que especifica los niveles de servicio esperados.
 
 **Categoría:**  
 Acuerdo de Nivel de Servicio 
-**Subcategoría:**  
-Acuerdo entre un proveedor de servicios y un cliente que especifica los niveles de servicio esperados.
+  
+
 
 **Términos relacionados:**  
-
+[Endpoint](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/E/endpoint.html), [API](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/api.html)

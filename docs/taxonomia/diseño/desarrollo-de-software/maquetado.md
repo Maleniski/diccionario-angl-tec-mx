@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Proceso de diseñar la estructura visual de una página web o aplicación antes de su desarrollo completo.
 
 **Categoría:**  
-Diseño
-
+Diseño 
 **Subcategoría:**  
 Desarrollo de Software
 

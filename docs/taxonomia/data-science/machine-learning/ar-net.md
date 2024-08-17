@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Modelo de red neuronal diseñado para análisis de series temporales, combinando características de redes neuronales y métodos autoregresivos.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

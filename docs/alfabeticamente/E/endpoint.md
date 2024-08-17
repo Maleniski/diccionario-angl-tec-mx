@@ -9,12 +9,12 @@ grand_parent: Alfabéticamente
 # Endpoint
 
 **Definición:**  
-API, Middleware
+URL o dirección que expone una API para interactuar con un servicio específico.
 
 **Categoría:**  
 API y Servicios 
-**Subcategoría:**  
-URL o dirección que expone una API para interactuar con un servicio específico.
+  
+
 
 **Términos relacionados:**  
-
+[API](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/A/api.html), [Middleware](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/M/middleware.html)

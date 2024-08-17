@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Sistema de control de versiones distribuido utilizado para seguir los cambios en el código fuente durante el desarrollo de software.
 
 **Categoría:**  
-Desarrollo de Software
-
+Desarrollo de Software 
 **Subcategoría:**  
 Control de Versiones
 

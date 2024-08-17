@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Entorno en el que se realizan pruebas para asegurar la calidad de la aplicación antes de pasar a producción.
 
 **Categoría:**  
-DevOps
-
+DevOps 
 **Subcategoría:**  
 Testing
 

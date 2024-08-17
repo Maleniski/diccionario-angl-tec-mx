@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Estructura tabular de datos comúnmente utilizada en lenguajes como Python y R, compuesta por filas y columnas.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Estructura de Datos
 

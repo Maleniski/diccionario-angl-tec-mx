@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Unidad básica de ejecución en Kubernetes que contiene uno o más contenedores.
 
 **Categoría:**  
-DevOps
-
+DevOps 
 **Subcategoría:**  
 Orquestación
 

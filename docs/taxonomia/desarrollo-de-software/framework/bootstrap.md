@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Framework de desarrollo front-end que facilita la creación rápida de interfaces web responsivas.
 
 **Categoría:**  
-Desarrollo de Software
-
+Desarrollo de Software 
 **Subcategoría:**  
 Framework
 

@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Red virtual privada que permite la creación de redes lógicas aisladas dentro de un entorno de nube.
 
 **Categoría:**  
-Cloud Computing
-
+Cloud Computing 
 **Subcategoría:**  
 Redes
 

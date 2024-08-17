@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Entornos específicos (como Dev, QA, Prod) en los que se despliegan y prueban aplicaciones.
 
 **Categoría:**  
-Arquitectura de Software
-
+Arquitectura de Software 
 **Subcategoría:**  
 DevOps
 

@@ -9,12 +9,12 @@ grand_parent: Alfabéticamente
 # Placeholder
 
 **Definición:**  
-Dummy, Hardcoding
+Elemento temporal utilizado para reservar espacio o representar datos aún no disponibles.
 
 **Categoría:**  
 Desarrollo de Software 
-**Subcategoría:**  
-Elemento temporal utilizado para reservar espacio o representar datos aún no disponibles.
+  
+
 
 **Términos relacionados:**  
-
+[Dummy](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/D/dummy.html), [Hardcoding](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/H/hardcoding.html)

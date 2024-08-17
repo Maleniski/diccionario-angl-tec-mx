@@ -9,12 +9,12 @@ grand_parent: Alfabéticamente
 # Triggers
 
 **Definición:**  
-SP, Primary, Foreign keys
+Conjunto de instrucciones SQL que se ejecutan automáticamente en respuesta a ciertos eventos en una tabla o vista de una base de datos.
 
 **Categoría:**  
 Bases de Datos 
-**Subcategoría:**  
-Conjunto de instrucciones SQL que se ejecutan automáticamente en respuesta a ciertos eventos en una tabla o vista de una base de datos.
+  
+
 
 **Términos relacionados:**  
-
+[SP](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/S/sp.html), [Primary](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/P/primary.html), [Foreign keys](https://maleniski.github.io/diccionario-angl-tec-mx/docs/alfabeticamente/F/foreign-keys.html)

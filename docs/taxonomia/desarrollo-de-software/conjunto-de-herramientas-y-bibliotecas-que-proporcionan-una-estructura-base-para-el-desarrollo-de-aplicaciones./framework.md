@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Bootstrap, Git
 
 **Categoría:**  
-Desarrollo de Software
-
+Desarrollo de Software 
 **Subcategoría:**  
 Conjunto de herramientas y bibliotecas que proporcionan una estructura base para el desarrollo de aplicaciones.
 

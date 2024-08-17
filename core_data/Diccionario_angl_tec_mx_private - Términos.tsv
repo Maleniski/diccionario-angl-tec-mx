@@ -33,7 +33,7 @@ Data Lakehouse	Bases de Datos	Almacenamiento	Arquitectura que combina las ventaj
 Data stewards	Gobierno de Datos	Data Science	Profesionales responsables de la gestión, calidad y gobernanza de los datos en una organización.	Gobierno de datos, Diccionario de datos
 Dataframe	Data Science	Estructura de Datos	Estructura tabular de datos comúnmente utilizada en lenguajes como Python y R, compuesta por filas y columnas.	Dataset, ETL
 Dataset	Data Science	Estructura de Datos	Conjunto de datos estructurados que se utilizan para el análisis, entrenamiento de modelos de machine learning, y otras aplicaciones.	Dataframe, ETL
-Debuggear, depurar	Desarrollo de Software	Proceso de identificar y corregir errores o bugs en un programa de software.	Codear, Testear
+Debuggear, depurar	Desarrollo de Software		Proceso de identificar y corregir errores o bugs en un programa de software.	Codear, Testear
 Desplegar, deployar	Desarrollo de Software	DevOps	Proceso de poner en producción o hacer accesible un software a los usuarios finales.	DevOps, Pipeline
 DevOps	DevOps		Conjunto de prácticas que unifican el desarrollo de software (Dev) y las operaciones de TI (Ops) para mejorar la eficiencia y calidad del despliegue de aplicaciones.	Pipeline, Dockerizar
 Diccionario de datos	Bases de Datos	Data Science	Repositorio centralizado que contiene descripciones y definiciones de los elementos de datos de una base de datos.	Metadatos, Esquema de Base de datos
@@ -42,7 +42,7 @@ Dockerizar / dockerizado / dockerización	DevOps	Contenedores	Proceso de encapsu
 Dummy	Desarrollo de Software	Testing	Objeto o dato simulado utilizado para pruebas de software o desarrollo.	Placeholder, Testear
 Ecosistemas	Arquitectura de Software		Conjunto de tecnologías y servicios interconectados que funcionan juntos en una aplicación o sistema.	Ambientes en ecosistemas, Cluster
 EDA	Data Science	Análisis de Datos	Exploratory Data Analysis; proceso de análisis preliminar de los datos para descubrir patrones, anomalías y probar hipótesis antes de aplicar modelos.	Clustering, Dataframe
-Endpoint	API y Servicios	URL o dirección que expone una API para interactuar con un servicio específico.	API, Middleware
+Endpoint	API y Servicios		URL o dirección que expone una API para interactuar con un servicio específico.	API, Middleware
 Ensamble	Data Science	Machine Learning	Técnica de combinación de múltiples modelos de machine learning para mejorar la precisión de las predicciones.	Clustering, Hiperparámetros
 Enterprise	Arquitectura de Software		Referente a soluciones o sistemas diseñados para ser utilizados en grandes organizaciones.	Microservicio, Middleware
 Esquema de Base de datos	Bases de Datos		Estructura lógica que define la organización y relaciones entre los datos en una base de datos.	Base de datos, Diccionario de datos
@@ -50,16 +50,16 @@ ETL	Bases de Datos	Data Science	Proceso de extracción, transformación y carga 
 F-Score	Data Science	Machine Learning	Métrica que combina la precisión y el recall en un modelo de clasificación para balancear su rendimiento general.	Matriz de Confusión, Precisión
 Feature Store	Data Science	Machine Learning	Repositorio centralizado donde se almacenan, gestionan y reutilizan las características (features) utilizadas en modelos de machine learning.	Vector Database, Hiperparámetros
 Forecasting	Data Science	Machine Learning	Proceso de predicción de valores futuros basados en datos históricos, comúnmente utilizado en finanzas y operaciones.	Backtesting, Clustering
-Framework	Desarrollo de Software	Conjunto de herramientas y bibliotecas que proporcionan una estructura base para el desarrollo de aplicaciones.	Bootstrap, Git
+Framework	Desarrollo de Software	Conjunto de herramientas y bibliotecas que proporcionan una estructura base para el desarrollo de aplicaciones.	Bootstrap, Git	
 Front-end	Desarrollo de Software	Arquitectura de Software	Parte de una aplicación con la que interactúan los usuarios, generalmente a través de una interfaz gráfica.	Back-end, Full-stack
 Ftp	Desarrollo de Software	Redes	Protocolo de transferencia de archivos que permite mover archivos entre sistemas conectados a una red.	VM, VPN
 Full-stack	Desarrollo de Software	Arquitectura de Software	Desarrollador o aplicación que cubre tanto el Front-end como el Back-end.	Front-end, Back-end
 Git	Desarrollo de Software	Control de Versiones	Sistema de control de versiones distribuido utilizado para seguir los cambios en el código fuente durante el desarrollo de software.	Pipeline, Framework
 Gobierno de datos	Data Science	Gobierno de Datos	Conjunto de prácticas y políticas para asegurar la gestión adecuada, calidad y seguridad de los datos en una organización.	Data stewards, Diccionario de datos
 Ground Truth	Data Science	Machine Learning	Datos de referencia utilizados para entrenar y evaluar modelos de machine learning, considerados como la verdad factual.	Overfit, Underfit
-Handler / handlear	Desarrollo de Software	Código o función que se encarga de gestionar un evento o solicitud específica.	Middleware, API
-Hardcoding / Harcode / Hardcodear	Desarrollo de Software	Práctica de insertar datos fijos directamente en el código fuente en lugar de obtenerlos dinámicamente.	Placeholder, Programaticamente
-Hiperescalador	Cloud Computing	Proveedor de servicios en la nube capaz de ofrecer escalabilidad masiva a nivel global.	VM, SaaS
+Handler / handlear	Desarrollo de Software		Código o función que se encarga de gestionar un evento o solicitud específica.	Middleware, API
+Hardcoding / Harcode / Hardcodear	Desarrollo de Software		Práctica de insertar datos fijos directamente en el código fuente en lugar de obtenerlos dinámicamente.	Placeholder, Programaticamente
+Hiperescalador	Cloud Computing		Proveedor de servicios en la nube capaz de ofrecer escalabilidad masiva a nivel global.	VM, SaaS
 Hiperparámetros	Data Science	Machine Learning	Parámetros que se configuran antes del entrenamiento de un modelo de machine learning y que controlan su comportamiento y precisión.	Ensamble, Imputación
 Homologación	Data Science	Machine Learning	Proceso de alineación de datos o procesos para cumplir con un estándar común o requisitos específicos.	Normalización, Estandarización
 IaaS	Cloud Computing	Servicios	Infrastructure as a Service; modelo de servicio que ofrece recursos de computación virtualizados a través de internet.	PaaS, SaaS
@@ -67,52 +67,52 @@ IaC	DevOps	Cloud Computing	Infraestructura como código; práctica de gestionar 
 Imagen	DevOps	Orquestación	Copia de un sistema operativo o aplicación, empaquetada para ser desplegada en contenedores u otros entornos.	Contenedor, Dockerizar
 Imputación	Data Science	Machine Learning	Proceso de reemplazar datos faltantes con valores sustitutos basados en alguna metodología para completar un conjunto de datos.	Normalización, Estandarización
 Integrar / integración	Desarrollo de Software	DevOps	Proceso de combinar módulos de software independientes en un sistema unificado.	Pipeline, Microservicio
-La consola de ... (AWS, AZURE, GCP)	Cloud Computing	Interfaz gráfica o de línea de comandos proporcionada por proveedores de la nube para gestionar y monitorear recursos y servicios en la nube.	VM, VPC
+La consola de ... (AWS, AZURE, GCP)	Cloud Computing		Interfaz gráfica o de línea de comandos proporcionada por proveedores de la nube para gestionar y monitorear recursos y servicios en la nube.	VM, VPC
 Levantar un pod	DevOps	Orquestación	Acción de iniciar o desplegar un pod en un entorno de Kubernetes.	Pod, Cluster
 LLM	Data Science	Machine Learning	Modelos de Lenguaje Grandes; modelos de machine learning entrenados en grandes cantidades de texto, utilizados para tareas como generación de lenguaje natural.	LLMOps, CNN
 LLMOps	DevOps	Data Science	Práctica de gestionar el ciclo de vida de modelos de lenguaje grandes (LLM) en producción, similar a MLOps.	MLOps, DevOps
 Maquetado	Diseño	Desarrollo de Software	Proceso de diseñar la estructura visual de una página web o aplicación antes de su desarrollo completo.	Wireframe, UX/UI
 Matriz de Confusión	Data Science	Machine Learning	Tabla que describe el rendimiento de un modelo de clasificación, mostrando los aciertos y errores en sus predicciones.	Precisión, F-Score
 Metadatos	Bases de Datos	Data Science	Información que describe otros datos, proporcionando contexto o detalles adicionales sobre su origen, estructura, o características.	Diccionario de datos, Dataset
-Microservicio	Arquitectura de Software	Arquitectura donde una aplicación se descompone en pequeños servicios independientes que interactúan entre sí.	Enterprise, Contenedor
-Middleware	Arquitectura de Software	Software que actúa como intermediario entre diferentes aplicaciones o servicios, facilitando su comunicación.	API, Handler
+Microservicio	Arquitectura de Software		Arquitectura donde una aplicación se descompone en pequeños servicios independientes que interactúan entre sí.	Enterprise, Contenedor
+Middleware	Arquitectura de Software		Software que actúa como intermediario entre diferentes aplicaciones o servicios, facilitando su comunicación.	API, Handler
 Milestone	Metodologías Ágiles	Gestión de Proyectos	Punto de control importante en el cronograma de un proyecto, que marca la finalización de una fase clave.	Dashboard, Sprint
-Minuta / minuteando	Coloquialismo	Documento que resume los puntos discutidos en una reunión, así como las acciones a tomar.	Daily, Weekly
+Minuta / minuteando	Coloquialismo		Documento que resume los puntos discutidos en una reunión, así como las acciones a tomar.	Daily, Weekly
 MLOps	DevOps	Data Science	Práctica de automatizar y optimizar el ciclo de vida del machine learning, desde el desarrollo del modelo hasta su implementación en producción.	DevOps, LLMOps
 Modelo Multivariado	Data Science	Machine Learning	Modelo de análisis estadístico o machine learning que considera múltiples variables para predecir un resultado o entender relaciones complejas entre ellas.	Causalidad, Correlación
 Mods	Coloquialismo	Desarrollo de Software	Modificaciones o expansiones no oficiales hechas a un software o juego.	Bomberazo, Al vuelo
 MVP	Gestión de Proyectos	Desarrollo de Software	Producto Mínimo Viable; versión simplificada de un producto con suficiente funcionalidad para atraer a los primeros usuarios y validar una idea.	POC, Agile
 Nodo	DevOps	Orquestación	Unidad individual dentro de un cluster que puede ejecutar uno o más pods.	Cluster, Pod
 Normalización, Estandarización	Data Science	Machine Learning	Procesos de ajuste de datos para que se ajusten a una escala o distribución estándar, facilitando su uso en modelos de machine learning.	Homologación, Imputación
-On premise	Arquitectura de Software	Software o hardware que se instala y opera en las instalaciones físicas del usuario en lugar de en la nube.	Microservicio, Enterprise
-Operador morsa	Desarrollo de Software	Operador de asignación introducido en Python 3.8 que permite asignar valores y utilizarlos en una sola expresión.	Syntactic Sugar, Wildcard
+On premise	Arquitectura de Software		Software o hardware que se instala y opera en las instalaciones físicas del usuario en lugar de en la nube.	Microservicio, Enterprise
+Operador morsa	Desarrollo de Software		Operador de asignación introducido en Python 3.8 que permite asignar valores y utilizarlos en una sola expresión.	Syntactic Sugar, Wildcard
 Orquestador	DevOps	Orquestación	Software que gestiona la coordinación y ejecución de contenedores en un entorno distribuido.	Pod, Cluster
 Out of the box sample	Data Science	Machine Learning	Ejemplos preconfigurados que vienen con un software o framework, listos para ser utilizados sin personalización.	Framework, Bootstrap
 Overfit	Data Science	Machine Learning	Cuando un modelo de machine learning se ajusta demasiado a los datos de entrenamiento, perdiendo capacidad de generalización a nuevos datos.	Underfit, Hiperparámetros
 Overhead	Arquitectura de Software	Optimización	Carga adicional que consume recursos y afecta el rendimiento de un sistema o aplicación.	Caché, Middleware
 PaaS	Cloud Computing	Servicios	Plataforma como servicio que proporciona un entorno en la nube para desarrollar, gestionar y ejecutar aplicaciones sin gestionar la infraestructura subyacente.	SaaS, IaaS
 Pipeline	DevOps	CI/CD	Cadena automatizada de procesos para la construcción, prueba, y despliegue de software.	Integrar, Desplegar
-Placeholder	Desarrollo de Software	Elemento temporal utilizado para reservar espacio o representar datos aún no disponibles.	Dummy, Hardcoding
+Placeholder	Desarrollo de Software		Elemento temporal utilizado para reservar espacio o representar datos aún no disponibles.	Dummy, Hardcoding
 Plugin	Desarrollo de Software	Extensibilidad	Componente adicional que se añade a un programa para extender su funcionalidad.	Framework, Git
-PM	Gestión de Proyectos	Gerente de Proyecto, responsable de la planificación, ejecución y cierre de un proyecto.	Tech lead, Stakeholders
+PM	Gestión de Proyectos		Gerente de Proyecto, responsable de la planificación, ejecución y cierre de un proyecto.	Tech lead, Stakeholders
 POC	Gestión de Proyectos	Desarrollo de Software	Prueba de Concepto; proyecto corto o experimental para demostrar la viabilidad técnica de una idea o tecnología.	MVP, Spike
 Pod	DevOps	Orquestación	Unidad básica de ejecución en Kubernetes que contiene uno o más contenedores.	Contenedor, Cluster
 Precisión	Data Science	Machine Learning	Proporción de verdaderos positivos sobre el total de predicciones positivas, utilizada como métrica de evaluación en modelos de clasificación.	F-Score, Matriz de Confusión
-Primary, Foreign keys	Bases de Datos	Claves utilizadas en bases de datos relacionales para establecer y asegurar la integridad de las relaciones entre tablas.	Triggers, Esquema de Base de datos
-Programaticamente	Desarrollo de Software	Realizar una tarea a través de código escrito en lugar de manualmente.	Codear, Hardcoding
+Primary, Foreign keys	Bases de Datos		Claves utilizadas en bases de datos relacionales para establecer y asegurar la integridad de las relaciones entre tablas.	Triggers, Esquema de Base de datos
+Programaticamente	Desarrollo de Software		Realizar una tarea a través de código escrito en lugar de manualmente.	Codear, Hardcoding
 SaaS	Cloud Computing	Servicios	Modelo de distribución de software donde las aplicaciones se alojan en la nube y se acceden a través de internet.	PaaS, IaaS
 SAS Key	Cloud Computing	Seguridad	Clave de acceso compartido utilizada en Azure para conceder acceso limitado a recursos de almacenamiento.	VM, VPN
 Scrappear	Desarrollo de Software	Web Scraping	Proceso de extraer datos de sitios web mediante scripts automatizados.	Ciclar, Testear
 Sistemas Federados	Bases de Datos	Data Science	Arquitectura de bases de datos en la que varios sistemas autónomos colaboran y comparten datos sin centralización.	Data Lake, Diccionario de datos
-SLA	Acuerdo de Nivel de Servicio	Acuerdo entre un proveedor de servicios y un cliente que especifica los niveles de servicio esperados.	Endpoint, API
-SP (Store Procedures)	Bases de Datos	Conjunto de instrucciones SQL precompiladas que se almacenan y ejecutan en una base de datos para realizar operaciones específicas.	Triggers, Primary, Foreign keys
-Spike	Metodologías Ágiles	Pequeño esfuerzo exploratorio para investigar un problema o probar una idea en un entorno ágil.	Sprint, Backlog
-Sprint	Metodologías Ágiles	Periodo de trabajo definido, generalmente de 1 a 4 semanas, durante el cual se desarrollan y entregan incrementos de un producto.	Spike, Backlog
-Stakeholders	Gestión de Proyectos	Personas o grupos con interés en el éxito de un proyecto, incluidos usuarios, gerentes y patrocinadores.	Tech lead, PM
-Stopper	Metodologías Ágiles	Problema crítico que detiene completamente el progreso de un proyecto o tarea.	Blocker, Sprint
-Tech lead	Gestión de Proyectos	Líder técnico responsable de guiar a un equipo en las decisiones técnicas y la implementación de soluciones.	PM, Stakeholders
+SLA	Acuerdo de Nivel de Servicio		Acuerdo entre un proveedor de servicios y un cliente que especifica los niveles de servicio esperados.	Endpoint, API
+SP (Store Procedures)	Bases de Datos		Conjunto de instrucciones SQL precompiladas que se almacenan y ejecutan en una base de datos para realizar operaciones específicas.	Triggers, Primary, Foreign keys
+Spike	Metodologías Ágiles		Pequeño esfuerzo exploratorio para investigar un problema o probar una idea en un entorno ágil.	Sprint, Backlog
+Sprint	Metodologías Ágiles		Periodo de trabajo definido, generalmente de 1 a 4 semanas, durante el cual se desarrollan y entregan incrementos de un producto.	Spike, Backlog
+Stakeholders	Gestión de Proyectos		Personas o grupos con interés en el éxito de un proyecto, incluidos usuarios, gerentes y patrocinadores.	Tech lead, PM
+Stopper	Metodologías Ágiles		Problema crítico que detiene completamente el progreso de un proyecto o tarea.	Blocker, Sprint
+Tech lead	Gestión de Proyectos		Líder técnico responsable de guiar a un equipo en las decisiones técnicas y la implementación de soluciones.	PM, Stakeholders
 Testear	Desarrollo de Software	Testing	Evaluar un software o sistema para verificar su correcto funcionamiento.	Debuggear, Dummy
-Triggers	Bases de Datos	Conjunto de instrucciones SQL que se ejecutan automáticamente en respuesta a ciertos eventos en una tabla o vista de una base de datos.	SP, Primary, Foreign keys
+Triggers	Bases de Datos		Conjunto de instrucciones SQL que se ejecutan automáticamente en respuesta a ciertos eventos en una tabla o vista de una base de datos.	SP, Primary, Foreign keys
 TTL (time to live)	Desarrollo de Software	Redes	Tiempo de vida de un paquete o dato antes de que sea descartado o eliminado.	VPN, VPC
 Underfit	Data Science	Machine Learning	Cuando un modelo de machine learning es demasiado simple y no captura bien los patrones en los datos, resultando en bajo rendimiento.	Overfit, Hiperparámetros
 UX/UI	Diseño	Desarrollo de Software	Experiencia de usuario (UX) y la interfaz de usuario (UI); aspectos relacionados con cómo los usuarios interactúan con una aplicación y cómo esta es visualmente presentada.	Wireframe, Maquetado
@@ -120,6 +120,6 @@ Vector Database	Data Science	Machine Learning	Base de datos optimizada para alma
 VM (Virtual Machine)	Cloud Computing	Virtualización	Instancia de un sistema operativo que se ejecuta sobre un hipervisor, simulando un hardware físico completo.	Hiperescalador, VPC
 VPC	Cloud Computing	Redes	Red virtual privada que permite la creación de redes lógicas aisladas dentro de un entorno de nube.	VPN, SAS Key
 VPN	Redes	Seguridad	Tecnología que crea una conexión segura y cifrada sobre una red menos segura, como internet.	VPC, SAS Key
-Weekly	Metodologías Ágiles	Reunión semanal para revisar el progreso general del equipo y planificar la próxima semana de trabajo.	Daily, Sprint
-Wildcard	Desarrollo de Software	Caracteres especiales que representan uno o más caracteres en una búsqueda o selección.	Placeholder, Operador morsa
+Weekly	Metodologías Ágiles		Reunión semanal para revisar el progreso general del equipo y planificar la próxima semana de trabajo.	Daily, Sprint
+Wildcard	Desarrollo de Software		Caracteres especiales que representan uno o más caracteres en una búsqueda o selección.	Placeholder, Operador morsa
 Wireframe	Diseño	Desarrollo de Software	Esquema básico o plano de una interfaz de usuario, utilizado para definir la estructura y la disposición de los elementos en la pantalla.	UX/UI, Maquetado

@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Acto de escribir código o programar.
 
 **Categoría:**  
-Coloquialismo
-
+Coloquialismo 
 **Subcategoría:**  
 Desarrollo de Software
 

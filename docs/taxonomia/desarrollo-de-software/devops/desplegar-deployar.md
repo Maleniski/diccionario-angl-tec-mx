@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Proceso de poner en producción o hacer accesible un software a los usuarios finales.
 
 **Categoría:**  
-Desarrollo de Software
-
+Desarrollo de Software 
 **Subcategoría:**  
 DevOps
 

@@ -11,10 +11,9 @@ grand_parent: Taxonomía
 Conjunto de prácticas que unifican el desarrollo de software (Dev) y las operaciones de TI (Ops) para mejorar la eficiencia y calidad del despliegue de aplicaciones.
 
 **Categoría:**  
-DevOps
+DevOps 
+  
 
-**Subcategoría:**  
-N/A
 
 **Términos relacionados:**  
 [Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/pipeline.html), [Dockerizar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/dockerizar.html)

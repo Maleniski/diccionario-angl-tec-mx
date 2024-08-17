@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Clave de acceso compartido utilizada en Azure para conceder acceso limitado a recursos de almacenamiento.
 
 **Categoría:**  
-Cloud Computing
-
+Cloud Computing 
 **Subcategoría:**  
 Seguridad
 

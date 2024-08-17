@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Entornos que simulan el ambiente de producción para realizar pruebas antes de desplegar cambios.
 
 **Categoría:**  
-DevOps
-
+DevOps 
 **Subcategoría:**  
 Testing
 

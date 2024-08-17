@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Proceso de probar una estrategia de inversión utilizando datos históricos para evaluar su viabilidad.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Finanzas
 

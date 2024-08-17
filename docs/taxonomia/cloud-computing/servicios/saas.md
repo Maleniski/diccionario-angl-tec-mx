@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Modelo de distribución de software donde las aplicaciones se alojan en la nube y se acceden a través de internet.
 
 **Categoría:**  
-Cloud Computing
-
+Cloud Computing 
 **Subcategoría:**  
 Servicios
 

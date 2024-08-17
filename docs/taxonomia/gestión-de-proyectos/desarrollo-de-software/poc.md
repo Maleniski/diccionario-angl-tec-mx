@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Prueba de Concepto; proyecto corto o experimental para demostrar la viabilidad técnica de una idea o tecnología.
 
 **Categoría:**  
-Gestión de Proyectos
-
+Gestión de Proyectos 
 **Subcategoría:**  
 Desarrollo de Software
 

@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Arquitectura que combina las ventajas de un Data Lake y un Data Warehouse, permitiendo análisis avanzados y gestión de datos estructurados y no estructurados.
 
 **Categoría:**  
-Bases de Datos
-
+Bases de Datos 
 **Subcategoría:**  
 Almacenamiento
 

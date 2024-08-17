@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Práctica de gestionar el ciclo de vida de modelos de lenguaje grandes (LLM) en producción, similar a MLOps.
 
 **Categoría:**  
-DevOps
-
+DevOps 
 **Subcategoría:**  
 Data Science
 

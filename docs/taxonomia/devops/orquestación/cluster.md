@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Conjunto de servidores o nodos que trabajan juntos para proporcionar alta disponibilidad y escalabilidad.
 
 **Categoría:**  
-DevOps
-
+DevOps 
 **Subcategoría:**  
 Orquestación
 

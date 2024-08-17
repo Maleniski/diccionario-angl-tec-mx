@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Proceso de reemplazar datos faltantes con valores sustitutos basados en alguna metodología para completar un conjunto de datos.
 
 **Categoría:**  
-Data Science
-
+Data Science 
 **Subcategoría:**  
 Machine Learning
 

@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Proceso de encapsular una aplicación en un contenedor Docker para facilitar su despliegue y ejecución.
 
 **Categoría:**  
-DevOps
-
+DevOps 
 **Subcategoría:**  
 Contenedores
 

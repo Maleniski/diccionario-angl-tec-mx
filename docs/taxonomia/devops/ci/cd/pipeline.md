@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Cadena automatizada de procesos para la construcción, prueba, y despliegue de software.
 
 **Categoría:**  
-DevOps
-
+DevOps 
 **Subcategoría:**  
 CI/CD
 

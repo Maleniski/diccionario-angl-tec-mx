@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Punto de control importante en el cronograma de un proyecto, que marca la finalización de una fase clave.
 
 **Categoría:**  
-Metodologías Ágiles
-
+Metodologías Ágiles 
 **Subcategoría:**  
 Gestión de Proyectos
 

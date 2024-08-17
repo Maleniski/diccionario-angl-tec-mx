@@ -11,8 +11,7 @@ grand_parent: Taxonomía
 Esquema básico o plano de una interfaz de usuario, utilizado para definir la estructura y la disposición de los elementos en la pantalla.
 
 **Categoría:**  
-Diseño
-
+Diseño 
 **Subcategoría:**  
 Desarrollo de Software
 
