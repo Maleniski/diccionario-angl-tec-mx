@@ -3,6 +3,7 @@
 layout: default
 title: Matriz de Confusión
 nav_order: 16
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Matriz de Confusión  

@@ -3,6 +3,7 @@
 layout: default
 title: MLOps
 nav_order: 8
+parent: M
 ---
 
 *Término:* MLOps  

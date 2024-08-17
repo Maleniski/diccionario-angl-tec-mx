@@ -3,6 +3,7 @@
 layout: default
 title: Hardcoding / Harcode / Hardcodear
 nav_order: 6
+parent: Desarrollo de Software
 ---
 
 *Término:* Hardcoding / Harcode / Hardcodear  

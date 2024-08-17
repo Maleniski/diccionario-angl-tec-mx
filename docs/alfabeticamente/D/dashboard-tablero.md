@@ -3,6 +3,7 @@
 layout: default
 title: Dashboard, tablero
 nav_order: 2
+parent: D
 ---
 
 *Término:* Dashboard, tablero  

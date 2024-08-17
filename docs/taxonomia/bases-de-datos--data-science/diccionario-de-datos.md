@@ -3,6 +3,7 @@
 layout: default
 title: Diccionario de datos
 nav_order: 1
+parent: Bases de Datos / Data Science
 ---
 
 *Término:* Diccionario de datos  

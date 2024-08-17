@@ -3,6 +3,7 @@
 layout: default
 title: Orquestador
 nav_order: 6
+parent: DevOps / Orquestación
 ---
 
 *Término:* Orquestador  

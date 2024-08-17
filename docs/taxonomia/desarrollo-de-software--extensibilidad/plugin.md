@@ -3,6 +3,7 @@
 layout: default
 title: Plugin
 nav_order: 1
+parent: Desarrollo de Software / Extensibilidad
 ---
 
 *Término:* Plugin  

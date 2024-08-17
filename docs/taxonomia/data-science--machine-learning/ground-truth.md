@@ -3,6 +3,7 @@
 layout: default
 title: Ground Truth
 nav_order: 11
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Ground Truth  

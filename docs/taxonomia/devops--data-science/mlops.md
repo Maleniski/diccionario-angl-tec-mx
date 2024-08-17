@@ -3,6 +3,7 @@
 layout: default
 title: MLOps
 nav_order: 2
+parent: DevOps / Data Science
 ---
 
 *Término:* MLOps  

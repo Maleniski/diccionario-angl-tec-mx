@@ -3,6 +3,7 @@
 layout: default
 title: Operador morsa
 nav_order: 2
+parent: O
 ---
 
 *Término:* Operador morsa  

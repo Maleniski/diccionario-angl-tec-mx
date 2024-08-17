@@ -3,6 +3,7 @@
 layout: default
 title: ETL
 nav_order: 2
+parent: Bases de Datos / Data Science
 ---
 
 *Término:* ETL  

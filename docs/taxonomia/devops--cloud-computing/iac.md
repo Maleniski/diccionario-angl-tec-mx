@@ -3,6 +3,7 @@
 layout: default
 title: IaC
 nav_order: 1
+parent: DevOps / Cloud Computing
 ---
 
 *Término:* IaC  

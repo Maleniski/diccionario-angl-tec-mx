@@ -3,6 +3,7 @@
 layout: default
 title: Milestone
 nav_order: 6
+parent: M
 ---
 
 *Término:* Milestone  

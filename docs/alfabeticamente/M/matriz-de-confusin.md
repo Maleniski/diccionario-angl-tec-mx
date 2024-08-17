@@ -3,6 +3,7 @@
 layout: default
 title: Matriz de Confusión
 nav_order: 2
+parent: M
 ---
 
 *Término:* Matriz de Confusión  

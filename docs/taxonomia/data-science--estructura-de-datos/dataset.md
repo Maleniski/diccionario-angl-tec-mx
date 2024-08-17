@@ -3,6 +3,7 @@
 layout: default
 title: Dataset
 nav_order: 2
+parent: Data Science / Estructura de Datos
 ---
 
 *Término:* Dataset  

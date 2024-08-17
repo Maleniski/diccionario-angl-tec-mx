@@ -3,6 +3,7 @@
 layout: default
 title: Plugin
 nav_order: 4
+parent: P
 ---
 
 *Término:* Plugin  

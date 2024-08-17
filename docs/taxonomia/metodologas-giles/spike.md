@@ -3,6 +3,7 @@
 layout: default
 title: Spike
 nav_order: 5
+parent: Metodologías Ágiles
 ---
 
 *Término:* Spike  

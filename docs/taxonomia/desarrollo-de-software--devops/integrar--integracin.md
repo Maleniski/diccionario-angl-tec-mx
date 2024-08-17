@@ -3,6 +3,7 @@
 layout: default
 title: Integrar / integración
 nav_order: 2
+parent: Desarrollo de Software / DevOps
 ---
 
 *Término:* Integrar / integración  

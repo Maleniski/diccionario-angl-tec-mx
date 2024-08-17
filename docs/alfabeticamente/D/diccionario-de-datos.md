@@ -3,6 +3,7 @@
 layout: default
 title: Diccionario de datos
 nav_order: 11
+parent: D
 ---
 
 *Término:* Diccionario de datos  

@@ -3,6 +3,7 @@
 layout: default
 title: Nodo
 nav_order: 1
+parent: N
 ---
 
 *Término:* Nodo  

@@ -3,6 +3,7 @@
 layout: default
 title: Ensamble
 nav_order: 7
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Ensamble  

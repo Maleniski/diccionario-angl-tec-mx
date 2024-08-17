@@ -3,6 +3,7 @@
 layout: default
 title: La consola de ... (AWS, AZURE, GCP)
 nav_order: 1
+parent: L
 ---
 
 *Término:* La consola de ... (AWS, AZURE, GCP)  

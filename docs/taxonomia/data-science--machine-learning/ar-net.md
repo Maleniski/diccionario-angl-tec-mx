@@ -3,6 +3,7 @@
 layout: default
 title: AR-NET
 nav_order: 1
+parent: Data Science / Machine Learning
 ---
 
 *Término:* AR-NET  

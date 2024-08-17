@@ -3,6 +3,7 @@
 layout: default
 title: Desplegar, deployar
 nav_order: 1
+parent: Desarrollo de Software / DevOps
 ---
 
 *Término:* Desplegar, deployar  

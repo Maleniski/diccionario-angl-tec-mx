@@ -3,6 +3,7 @@
 layout: default
 title: Esquema de Base de datos
 nav_order: 2
+parent: Bases de Datos
 ---
 
 *Término:* Esquema de Base de datos  

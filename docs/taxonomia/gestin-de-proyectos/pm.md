@@ -3,6 +3,7 @@
 layout: default
 title: PM
 nav_order: 1
+parent: Gestión de Proyectos
 ---
 
 *Término:* PM  

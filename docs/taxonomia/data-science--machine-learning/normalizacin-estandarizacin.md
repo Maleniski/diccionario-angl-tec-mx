@@ -3,6 +3,7 @@
 layout: default
 title: Normalización, Estandarización
 nav_order: 18
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Normalización, Estandarización  

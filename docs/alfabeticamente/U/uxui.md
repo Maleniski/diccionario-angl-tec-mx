@@ -3,6 +3,7 @@
 layout: default
 title: UX/UI
 nav_order: 2
+parent: U
 ---
 
 *Término:* UX/UI  

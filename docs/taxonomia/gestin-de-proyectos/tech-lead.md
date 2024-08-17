@@ -3,6 +3,7 @@
 layout: default
 title: Tech lead
 nav_order: 3
+parent: Gestión de Proyectos
 ---
 
 *Término:* Tech lead  

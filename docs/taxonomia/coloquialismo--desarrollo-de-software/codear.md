@@ -3,6 +3,7 @@
 layout: default
 title: Codear
 nav_order: 1
+parent: Coloquialismo / Desarrollo de Software
 ---
 
 *Término:* Codear  

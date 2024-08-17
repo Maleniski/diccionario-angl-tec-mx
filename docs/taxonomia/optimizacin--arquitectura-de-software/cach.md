@@ -3,6 +3,7 @@
 layout: default
 title: Caché
 nav_order: 1
+parent: Optimización / Arquitectura de Software
 ---
 
 *Término:* Caché  

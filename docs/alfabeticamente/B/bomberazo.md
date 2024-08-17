@@ -3,6 +3,7 @@
 layout: default
 title: Bomberazo
 nav_order: 6
+parent: B
 ---
 
 *Término:* Bomberazo  

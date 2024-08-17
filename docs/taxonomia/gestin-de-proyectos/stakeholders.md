@@ -3,6 +3,7 @@
 layout: default
 title: Stakeholders
 nav_order: 2
+parent: Gestión de Proyectos
 ---
 
 *Término:* Stakeholders  

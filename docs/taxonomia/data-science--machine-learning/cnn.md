@@ -3,6 +3,7 @@
 layout: default
 title: CNN
 nav_order: 4
+parent: Data Science / Machine Learning
 ---
 
 *Término:* CNN  

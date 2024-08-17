@@ -3,6 +3,7 @@
 layout: default
 title: Minuta / minuteando
 nav_order: 7
+parent: M
 ---
 
 *Término:* Minuta / minuteando  

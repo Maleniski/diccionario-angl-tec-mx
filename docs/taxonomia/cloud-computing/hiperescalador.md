@@ -3,6 +3,7 @@
 layout: default
 title: Hiperescalador
 nav_order: 1
+parent: Cloud Computing
 ---
 
 *Término:* Hiperescalador  

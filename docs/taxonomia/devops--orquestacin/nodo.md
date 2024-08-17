@@ -3,6 +3,7 @@
 layout: default
 title: Nodo
 nav_order: 5
+parent: DevOps / Orquestación
 ---
 
 *Término:* Nodo  

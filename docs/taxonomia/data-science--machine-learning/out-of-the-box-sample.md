@@ -3,6 +3,7 @@
 layout: default
 title: Out of the box sample
 nav_order: 19
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Out of the box sample  

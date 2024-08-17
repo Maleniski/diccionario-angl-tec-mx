@@ -3,6 +3,7 @@
 layout: default
 title: Codear
 nav_order: 7
+parent: C
 ---
 
 *Término:* Codear  

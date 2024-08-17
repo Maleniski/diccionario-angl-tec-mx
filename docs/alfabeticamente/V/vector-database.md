@@ -3,6 +3,7 @@
 layout: default
 title: Vector Database
 nav_order: 1
+parent: V
 ---
 
 *Término:* Vector Database  

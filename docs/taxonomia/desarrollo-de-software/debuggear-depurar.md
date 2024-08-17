@@ -3,6 +3,7 @@
 layout: default
 title: Debuggear, depurar
 nav_order: 3
+parent: Desarrollo de Software
 ---
 
 *Término:* Debuggear, depurar  

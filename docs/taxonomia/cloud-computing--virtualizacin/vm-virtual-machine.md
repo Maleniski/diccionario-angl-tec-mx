@@ -3,6 +3,7 @@
 layout: default
 title: VM (Virtual Machine)
 nav_order: 1
+parent: Cloud Computing / Virtualización
 ---
 
 *Término:* VM (Virtual Machine)  

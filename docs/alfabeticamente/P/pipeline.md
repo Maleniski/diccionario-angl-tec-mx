@@ -3,6 +3,7 @@
 layout: default
 title: Pipeline
 nav_order: 2
+parent: P
 ---
 
 *Término:* Pipeline  

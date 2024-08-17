@@ -3,6 +3,7 @@
 layout: default
 title: Debuggear, depurar
 nav_order: 8
+parent: D
 ---
 
 *Término:* Debuggear, depurar  

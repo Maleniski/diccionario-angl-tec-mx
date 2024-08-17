@@ -3,6 +3,7 @@
 layout: default
 title: IaC
 nav_order: 2
+parent: I
 ---
 
 *Término:* IaC  

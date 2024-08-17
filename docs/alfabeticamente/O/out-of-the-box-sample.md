@@ -3,6 +3,7 @@
 layout: default
 title: Out of the box sample
 nav_order: 4
+parent: O
 ---
 
 *Término:* Out of the box sample  

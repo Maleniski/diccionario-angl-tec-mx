@@ -3,6 +3,7 @@
 layout: default
 title: TTL (time to live)
 nav_order: 4
+parent: T
 ---
 
 *Término:* TTL (time to live)  

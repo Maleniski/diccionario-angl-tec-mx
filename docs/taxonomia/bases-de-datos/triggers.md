@@ -3,6 +3,7 @@
 layout: default
 title: Triggers
 nav_order: 5
+parent: Bases de Datos
 ---
 
 *Término:* Triggers  

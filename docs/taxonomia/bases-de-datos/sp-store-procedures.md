@@ -3,6 +3,7 @@
 layout: default
 title: SP (Store Procedures)
 nav_order: 4
+parent: Bases de Datos
 ---
 
 *Término:* SP (Store Procedures)  

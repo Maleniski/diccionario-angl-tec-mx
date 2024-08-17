@@ -3,6 +3,7 @@
 layout: default
 title: SLA
 nav_order: 1
+parent: Acuerdo de Nivel de Servicio
 ---
 
 *Término:* SLA  

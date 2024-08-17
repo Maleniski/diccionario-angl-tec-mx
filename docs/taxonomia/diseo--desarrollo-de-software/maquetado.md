@@ -3,6 +3,7 @@
 layout: default
 title: Maquetado
 nav_order: 1
+parent: Diseño / Desarrollo de Software
 ---
 
 *Término:* Maquetado  

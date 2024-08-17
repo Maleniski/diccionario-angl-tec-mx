@@ -3,6 +3,7 @@
 layout: default
 title: Desplegar, deployar
 nav_order: 9
+parent: D
 ---
 
 *Término:* Desplegar, deployar  

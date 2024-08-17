@@ -3,6 +3,7 @@
 layout: default
 title: Ftp
 nav_order: 1
+parent: Desarrollo de Software / Redes
 ---
 
 *Término:* Ftp  

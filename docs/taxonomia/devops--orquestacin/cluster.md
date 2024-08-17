@@ -3,6 +3,7 @@
 layout: default
 title: Cluster
 nav_order: 1
+parent: DevOps / Orquestación
 ---
 
 *Término:* Cluster  

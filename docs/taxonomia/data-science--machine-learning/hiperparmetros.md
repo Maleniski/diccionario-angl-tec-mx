@@ -3,6 +3,7 @@
 layout: default
 title: Hiperparámetros
 nav_order: 12
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Hiperparámetros  

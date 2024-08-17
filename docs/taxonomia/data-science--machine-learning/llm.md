@@ -3,6 +3,7 @@
 layout: default
 title: LLM
 nav_order: 15
+parent: Data Science / Machine Learning
 ---
 
 *Término:* LLM  

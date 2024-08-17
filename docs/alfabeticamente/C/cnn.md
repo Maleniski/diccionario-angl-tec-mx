@@ -3,6 +3,7 @@
 layout: default
 title: CNN
 nav_order: 6
+parent: C
 ---
 
 *Término:* CNN  

@@ -3,6 +3,7 @@
 layout: default
 title: Base de datos
 nav_order: 4
+parent: B
 ---
 
 *Término:* Base de datos  

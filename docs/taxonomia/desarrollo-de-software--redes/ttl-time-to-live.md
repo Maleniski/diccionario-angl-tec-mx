@@ -3,6 +3,7 @@
 layout: default
 title: TTL (time to live)
 nav_order: 2
+parent: Desarrollo de Software / Redes
 ---
 
 *Término:* TTL (time to live)  

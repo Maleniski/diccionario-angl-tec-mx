@@ -3,6 +3,7 @@
 layout: default
 title: Vector Database
 nav_order: 23
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Vector Database  

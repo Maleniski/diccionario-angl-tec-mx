@@ -3,6 +3,7 @@
 layout: default
 title: UX/UI
 nav_order: 2
+parent: Diseño / Desarrollo de Software
 ---
 
 *Término:* UX/UI  

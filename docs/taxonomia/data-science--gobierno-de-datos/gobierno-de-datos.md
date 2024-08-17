@@ -3,6 +3,7 @@
 layout: default
 title: Gobierno de datos
 nav_order: 1
+parent: Data Science / Gobierno de Datos
 ---
 
 *Término:* Gobierno de datos  

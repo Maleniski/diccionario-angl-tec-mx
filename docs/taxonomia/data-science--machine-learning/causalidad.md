@@ -3,6 +3,7 @@
 layout: default
 title: Causalidad
 nav_order: 2
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Causalidad  

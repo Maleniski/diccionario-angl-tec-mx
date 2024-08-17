@@ -3,6 +3,7 @@
 layout: default
 title: Stopper
 nav_order: 10
+parent: S
 ---
 
 *Término:* Stopper  

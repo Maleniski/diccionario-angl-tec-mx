@@ -3,6 +3,7 @@
 layout: default
 title: Operador morsa
 nav_order: 7
+parent: Desarrollo de Software
 ---
 
 *Término:* Operador morsa  

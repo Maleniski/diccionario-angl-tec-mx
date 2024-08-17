@@ -3,6 +3,7 @@
 layout: default
 title: Correlación
 nav_order: 9
+parent: C
 ---
 
 *Término:* Correlación  

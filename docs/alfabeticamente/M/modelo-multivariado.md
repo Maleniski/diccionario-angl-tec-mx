@@ -3,6 +3,7 @@
 layout: default
 title: Modelo Multivariado
 nav_order: 9
+parent: M
 ---
 
 *Término:* Modelo Multivariado  

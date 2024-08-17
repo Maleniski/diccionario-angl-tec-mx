@@ -3,6 +3,7 @@
 layout: default
 title: MVP
 nav_order: 1
+parent: Gestión de Proyectos / Desarrollo de Software
 ---
 
 *Término:* MVP  

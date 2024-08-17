@@ -3,6 +3,7 @@
 layout: default
 title: Imputación
 nav_order: 14
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Imputación  

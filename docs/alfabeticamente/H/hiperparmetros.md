@@ -3,6 +3,7 @@
 layout: default
 title: Hiperparámetros
 nav_order: 4
+parent: H
 ---
 
 *Término:* Hiperparámetros  

@@ -3,6 +3,7 @@
 layout: default
 title: LLMOps
 nav_order: 4
+parent: L
 ---
 
 *Término:* LLMOps  

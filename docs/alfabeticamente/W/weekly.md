@@ -3,6 +3,7 @@
 layout: default
 title: Weekly
 nav_order: 1
+parent: W
 ---
 
 *Término:* Weekly  

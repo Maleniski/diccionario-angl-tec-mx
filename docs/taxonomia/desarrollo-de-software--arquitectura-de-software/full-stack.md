@@ -3,6 +3,7 @@
 layout: default
 title: Full-stack
 nav_order: 3
+parent: Desarrollo de Software / Arquitectura de Software
 ---
 
 *Término:* Full-stack  

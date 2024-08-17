@@ -3,6 +3,7 @@
 layout: default
 title: F-Score
 nav_order: 1
+parent: F
 ---
 
 *Término:* F-Score  

@@ -3,6 +3,7 @@
 layout: default
 title: Git
 nav_order: 1
+parent: G
 ---
 
 *Término:* Git  

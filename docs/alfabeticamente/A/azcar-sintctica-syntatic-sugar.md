@@ -3,6 +3,7 @@
 layout: default
 title: Azúcar sintáctica (syntatic sugar)
 nav_order: 10
+parent: A
 ---
 
 *Término:* Azúcar sintáctica (syntatic sugar)  

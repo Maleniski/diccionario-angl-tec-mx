@@ -3,6 +3,7 @@
 layout: default
 title: Feature Store
 nav_order: 9
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Feature Store  

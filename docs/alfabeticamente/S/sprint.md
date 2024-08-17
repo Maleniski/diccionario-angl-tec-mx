@@ -3,6 +3,7 @@
 layout: default
 title: Sprint
 nav_order: 8
+parent: S
 ---
 
 *Término:* Sprint  

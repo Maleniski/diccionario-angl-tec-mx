@@ -3,6 +3,7 @@
 layout: default
 title: F-Score
 nav_order: 8
+parent: Data Science / Machine Learning
 ---
 
 *Término:* F-Score  

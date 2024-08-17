@@ -3,6 +3,7 @@
 layout: default
 title: Primary, Foreign keys
 nav_order: 3
+parent: Bases de Datos
 ---
 
 *Término:* Primary, Foreign keys  

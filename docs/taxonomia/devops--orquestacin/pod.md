@@ -3,6 +3,7 @@
 layout: default
 title: Pod
 nav_order: 7
+parent: DevOps / Orquestación
 ---
 
 *Término:* Pod  

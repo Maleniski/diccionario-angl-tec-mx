@@ -3,6 +3,7 @@
 layout: default
 title: Mods
 nav_order: 2
+parent: Coloquialismo / Desarrollo de Software
 ---
 
 *Término:* Mods  

@@ -3,6 +3,7 @@
 layout: default
 title: Dashboard, tablero
 nav_order: 1
+parent: Desarrollo de Software / Gestión de Proyectos
 ---
 
 *Término:* Dashboard, tablero  

@@ -3,6 +3,7 @@
 layout: default
 title: Bucket
 nav_order: 1
+parent: Cloud Computing / Almacenamiento
 ---
 
 *Término:* Bucket  

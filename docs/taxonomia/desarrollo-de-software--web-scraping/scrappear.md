@@ -3,6 +3,7 @@
 layout: default
 title: Scrappear
 nav_order: 1
+parent: Desarrollo de Software / Web Scraping
 ---
 
 *Término:* Scrappear  

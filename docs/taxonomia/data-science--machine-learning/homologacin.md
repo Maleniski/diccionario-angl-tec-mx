@@ -3,6 +3,7 @@
 layout: default
 title: Homologación
 nav_order: 13
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Homologación  

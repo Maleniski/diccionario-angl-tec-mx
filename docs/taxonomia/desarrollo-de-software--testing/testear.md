@@ -3,6 +3,7 @@
 layout: default
 title: Testear
 nav_order: 2
+parent: Desarrollo de Software / Testing
 ---
 
 *Término:* Testear  

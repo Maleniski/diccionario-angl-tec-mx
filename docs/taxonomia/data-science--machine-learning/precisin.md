@@ -3,6 +3,7 @@
 layout: default
 title: Precisión
 nav_order: 21
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Precisión  

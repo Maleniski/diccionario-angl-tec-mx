@@ -3,6 +3,7 @@
 layout: default
 title: POC
 nav_order: 2
+parent: Gestión de Proyectos / Desarrollo de Software
 ---
 
 *Término:* POC  

@@ -3,6 +3,7 @@
 layout: default
 title: Front-end
 nav_order: 2
+parent: Desarrollo de Software / Arquitectura de Software
 ---
 
 *Término:* Front-end  

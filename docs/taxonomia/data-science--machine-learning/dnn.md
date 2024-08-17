@@ -3,6 +3,7 @@
 layout: default
 title: DNN
 nav_order: 6
+parent: Data Science / Machine Learning
 ---
 
 *Término:* DNN  

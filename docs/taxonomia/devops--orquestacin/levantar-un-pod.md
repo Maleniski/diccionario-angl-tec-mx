@@ -3,6 +3,7 @@
 layout: default
 title: Levantar un pod
 nav_order: 4
+parent: DevOps / Orquestación
 ---
 
 *Término:* Levantar un pod  

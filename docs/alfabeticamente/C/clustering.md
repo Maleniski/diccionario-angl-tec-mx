@@ -3,6 +3,7 @@
 layout: default
 title: Clustering
 nav_order: 5
+parent: C
 ---
 
 *Término:* Clustering  

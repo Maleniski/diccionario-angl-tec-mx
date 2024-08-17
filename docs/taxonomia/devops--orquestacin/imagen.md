@@ -3,6 +3,7 @@
 layout: default
 title: Imagen
 nav_order: 3
+parent: DevOps / Orquestación
 ---
 
 *Término:* Imagen  

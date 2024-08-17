@@ -3,6 +3,7 @@
 layout: default
 title: Triggers
 nav_order: 3
+parent: T
 ---
 
 *Término:* Triggers  

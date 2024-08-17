@@ -3,6 +3,7 @@
 layout: default
 title: VPN
 nav_order: 1
+parent: Redes / Seguridad
 ---
 
 *Término:* VPN  

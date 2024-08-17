@@ -3,6 +3,7 @@
 layout: default
 title: Overhead
 nav_order: 1
+parent: Arquitectura de Software / Optimización
 ---
 
 *Término:* Overhead  

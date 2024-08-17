@@ -3,6 +3,7 @@
 layout: default
 title: Ambiente QA
 nav_order: 1
+parent: DevOps / Testing
 ---
 
 *Término:* Ambiente QA  

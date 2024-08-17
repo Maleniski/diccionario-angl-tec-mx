@@ -3,6 +3,7 @@
 layout: default
 title: Gobierno de datos
 nav_order: 2
+parent: G
 ---
 
 *Término:* Gobierno de datos  

@@ -3,6 +3,7 @@
 layout: default
 title: Causalidad
 nav_order: 2
+parent: C
 ---
 
 *Término:* Causalidad  

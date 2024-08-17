@@ -3,6 +3,7 @@
 layout: default
 title: Data Lakehouse
 nav_order: 2
+parent: Bases de Datos / Almacenamiento
 ---
 
 *Término:* Data Lakehouse  

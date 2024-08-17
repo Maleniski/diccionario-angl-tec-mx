@@ -3,6 +3,7 @@
 layout: default
 title: Daily
 nav_order: 1
+parent: D
 ---
 
 *Término:* Daily  

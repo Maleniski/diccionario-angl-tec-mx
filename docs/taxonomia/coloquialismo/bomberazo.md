@@ -3,6 +3,7 @@
 layout: default
 title: Bomberazo
 nav_order: 2
+parent: Coloquialismo
 ---
 
 *Término:* Bomberazo  

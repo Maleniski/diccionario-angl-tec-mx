@@ -3,6 +3,7 @@
 layout: default
 title: Dockerizar / dockerizado / dockerización
 nav_order: 13
+parent: D
 ---
 
 *Término:* Dockerizar / dockerizado / dockerización  

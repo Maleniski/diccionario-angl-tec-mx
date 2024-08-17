@@ -3,6 +3,7 @@
 layout: default
 title: Cluster
 nav_order: 4
+parent: C
 ---
 
 *Término:* Cluster  

@@ -3,6 +3,7 @@
 layout: default
 title: Dockerizar / dockerizado / dockerización
 nav_order: 1
+parent: DevOps / Contenedores
 ---
 
 *Término:* Dockerizar / dockerizado / dockerización  

@@ -3,6 +3,7 @@
 layout: default
 title: Full-stack
 nav_order: 7
+parent: F
 ---
 
 *Término:* Full-stack  

@@ -3,6 +3,7 @@
 layout: default
 title: Correlación
 nav_order: 5
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Correlación  

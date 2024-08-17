@@ -3,6 +3,7 @@
 layout: default
 title: EDA
 nav_order: 1
+parent: Data Science / Análisis de Datos
 ---
 
 *Término:* EDA  

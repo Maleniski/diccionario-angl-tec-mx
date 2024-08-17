@@ -3,6 +3,7 @@
 layout: default
 title: Modelo Multivariado
 nav_order: 17
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Modelo Multivariado  

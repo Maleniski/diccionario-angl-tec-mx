@@ -3,6 +3,7 @@
 layout: default
 title: Sprint
 nav_order: 6
+parent: Metodologías Ágiles
 ---
 
 *Término:* Sprint  

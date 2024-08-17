@@ -3,6 +3,7 @@
 layout: default
 title: DNN
 nav_order: 12
+parent: D
 ---
 
 *Término:* DNN  

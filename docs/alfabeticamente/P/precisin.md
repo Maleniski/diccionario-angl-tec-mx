@@ -3,6 +3,7 @@
 layout: default
 title: Precisión
 nav_order: 8
+parent: P
 ---
 
 *Término:* Precisión  

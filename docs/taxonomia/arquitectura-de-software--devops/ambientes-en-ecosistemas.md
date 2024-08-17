@@ -3,6 +3,7 @@
 layout: default
 title: Ambientes en ecosistemas
 nav_order: 1
+parent: Arquitectura de Software / DevOps
 ---
 
 *Término:* Ambientes en ecosistemas  

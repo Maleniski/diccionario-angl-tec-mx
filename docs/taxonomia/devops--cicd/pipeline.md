@@ -3,6 +3,7 @@
 layout: default
 title: Pipeline
 nav_order: 1
+parent: DevOps / CI/CD
 ---
 
 *Término:* Pipeline  

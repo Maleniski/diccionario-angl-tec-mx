@@ -3,6 +3,7 @@
 layout: default
 title: Hardcoding / Harcode / Hardcodear
 nav_order: 2
+parent: H
 ---
 
 *Término:* Hardcoding / Harcode / Hardcodear  

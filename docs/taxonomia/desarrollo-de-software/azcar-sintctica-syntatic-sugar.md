@@ -3,6 +3,7 @@
 layout: default
 title: Azúcar sintáctica (syntatic sugar)
 nav_order: 1
+parent: Desarrollo de Software
 ---
 
 *Término:* Azúcar sintáctica (syntatic sugar)  

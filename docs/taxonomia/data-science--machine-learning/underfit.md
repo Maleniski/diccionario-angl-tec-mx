@@ -3,6 +3,7 @@
 layout: default
 title: Underfit
 nav_order: 22
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Underfit  

@@ -3,6 +3,7 @@
 layout: default
 title: Tech lead
 nav_order: 1
+parent: T
 ---
 
 *Término:* Tech lead  

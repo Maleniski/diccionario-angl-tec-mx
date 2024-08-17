@@ -3,6 +3,7 @@
 layout: default
 title: EDA
 nav_order: 2
+parent: E
 ---
 
 *Término:* EDA  

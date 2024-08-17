@@ -3,6 +3,7 @@
 layout: default
 title: Normalización, Estandarización
 nav_order: 2
+parent: N
 ---
 
 *Término:* Normalización, Estandarización  

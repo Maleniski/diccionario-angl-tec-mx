@@ -3,6 +3,7 @@
 layout: default
 title: Agile
 nav_order: 1
+parent: Metodologías Ágiles
 ---
 
 *Término:* Agile  

@@ -3,6 +3,7 @@
 layout: default
 title: Wireframe
 nav_order: 3
+parent: Diseño / Desarrollo de Software
 ---
 
 *Término:* Wireframe  

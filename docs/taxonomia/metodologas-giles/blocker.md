@@ -3,6 +3,7 @@
 layout: default
 title: Blocker
 nav_order: 3
+parent: Metodologías Ágiles
 ---
 
 *Término:* Blocker  

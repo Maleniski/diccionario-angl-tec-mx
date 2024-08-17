@@ -3,6 +3,7 @@
 layout: default
 title: Clustering
 nav_order: 3
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Clustering  

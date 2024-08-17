@@ -3,6 +3,7 @@
 layout: default
 title: Git
 nav_order: 1
+parent: Desarrollo de Software / Control de Versiones
 ---
 
 *Término:* Git  

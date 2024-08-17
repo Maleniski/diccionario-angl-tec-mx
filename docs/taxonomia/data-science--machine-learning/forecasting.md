@@ -3,6 +3,7 @@
 layout: default
 title: Forecasting
 nav_order: 10
+parent: Data Science / Machine Learning
 ---
 
 *Término:* Forecasting  

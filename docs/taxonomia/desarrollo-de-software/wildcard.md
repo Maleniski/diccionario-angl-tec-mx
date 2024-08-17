@@ -3,6 +3,7 @@
 layout: default
 title: Wildcard
 nav_order: 10
+parent: Desarrollo de Software
 ---
 
 *Término:* Wildcard  

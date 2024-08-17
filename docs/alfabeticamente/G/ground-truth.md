@@ -3,6 +3,7 @@
 layout: default
 title: Ground Truth
 nav_order: 3
+parent: G
 ---
 
 *Término:* Ground Truth  

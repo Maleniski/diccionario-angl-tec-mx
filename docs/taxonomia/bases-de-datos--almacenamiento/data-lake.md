@@ -3,6 +3,7 @@
 layout: default
 title: Data Lake
 nav_order: 1
+parent: Bases de Datos / Almacenamiento
 ---
 
 *Término:* Data Lake  
