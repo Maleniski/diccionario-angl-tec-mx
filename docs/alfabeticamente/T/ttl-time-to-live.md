@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: TTL (time to live)

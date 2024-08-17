@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Data Science / Análisis de Datos

@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Desarrollo de Software / Gestión de Proyectos

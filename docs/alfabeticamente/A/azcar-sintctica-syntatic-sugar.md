@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Azúcar sintáctica (syntatic sugar)

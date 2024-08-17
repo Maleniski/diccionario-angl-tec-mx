@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: La consola de ... (AWS, AZURE, GCP)

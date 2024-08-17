@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Coloquialismo / Desarrollo de Software

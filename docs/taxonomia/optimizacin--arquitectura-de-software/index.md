@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Optimización / Arquitectura de Software

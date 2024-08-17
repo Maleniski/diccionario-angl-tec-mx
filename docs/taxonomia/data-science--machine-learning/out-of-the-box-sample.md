@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Out of the box sample

@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Bases de Datos / Almacenamiento

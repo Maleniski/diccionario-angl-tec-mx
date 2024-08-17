@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Desarrollo de Software / Control de Versiones
