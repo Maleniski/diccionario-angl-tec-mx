@@ -15,4 +15,4 @@ Documento que resume los puntos discutidos en una reunión, así como las accion
 Coloquialismo
 
 **Términos relacionados:**  
-[Daily](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/daily/daily.html), [Weekly](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/weekly/weekly.html)
+[Daily](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/coloquialismo/daily.html), [Weekly](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/coloquialismo/weekly.html)

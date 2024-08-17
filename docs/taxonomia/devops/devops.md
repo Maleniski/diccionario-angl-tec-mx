@@ -15,4 +15,4 @@ Conjunto de prácticas que unifican el desarrollo de software (Dev) y las operac
 DevOps
 
 **Términos relacionados:**  
-[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/pipeline/pipeline.html), [Dockerizar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/dockerizar/dockerizar.html)
+[Pipeline](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/pipeline.html), [Dockerizar](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/dockerizar.html)

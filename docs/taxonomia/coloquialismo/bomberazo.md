@@ -15,4 +15,4 @@ Tarea urgente que se realiza de manera improvisada y con poco tiempo para su pla
 Coloquialismo
 
 **Términos relacionados:**  
-[Mods](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/mods/mods.html), [Al vuelo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/al-vuelo/al-vuelo.html)
+[Mods](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/coloquialismo/mods.html), [Al vuelo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/coloquialismo/al-vuelo.html)

@@ -15,4 +15,4 @@ Realizar una tarea o tomar una decisión de manera rápida y/o improvisada, posi
 Coloquialismo
 
 **Términos relacionados:**  
-[Bomberazo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/bomberazo/bomberazo.html), [Mods](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/mods/mods.html)
+[Bomberazo](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/coloquialismo/bomberazo.html), [Mods](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/coloquialismo/mods.html)

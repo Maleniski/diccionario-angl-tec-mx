@@ -15,4 +15,4 @@ Entorno en el que se ejecuta la versión final de la aplicación, accesible a lo
 DevOps
 
 **Términos relacionados:**  
-[Ambiente Dev](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/ambiente-dev/ambiente-dev.html), [Ambiente QA](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/ambiente-qa/ambiente-qa.html)
+[Ambiente Dev](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/ambiente-dev.html), [Ambiente QA](https://maleniski.github.io/diccionario-angl-tec-mx/docs/taxonomia/devops/ambiente-qa.html)
