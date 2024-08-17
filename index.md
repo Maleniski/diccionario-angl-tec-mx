@@ -18,7 +18,7 @@ Esperamos que encuentres útil este diccionario y que te acompañe en tu camino 
 
 ## Proceso de definición y estructuración de conceptos
 
-Los conceptos que están presentes en este diccionario fueron recopilados de forma colaborativa por miembros de la comunidad de ciencia de datos y software en México (ver página [Colaboradores](https://maleniski.github.io/diccionario-angl-tec-mx/docs/colaboradores.html)). Las definciones y taxonomía han sido generados de forma automática por medio de GPT-4o.
+Los conceptos que están presentes en este diccionario fueron recopilados de forma colaborativa por miembros de la comunidad de ciencia de datos y software en México (ver página [Colaboradores](https://maleniski.github.io/diccionario-angl-tec-mx/docs/colaboradores.html)). Las definiciones y taxonomía han sido generados de forma automática por medio de GPT-4o.
 
 Este diccionario se mantiene de forma colaborativa. 
 
