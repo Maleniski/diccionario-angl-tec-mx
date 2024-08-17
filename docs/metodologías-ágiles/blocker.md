@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Blocker
+nav_order: 2
 parent: Metodologías Ágiles
-grand_parent: Metodologías Ágiles
 ---
 
 # Blocker

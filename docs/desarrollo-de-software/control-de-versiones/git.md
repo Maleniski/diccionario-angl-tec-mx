@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Git
+nav_order: 1
 parent: Control de Versiones
 grand_parent: Desarrollo de Software
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: DNN
+nav_order: 6
 parent: Machine Learning
 grand_parent: Data Science
 ---

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Weekly
+nav_order: 8
 parent: Metodologías Ágiles
-grand_parent: Metodologías Ágiles
 ---
 
 # Weekly

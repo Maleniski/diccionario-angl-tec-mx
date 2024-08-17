@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Esquema de Base de datos
+nav_order: 3
 parent: Bases de Datos
-grand_parent: Bases de Datos
 ---
 
 # Esquema de Base de datos

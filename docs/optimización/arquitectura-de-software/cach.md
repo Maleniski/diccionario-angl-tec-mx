@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Caché
+nav_order: 1
 parent: Arquitectura de Software
 grand_parent: Optimización
 ---

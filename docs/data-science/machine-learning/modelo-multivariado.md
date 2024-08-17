@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Modelo Multivariado
+nav_order: 17
 parent: Machine Learning
 grand_parent: Data Science
 ---

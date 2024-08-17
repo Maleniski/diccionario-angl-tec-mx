@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Milestone
+nav_order: 1
 parent: Gestión de Proyectos
 grand_parent: Metodologías Ágiles
 ---

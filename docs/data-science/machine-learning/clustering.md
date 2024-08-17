@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Clustering
+nav_order: 3
 parent: Machine Learning
 grand_parent: Data Science
 ---

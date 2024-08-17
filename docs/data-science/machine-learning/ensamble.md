@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ensamble
+nav_order: 7
 parent: Machine Learning
 grand_parent: Data Science
 ---

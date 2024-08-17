@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Triggers
+nav_order: 6
 parent: Bases de Datos
-grand_parent: Bases de Datos
 ---
 
 # Triggers

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Scrappear
+nav_order: 1
 parent: Web Scraping
 grand_parent: Desarrollo de Software
 ---

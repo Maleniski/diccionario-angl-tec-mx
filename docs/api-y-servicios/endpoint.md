@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Endpoint
+nav_order: 1
 parent: API y Servicios
-grand_parent: API y Servicios
 ---
 
 # Endpoint

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Enterprise
+nav_order: 2
 parent: Arquitectura de Software
-grand_parent: Arquitectura de Software
 ---
 
 # Enterprise

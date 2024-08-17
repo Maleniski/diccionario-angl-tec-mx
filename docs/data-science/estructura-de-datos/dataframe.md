@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dataframe
+nav_order: 1
 parent: Estructura de Datos
 grand_parent: Data Science
 ---

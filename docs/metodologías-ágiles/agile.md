@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Agile
+nav_order: 0
 parent: Metodologías Ágiles
-grand_parent: Metodologías Ágiles
 ---
 
 # Agile

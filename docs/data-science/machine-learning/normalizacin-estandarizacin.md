@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Normalización, Estandarización
+nav_order: 18
 parent: Machine Learning
 grand_parent: Data Science
 ---

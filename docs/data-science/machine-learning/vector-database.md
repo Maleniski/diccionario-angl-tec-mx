@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vector Database
+nav_order: 23
 parent: Machine Learning
 grand_parent: Data Science
 ---

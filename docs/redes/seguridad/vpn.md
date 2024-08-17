@@ -1,6 +1,7 @@
 ---
 layout: default
 title: VPN
+nav_order: 1
 parent: Seguridad
 grand_parent: Redes
 ---

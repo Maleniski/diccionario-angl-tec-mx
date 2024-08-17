@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Ecosistemas
+nav_order: 1
 parent: Arquitectura de Software
-grand_parent: Arquitectura de Software
 ---
 
 # Ecosistemas

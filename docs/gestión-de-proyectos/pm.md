@@ -1,8 +1,8 @@
 ---
 layout: default
 title: PM
+nav_order: 1
 parent: Gestión de Proyectos
-grand_parent: Gestión de Proyectos
 ---
 
 # PM

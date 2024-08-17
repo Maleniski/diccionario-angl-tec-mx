@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nodo
+nav_order: 5
 parent: Orquestación
 grand_parent: DevOps
 ---

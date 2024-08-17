@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Backlog
+nav_order: 1
 parent: Metodologías Ágiles
-grand_parent: Metodologías Ágiles
 ---
 
 # Backlog

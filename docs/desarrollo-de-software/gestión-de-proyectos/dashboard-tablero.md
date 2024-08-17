@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dashboard, tablero
+nav_order: 1
 parent: Gestión de Proyectos
 grand_parent: Desarrollo de Software
 ---

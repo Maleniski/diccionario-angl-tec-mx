@@ -1,6 +1,7 @@
 ---
 layout: default
 title: CNN
+nav_order: 4
 parent: Machine Learning
 grand_parent: Data Science
 ---

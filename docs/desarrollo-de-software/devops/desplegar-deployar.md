@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Desplegar, deployar
+nav_order: 1
 parent: DevOps
 grand_parent: Desarrollo de Software
 ---

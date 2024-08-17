@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Wireframe
+nav_order: 3
 parent: Desarrollo de Software
 grand_parent: Diseño
 ---

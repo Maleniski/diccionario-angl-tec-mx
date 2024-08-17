@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ground Truth
+nav_order: 11
 parent: Machine Learning
 grand_parent: Data Science
 ---

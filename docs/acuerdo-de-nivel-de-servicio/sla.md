@@ -1,8 +1,8 @@
 ---
 layout: default
 title: SLA
+nav_order: 0
 parent: Acuerdo de Nivel de Servicio
-grand_parent: Acuerdo de Nivel de Servicio
 ---
 
 # SLA

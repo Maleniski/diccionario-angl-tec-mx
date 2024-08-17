@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Data Lake
+nav_order: 1
 parent: Almacenamiento
 grand_parent: Bases de Datos
 ---

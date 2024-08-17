@@ -1,8 +1,8 @@
 ---
 layout: default
 title: On premise
+nav_order: 5
 parent: Arquitectura de Software
-grand_parent: Arquitectura de Software
 ---
 
 # On premise

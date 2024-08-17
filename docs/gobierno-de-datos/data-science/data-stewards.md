@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Data stewards
+nav_order: 1
 parent: Data Science
 grand_parent: Gobierno de Datos
 ---

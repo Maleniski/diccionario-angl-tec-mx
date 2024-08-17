@@ -1,6 +1,7 @@
 ---
 layout: default
 title: IaC
+nav_order: 1
 parent: Cloud Computing
 grand_parent: DevOps
 ---

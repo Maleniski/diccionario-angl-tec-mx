@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Debuggear, depurar
+nav_order: 5
 parent: Desarrollo de Software
-grand_parent: Desarrollo de Software
 ---
 
 # Debuggear, depurar

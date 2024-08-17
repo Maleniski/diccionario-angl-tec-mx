@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Stopper
+nav_order: 7
 parent: Metodologías Ágiles
-grand_parent: Metodologías Ágiles
 ---
 
 # Stopper

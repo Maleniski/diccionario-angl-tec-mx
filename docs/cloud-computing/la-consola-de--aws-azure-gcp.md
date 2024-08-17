@@ -1,8 +1,8 @@
 ---
 layout: default
 title: La consola de ... (AWS, AZURE, GCP)
+nav_order: 3
 parent: Cloud Computing
-grand_parent: Cloud Computing
 ---
 
 # La consola de ... (AWS, AZURE, GCP)

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Daily
+nav_order: 3
 parent: Metodologías Ágiles
-grand_parent: Metodologías Ágiles
 ---
 
 # Daily

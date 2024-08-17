@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Azúcar sintáctica (syntatic sugar)
+nav_order: 0
 parent: Desarrollo de Software
-grand_parent: Desarrollo de Software
 ---
 
 # Azúcar sintáctica (syntatic sugar)

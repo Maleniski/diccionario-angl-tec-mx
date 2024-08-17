@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Integrar / integración
+nav_order: 2
 parent: DevOps
 grand_parent: Desarrollo de Software
 ---

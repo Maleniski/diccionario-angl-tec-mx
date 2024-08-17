@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Placeholder
+nav_order: 14
 parent: Desarrollo de Software
-grand_parent: Desarrollo de Software
 ---
 
 # Placeholder

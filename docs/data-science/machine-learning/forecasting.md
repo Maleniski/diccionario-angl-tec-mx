@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Forecasting
+nav_order: 10
 parent: Machine Learning
 grand_parent: Data Science
 ---

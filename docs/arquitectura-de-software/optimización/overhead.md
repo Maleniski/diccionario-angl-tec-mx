@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Overhead
+nav_order: 1
 parent: Optimización
 grand_parent: Arquitectura de Software
 ---

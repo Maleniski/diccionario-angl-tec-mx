@@ -1,8 +1,8 @@
 ---
 layout: default
 title: DevOps
+nav_order: 4
 parent: DevOps
-grand_parent: DevOps
 ---
 
 # DevOps

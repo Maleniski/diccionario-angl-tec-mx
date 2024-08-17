@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Base de datos
+nav_order: 0
 parent: Bases de Datos
-grand_parent: Bases de Datos
 ---
 
 # Base de datos

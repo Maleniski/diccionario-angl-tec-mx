@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Matriz de Confusión
+nav_order: 16
 parent: Machine Learning
 grand_parent: Data Science
 ---

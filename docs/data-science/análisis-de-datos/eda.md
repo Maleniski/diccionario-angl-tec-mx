@@ -1,6 +1,7 @@
 ---
 layout: default
 title: EDA
+nav_order: 1
 parent: Análisis de Datos
 grand_parent: Data Science
 ---

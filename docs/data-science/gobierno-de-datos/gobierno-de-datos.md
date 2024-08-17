@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gobierno de datos
+nav_order: 1
 parent: Gobierno de Datos
 grand_parent: Data Science
 ---

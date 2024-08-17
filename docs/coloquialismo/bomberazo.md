@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Bomberazo
+nav_order: 1
 parent: Coloquialismo
-grand_parent: Coloquialismo
 ---
 
 # Bomberazo

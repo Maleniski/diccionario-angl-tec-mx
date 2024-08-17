@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Precisión
+nav_order: 21
 parent: Machine Learning
 grand_parent: Data Science
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Data Lakehouse
+nav_order: 2
 parent: Almacenamiento
 grand_parent: Bases de Datos
 ---

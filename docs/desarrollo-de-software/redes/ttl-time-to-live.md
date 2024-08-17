@@ -1,6 +1,7 @@
 ---
 layout: default
 title: TTL (time to live)
+nav_order: 2
 parent: Redes
 grand_parent: Desarrollo de Software
 ---

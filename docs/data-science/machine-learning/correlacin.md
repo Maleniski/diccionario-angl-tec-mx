@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Correlación
+nav_order: 5
 parent: Machine Learning
 grand_parent: Data Science
 ---

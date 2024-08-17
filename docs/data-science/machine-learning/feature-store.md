@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Feature Store
+nav_order: 9
 parent: Machine Learning
 grand_parent: Data Science
 ---

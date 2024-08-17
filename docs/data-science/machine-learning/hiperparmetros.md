@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hiperparámetros
+nav_order: 12
 parent: Machine Learning
 grand_parent: Data Science
 ---

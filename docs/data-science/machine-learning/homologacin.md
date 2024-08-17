@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Homologación
+nav_order: 13
 parent: Machine Learning
 grand_parent: Data Science
 ---

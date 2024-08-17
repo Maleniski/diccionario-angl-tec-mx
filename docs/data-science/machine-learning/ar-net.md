@@ -1,6 +1,7 @@
 ---
 layout: default
 title: AR-NET
+nav_order: 1
 parent: Machine Learning
 grand_parent: Data Science
 ---

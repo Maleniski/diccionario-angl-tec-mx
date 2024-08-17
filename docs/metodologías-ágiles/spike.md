@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Spike
+nav_order: 5
 parent: Metodologías Ágiles
-grand_parent: Metodologías Ágiles
 ---
 
 # Spike

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Primary, Foreign keys
+nav_order: 4
 parent: Bases de Datos
-grand_parent: Bases de Datos
 ---
 
 # Primary, Foreign keys

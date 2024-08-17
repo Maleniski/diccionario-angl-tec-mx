@@ -1,6 +1,7 @@
 ---
 layout: default
 title: F-Score
+nav_order: 8
 parent: Machine Learning
 grand_parent: Data Science
 ---

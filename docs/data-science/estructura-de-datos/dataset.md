@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dataset
+nav_order: 2
 parent: Estructura de Datos
 grand_parent: Data Science
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pipeline
+nav_order: 1
 parent: CI/CD
 grand_parent: DevOps
 ---

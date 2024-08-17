@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Minuta / minuteando
+nav_order: 3
 parent: Coloquialismo
-grand_parent: Coloquialismo
 ---
 
 # Minuta / minuteando

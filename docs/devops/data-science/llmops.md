@@ -1,6 +1,7 @@
 ---
 layout: default
 title: LLMOps
+nav_order: 1
 parent: Data Science
 grand_parent: DevOps
 ---

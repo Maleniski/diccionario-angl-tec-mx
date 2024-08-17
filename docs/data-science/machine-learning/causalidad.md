@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Causalidad
+nav_order: 2
 parent: Machine Learning
 grand_parent: Data Science
 ---

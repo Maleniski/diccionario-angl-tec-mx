@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Front-end
+nav_order: 2
 parent: Arquitectura de Software
 grand_parent: Desarrollo de Software
 ---

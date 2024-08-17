@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Diccionario de datos
+nav_order: 1
 parent: Data Science
 grand_parent: Bases de Datos
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Plugin
+nav_order: 1
 parent: Extensibilidad
 grand_parent: Desarrollo de Software
 ---

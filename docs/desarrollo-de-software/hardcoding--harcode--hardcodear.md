@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Hardcoding / Harcode / Hardcodear
+nav_order: 12
 parent: Desarrollo de Software
-grand_parent: Desarrollo de Software
 ---
 
 # Hardcoding / Harcode / Hardcodear

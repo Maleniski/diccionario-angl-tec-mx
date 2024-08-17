@@ -1,6 +1,7 @@
 ---
 layout: default
 title: POC
+nav_order: 2
 parent: Desarrollo de Software
 grand_parent: Gestión de Proyectos
 ---

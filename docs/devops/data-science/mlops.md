@@ -1,6 +1,7 @@
 ---
 layout: default
 title: MLOps
+nav_order: 2
 parent: Data Science
 grand_parent: DevOps
 ---

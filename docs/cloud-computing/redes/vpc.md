@@ -1,6 +1,7 @@
 ---
 layout: default
 title: VPC
+nav_order: 1
 parent: Redes
 grand_parent: Cloud Computing
 ---

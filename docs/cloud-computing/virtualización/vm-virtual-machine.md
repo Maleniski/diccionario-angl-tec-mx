@@ -1,6 +1,7 @@
 ---
 layout: default
 title: VM (Virtual Machine)
+nav_order: 1
 parent: Virtualización
 grand_parent: Cloud Computing
 ---

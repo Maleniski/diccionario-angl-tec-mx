@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Imputación
+nav_order: 14
 parent: Machine Learning
 grand_parent: Data Science
 ---

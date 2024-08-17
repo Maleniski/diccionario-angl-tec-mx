@@ -1,8 +1,8 @@
 ---
 layout: default
 title: SP (Store Procedures)
+nav_order: 5
 parent: Bases de Datos
-grand_parent: Bases de Datos
 ---
 
 # SP (Store Procedures)

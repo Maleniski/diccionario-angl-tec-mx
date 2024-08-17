@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Sprint
+nav_order: 6
 parent: Metodologías Ágiles
-grand_parent: Metodologías Ágiles
 ---
 
 # Sprint
