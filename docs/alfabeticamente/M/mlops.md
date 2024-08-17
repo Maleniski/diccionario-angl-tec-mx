@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MLOps
-nav_order: 9
+nav_order: 25
 parent: M
 grand_parent: Alfabéticamente
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Operador morsa
-nav_order: 3
+nav_order: 15
 parent: O
 grand_parent: Alfabéticamente
 ---

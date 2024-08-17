@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Debuggear, depurar
-nav_order: 9
+nav_order: 18
 parent: D
 grand_parent: Alfabéticamente
 ---

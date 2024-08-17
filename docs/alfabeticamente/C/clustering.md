@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clustering
-nav_order: 6
+nav_order: 11
 parent: C
 grand_parent: Alfabéticamente
 ---

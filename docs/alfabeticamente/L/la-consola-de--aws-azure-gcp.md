@@ -1,7 +1,7 @@
 ---
 layout: default
 title: La consola de ... (AWS, AZURE, GCP)
-nav_order: 2
+nav_order: 10
 parent: L
 grand_parent: Alfabéticamente
 ---

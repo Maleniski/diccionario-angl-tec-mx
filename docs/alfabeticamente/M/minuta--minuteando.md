@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Minuta / minuteando
-nav_order: 8
+nav_order: 23
 parent: M
 grand_parent: Alfabéticamente
 ---

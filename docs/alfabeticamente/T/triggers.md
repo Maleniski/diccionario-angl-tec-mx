@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Triggers
-nav_order: 4
+nav_order: 20
 parent: T
 grand_parent: Alfabéticamente
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: F-Score
-nav_order: 2
+nav_order: 6
 parent: F
 grand_parent: Alfabéticamente
 ---

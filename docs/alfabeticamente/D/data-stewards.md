@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data stewards
-nav_order: 6
+nav_order: 12
 parent: D
 grand_parent: Alfabéticamente
 ---

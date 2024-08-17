@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Daily
-nav_order: 2
+nav_order: 4
 parent: D
 grand_parent: Alfabéticamente
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Desplegar, deployar
-nav_order: 10
+nav_order: 20
 parent: D
 grand_parent: Alfabéticamente
 ---

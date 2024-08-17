@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nodo
-nav_order: 2
+nav_order: 12
 parent: N
 grand_parent: Alfabéticamente
 ---

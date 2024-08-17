@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Weekly
-nav_order: 2
+nav_order: 19
 parent: W
 grand_parent: Alfabéticamente
 ---

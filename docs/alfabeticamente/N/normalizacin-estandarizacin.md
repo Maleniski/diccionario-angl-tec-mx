@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Normalización, Estandarización
-nav_order: 3
+nav_order: 14
 parent: N
 grand_parent: Alfabéticamente
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dashboard, tablero
-nav_order: 3
+nav_order: 6
 parent: D
 grand_parent: Alfabéticamente
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Azúcar sintáctica (syntatic sugar)
-nav_order: 11
+nav_order: 19
 parent: A
 grand_parent: Alfabéticamente
 ---

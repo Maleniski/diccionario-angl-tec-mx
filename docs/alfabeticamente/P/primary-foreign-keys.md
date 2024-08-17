@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Primary, Foreign keys
-nav_order: 10
+nav_order: 30
 parent: P
 grand_parent: Alfabéticamente
 ---

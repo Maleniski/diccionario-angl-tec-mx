@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modelo Multivariado
-nav_order: 10
+nav_order: 27
 parent: M
 grand_parent: Alfabéticamente
 ---

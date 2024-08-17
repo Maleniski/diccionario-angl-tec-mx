@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plugin
-nav_order: 5
+nav_order: 20
 parent: P
 grand_parent: Alfabéticamente
 ---

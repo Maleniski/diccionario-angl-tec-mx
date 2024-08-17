@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gobierno de datos
-nav_order: 3
+nav_order: 9
 parent: G
 grand_parent: Alfabéticamente
 ---

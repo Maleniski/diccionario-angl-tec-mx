@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Git
-nav_order: 2
+nav_order: 7
 parent: G
 grand_parent: Alfabéticamente
 ---

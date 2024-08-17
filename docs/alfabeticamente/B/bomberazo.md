@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bomberazo
-nav_order: 7
+nav_order: 12
 parent: B
 grand_parent: Alfabéticamente
 ---

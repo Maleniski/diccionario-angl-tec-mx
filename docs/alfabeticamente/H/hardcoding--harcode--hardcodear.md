@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hardcoding / Harcode / Hardcodear
-nav_order: 3
+nav_order: 10
 parent: H
 grand_parent: Alfabéticamente
 ---

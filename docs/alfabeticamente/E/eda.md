@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EDA
-nav_order: 3
+nav_order: 7
 parent: E
 grand_parent: Alfabéticamente
 ---

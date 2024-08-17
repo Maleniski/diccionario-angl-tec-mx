@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Out of the box sample
-nav_order: 5
+nav_order: 19
 parent: O
 grand_parent: Alfabéticamente
 ---
