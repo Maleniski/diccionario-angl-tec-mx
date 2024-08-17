@@ -2,6 +2,7 @@
 title: Inicio
 layout: home
 nav_order: 1
+permalink: /
 ---
 
 # Bienvenid@ a "Diccionario de Anglicismos y Tecnicismos para Software y Ciencia de Datos en México".
