@@ -3,7 +3,7 @@ title: Inicio
 layout: Inicio
 ---
 
-# Bienvenido a "Anglicismos y Tecnicismos para Software y Ciencia de Datos en México".
+Bienvenido a "Anglicismos y Tecnicismos para Software y Ciencia de Datos en México".
 
 En el dinámico mundo del desarrollo de software y la ciencia de datos, el lenguaje técnico y los anglicismos son parte integral de la comunicación diaria. Sin embargo, para aquellos que se inician en este campo, estos términos pueden resultar abrumadores y difíciles de entender.
 
