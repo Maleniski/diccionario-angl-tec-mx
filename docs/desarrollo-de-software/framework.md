@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Framework
-nav_order: 12
-parent: F
-grand_parent: Alfabéticamente
+nav_order: 8
+parent: Desarrollo de Software
 ---
 
 # Framework

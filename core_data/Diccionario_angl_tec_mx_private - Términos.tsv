@@ -50,7 +50,7 @@ ETL	Bases de Datos	Data Science	Proceso de extracción, transformación y carga 
 F-Score	Data Science	Machine Learning	Métrica que combina la precisión y el recall en un modelo de clasificación para balancear su rendimiento general.	Matriz de Confusión, Precisión
 Feature Store	Data Science	Machine Learning	Repositorio centralizado donde se almacenan, gestionan y reutilizan las características (features) utilizadas en modelos de machine learning.	Vector Database, Hiperparámetros
 Forecasting	Data Science	Machine Learning	Proceso de predicción de valores futuros basados en datos históricos, comúnmente utilizado en finanzas y operaciones.	Backtesting, Clustering
-Framework	Desarrollo de Software	Conjunto de herramientas y bibliotecas que proporcionan una estructura base para el desarrollo de aplicaciones.	Bootstrap, Git	
+Framework	Desarrollo de Software		Conjunto de herramientas y bibliotecas que proporcionan una estructura base para el desarrollo de aplicaciones.	Bootstrap, Git
 Front-end	Desarrollo de Software	Arquitectura de Software	Parte de una aplicación con la que interactúan los usuarios, generalmente a través de una interfaz gráfica.	Back-end, Full-stack
 Ftp	Desarrollo de Software	Redes	Protocolo de transferencia de archivos que permite mover archivos entre sistemas conectados a una red.	VM, VPN
 Full-stack	Desarrollo de Software	Arquitectura de Software	Desarrollador o aplicación que cubre tanto el Front-end como el Back-end.	Front-end, Back-end
